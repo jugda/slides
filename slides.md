@@ -10,13 +10,13 @@ class: center, middle
 ---
 background-color: #ff0000;
 
-## Nächste Events
+## Nächste Events  
 
-&nbsp;
+&nbsp;  
 ### **xx.08.2015**: Cassandra
 ### **xx.09.2015**: Keycloak (Sebastian Rose)
-### **xx.10.2015**: MVC für JavaEE (Thilo Frotscher)
-### **19.11.2015**: Neo4j und jQAssistent (Michael Hunger & Dirk Mahler)
+### **15.10.2015**: MVC für JavaEE (Thilo Frotscher)
+### **19.11.2015**: Neo4j und jQAssistent (Dirk Mahler)
 ### **10.12.2015**: Vert.x 3 - More Reactive Fun! (Jochen Mader)
 
 ---
@@ -25,13 +25,12 @@ background-image: url(img/plakat.png)
 ## Plakat
 
 --
-&nbsp;
-.stripe[Download unter http://jug-da.de/veranstaltungen]
+
+.stripe[Bitte ausdrucken und aufhängen!]
 
 --
 
-&nbsp;
-.stripe[Bitte Ausdrucken und Aufhängen]
+.stripe[http://jug-da.de/veranstaltungen]
 
 ---
 
@@ -55,22 +54,54 @@ background-image: url(img/plakat.png)
 
 ## Wechselnde Veranstaltungsorte
 
-Wir suchen interessierte Firmen, bei denen wir Vorträge veranstalten können.
+&nbsp;  
+&nbsp;  
+Wir suchen interessierte Firmen:
 
-- Raumanforderung: 30+
-- Zeitraum: abends ab 18:30 Uhr
-- Örtlichkeit: Darmstadt (Zentrumsnähe)
+- Raumanforderung: .strong[30+]
+
+- Zeitraum: abends ab .strong[18:30 Uhr]
+
+- Lage: .strong[Darmstadt (Zentrumsnähe)]
+
 - Kontakt: info@jug-da.de
+
+---
+
+## Javaland 2016
+
+![](img/javaland.gif)
+
+&nbsp;  
+- Call for Papers offen bis 18.08.2016
+
+- Newcomer-Programm - Unterstützung durch Mentor
+
+- Anmeldung offen: Early-Bird + iJUG-Rabatt
+
+- http://www.javaland.eu/
 
 ---
 
 ## W-JAX
 
+![](img/jax.png)
+
+&nbsp;  
 - 15 % Rabattcode: “jugda”
 
 - https://jax.de/wjax2015
 
-![](img/jax.png)
+---
+
+## Frankfurter Entwicklertag 2016
+
+![](img/entwicklertag.png)
+
+&nbsp;  
+- 10./11.03.2016
+
+- http://entwicklertag.de/frankfurt/2016/
 
 ---
 
@@ -111,6 +142,10 @@ Falk</textarea>
 <br/><button onClick="nextWinner()">Nächster Gewinner</button>
 
 <div id="winner" style="color:red; font-size:1.5em; font-align:center;margin-top:50px;"></div>
+
+???
+
+Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ---
 
