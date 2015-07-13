@@ -5,7 +5,6 @@ layout: true
 class: center, middle
 
 # Aktuelle Informationen
-## JUG Darmstadt @![IT FOR WORK](http://www.it-for-work.de/contentblob/2062390/.4./logo_handelskammer.png/data.png)
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
 
 ---
@@ -14,11 +13,11 @@ background-color: #ff0000;
 ## Nächste Events
 
 &nbsp;
-### **16.07.2015**: Anatomy of Microservice Landscapes (Michael Plöd)
-### **xx.08.2015**: <span style="color:red">noch offen</span>
-### **xx.09.2015**: <span style="color:red">noch offen</span>
+### **xx.08.2015**: Cassandra
+### **xx.09.2015**: Keycloak (Sebastian Rose)
 ### **xx.10.2015**: MVC für JavaEE (Thilo Frotscher)
 ### **19.11.2015**: Neo4j und jQAssistent (Michael Hunger & Dirk Mahler)
+### **10.12.2015**: Vert.x 3 - More Reactive Fun! (Jochen Mader)
 
 ---
 background-image: url(img/plakat.png)
@@ -27,7 +26,7 @@ background-image: url(img/plakat.png)
 
 --
 &nbsp;
-.stripe[Download unter http://jug-da.de/termine]
+.stripe[Download unter http://jug-da.de/veranstaltungen]
 
 --
 
@@ -45,7 +44,7 @@ background-image: url(img/plakat.png)
 
 ### **Blog** (Ankündigungen, Anmeldungen): http://jug-da.de
 
-### **Mailingliste**: http://groups.google.com/forum/#!forum/jug-da
+### **Mailingliste**: https://groups.google.com/d/forum/jug-da
 
 --
 
@@ -61,16 +60,7 @@ Wir suchen interessierte Firmen, bei denen wir Vorträge veranstalten können.
 - Raumanforderung: 30+
 - Zeitraum: abends ab 18:30 Uhr
 - Örtlichkeit: Darmstadt (Zentrumsnähe)
-- Kontakt: jug-da-orga@googlegroups.com
-
----
-
-## Code Retreat
-
-- 04.07.2015, 9 - 17 Uhr
-- Frankfurt, Die Zentrale, Berger Str. 175
-- kostenlos
-- Anmeldung: https://www.xing.com/events/code-retreat-workshop-frankfurt-1564912
+- Kontakt: info@jug-da.de
 
 ---
 
