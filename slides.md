@@ -74,7 +74,7 @@ Wir suchen interessierte Firmen:
 ![](img/javaland.gif)
 
 &nbsp;  
-- Call for Papers offen bis 18.08.2016
+- Call for Papers offen bis 18.08.2015
 
 - Newcomer-Programm - Unterstützung durch Mentor
 
