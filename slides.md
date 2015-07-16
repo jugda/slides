@@ -13,11 +13,12 @@ background-color: #ff0000;
 ## Nächste Events  
 
 &nbsp;  
-### **xx.08.2015**: Cassandra
-### **xx.09.2015**: Keycloak (Sebastian Rose)
+### **xx.08.2015**: ???
+### **23.09.2015**: Keycloak (Sebastian Rose)
 ### **15.10.2015**: MVC für JavaEE (Thilo Frotscher)
 ### **19.11.2015**: Neo4j und jQAssistent (Dirk Mahler)
 ### **10.12.2015**: Vert.x 3 - More Reactive Fun! (Jochen Mader)
+### **14.01.2016**: Clean Architecture mit Java (Mark Paluch)
 
 ---
 background-image: url(img/plakat.png)
