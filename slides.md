@@ -155,4 +155,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+![Hotzenplotz](img/kneipe.png) oder [Herrngartencafe](http://herrngartencafe.de/)
