@@ -1,7 +1,7 @@
 # slides
 ## Info-Folien für Vorträge der JUG Darmstadt
 
-- siehe http://jugda.github.io/slides/pretalk.html
+- siehe http://jugda.github.io/slides/
 - umgesetzt mit [Remark](https://github.com/gnab/remark/) (Demo: http://remarkjs.com/)
 - man kann auf der ersten Folie die Checkbox anhaken für eine Slideshow
 - auf der vorletzten Folie gibt es eine einfache Javascript-Verlosung
