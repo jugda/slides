@@ -75,6 +75,8 @@ Wir suchen interessierte Firmen:
 &nbsp;  
 - Call for Papers offen bis 18.08.2015
 
+- Reviewer gesucht (Bewertung bis 01.09.2015), bitte sprecht uns an!
+
 - Anmeldung offen: Early-Bird + iJUG-Rabatt
 
 - http://www.javaland.eu/
