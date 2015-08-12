@@ -142,7 +142,11 @@ Niko
 Sebastian
 Falk</textarea>
 
-<br/><button onClick="nextWinner()">Nächster Gewinner</button>
+<br/>
+<div>
+    <button onClick="nextWinner()">Nächster Gewinner</button>
+    <button onClick="document.getElementById('winner').innerHTML = '';">Reset</button>
+</div>
 
 <div id="winner" style="color:red; font-size:1.5em; font-align:center;margin-top:50px;"></div>
 
