@@ -12,8 +12,6 @@ background-color: #ff0000;
 
 ## Nächste Events  
 
-### **27.08.2015**: 2. Darmstädter JUG Barbecue, .red[Oberförsterwiese]
-### **23.09.2015**: Keycloak (Sebastian Rose), .red[IHK Darmstadt]
 ### **15.10.2015**: MVC für JavaEE (Thilo Frotscher), .red[Accso GmbH]
 ### **19.11.2015**: Neo4j und jQAssistent (Dirk Mahler)
 ### **10.12.2015**: Vert.x 3 (Jochen Mader), .red[CoSee GmbH]
@@ -24,19 +22,13 @@ background-image: url(img/plakat.png)
 
 ## Plakat
 
---
-
 .stripe[Bitte ausdrucken und aufhängen!]
-
---
 
 .stripe[http://jug-da.de/veranstaltungen]
 
 ---
 
 ## Unsere Kanäle
-
---
 
 &nbsp;
 ### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
@@ -48,7 +40,7 @@ background-image: url(img/plakat.png)
 --
 
 &nbsp;
-#### **und noch mehr**: Xing-Gruppe, Google+: http://gplus.to/jugda, ...
+#### **alle anderen werden NICHT MEHR regelmäßig gepflegt**: Xing-Gruppe, Google+: http://gplus.to/jugda, ...
 
 ---
 
@@ -72,12 +64,10 @@ Wir suchen interessierte Firmen:
 
 ![](img/javaland.gif)
 
-&nbsp;  
-- Call for Papers offen bis 18.08.2015
+&nbsp;
+- Programm steht: http://dukecon.org/javaland  
 
-- Reviewer gesucht (Bewertung bis 01.09.2015), bitte sprecht uns an!
-
-- Anmeldung offen: Early-Bird + iJUG-Rabatt
+- Anmeldung offen: Early-Bird + iJUG-Rabatt  
 
 - http://www.javaland.eu/
 
@@ -100,8 +90,6 @@ Wir suchen interessierte Firmen:
 
 &nbsp;  
 - 10./11.03.2016
-
-- CfP offen bis 20.09.2015
 
 - http://entwicklertag.de/frankfurt/2016/
 
@@ -161,4 +149,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![Hotzenplotz](img/kneipe.png) oder [Herrngartencafe](http://herrngartencafe.de/)
+Heute bleiben wir einfach hier. Vielen Dank an die IHK Darmstadt für Speis und Trank.
