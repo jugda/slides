@@ -60,7 +60,12 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## Javaland 2016
+## JavaLand 2016
+<img src="img/javaland_ijug.png" width="100%"/>
+
+---
+
+## JavaLand 2016
 
 ![](img/javaland.gif)
 
