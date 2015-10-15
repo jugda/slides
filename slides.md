@@ -12,18 +12,18 @@ background-color: #ff0000;
 
 ## Nächste Events  
 
-### **15.10.2015**: MVC für JavaEE (Thilo Frotscher), .red[Accso GmbH]
 ### **19.11.2015**: Neo4j und jQAssistent (Dirk Mahler)
 ### **10.12.2015**: Vert.x 3 (Jochen Mader), .red[CoSee GmbH]
 ### **14.01.2016**: Clean Architecture mit Java (Mark Paluch)
-###### Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.
+### &nbsp;
+### **2016**: viele spannende Vorträge in der Planung
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 ---
 background-image: url(img/plakat.png)
 
 ## Plakat
 
 .stripe[Bitte ausdrucken und aufhängen!]
-
 .stripe[http://jug-da.de/veranstaltungen]
 
 ---
@@ -59,22 +59,13 @@ Wir suchen interessierte Firmen:
 - Kontakt: info@jug-da.de
 
 ---
+background-image: url(img/javaland_ijug.png)
 
-## JavaLand 2016
-<img src="img/javaland_ijug.png" width="100%"/>
+--
 
----
-
-## JavaLand 2016
-
-![](img/javaland.gif)
-
-&nbsp;
-- Programm steht: http://dukecon.org/javaland  
-
-- Anmeldung offen: Early-Bird + iJUG-Rabatt  
-
-- http://www.javaland.eu/
+.stripe[http://dukecon.org/javaland]
+.stripe[Early-Bird + iJUG-Rabatt]
+.stripe[http://www.javaland.eu/]
 
 ---
 
@@ -98,6 +89,8 @@ Wir suchen interessierte Firmen:
 
 - http://entwicklertag.de/frankfurt/2016/
 
+- Verlosung einer Freikarte
+
 ---
 
 ## Vielen Dank an unsere Sponsoren
@@ -119,6 +112,7 @@ Wir suchen interessierte Firmen:
 ![:scale 20%](img/sponsors/innoq.png)
 ![:scale 20%](img/sponsors/nterra.png)
 ![:scale 20%](img/sponsors/cosee.png)
+![:scale 20%](img/sponsors/entwicklertag.png)
 
 ---
 
@@ -154,4 +148,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Heute bleiben wir einfach hier. Vielen Dank an die IHK Darmstadt für Speis und Trank.
+Heute bleiben wir einfach hier. Vielen Dank an Accso.

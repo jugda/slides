@@ -37,7 +37,7 @@
         font-size: 0.5em;
       }
       .footnote {
-        font-size: 0.5em;
+        font-size: 0.8em;
         position: absolute;
         right: 20px;
         bottom: 50px;
@@ -48,6 +48,7 @@
         bottom: 12px
       }
       .stripe {
+        color: darkgreen;
         font-size: 1.5em;
         background-color: yellow;
         border: 3px black solid;
@@ -55,6 +56,13 @@
         display:inline-block;
         margin-top: 30px;
         font-weight: bold;
+      }
+      .stripe:first-child {
+        margin-top: 200px;
+      }
+      .stripe > a {
+        color: darkgreen;
+        text-decoration: none;
       }
       img {
         vertical-align: middle;
@@ -68,7 +76,7 @@
     </style>
   </head>
   <body>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
+    <script src="js/remark-latest.min.js">
     </script>
     <script>
       function resizeLotteryInput(shrink) {
