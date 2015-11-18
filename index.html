@@ -127,6 +127,14 @@
         var winner = array[Math.floor(Math.random() * array.length)];
         document.getElementById('winner').innerHTML = winner;
       }
+
+      function resetLottery() {
+        document.getElementById('winner').innerHTML = '';
+      }
+
+      slideshow.on('showSlide', function (slide) {
+        resetLottery();
+      });
     </script>
   </body>
 </html>

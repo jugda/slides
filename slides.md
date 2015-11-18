@@ -12,11 +12,10 @@ background-color: #ff0000;
 
 ## Nächste Events  
 
-### **19.11.2015**: Neo4j und jQAssistent (Dirk Mahler)
 ### **10.12.2015**: Vert.x 3 (Jochen Mader), .red[CoSee GmbH]
 ### **14.01.2016**: Clean Architecture mit Java (Mark Paluch)
 ### &nbsp;
-### **2016**: viele spannende Vorträge in der Planung
+### **2016**: viele spannende Vorträge in der Planung: **Stefan Toth, Kai Spichale, Agim Emruli, Elmar Jürgens, Stefan Schlott, Stefan Tilkov, Lars Röwekamp, Jens Deters**
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 ---
 background-image: url(img/plakat.png)
@@ -69,17 +68,6 @@ background-image: url(img/javaland_ijug.png)
 
 ---
 
-## W-JAX
-
-![](img/jax.png)
-
-&nbsp;  
-- 15 % Rabattcode: “jugda”
-
-- https://jax.de/wjax2015
-
----
-
 ## Frankfurter Entwicklertag 2016
 
 ![](img/entwicklertag.png)
@@ -90,6 +78,17 @@ background-image: url(img/javaland_ijug.png)
 - http://entwicklertag.de/frankfurt/2016/
 
 - Verlosung einer Freikarte
+
+---
+
+## JAX 2016
+
+![](img/jax.png)
+
+&nbsp;  
+- 15 % Rabattcode: “jugda”
+
+- https://jax.de
 
 ---
 
@@ -132,7 +131,7 @@ Falk</textarea>
 <br/>
 <div>
     <button onClick="nextWinner()">Nächster Gewinner</button>
-    <button onClick="document.getElementById('winner').innerHTML = '';">Reset</button>
+    <button onClick="resetLottery()">Reset</button>
 </div>
 
 <div id="winner" style="color:red; font-size:1.5em; font-align:center;margin-top:50px;"></div>
@@ -148,4 +147,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Heute bleiben wir einfach hier. Vielen Dank an Accso.
+![](img/kneipe.png)
