@@ -86,7 +86,7 @@ background-image: url(img/javaland_ijug.png)
 ![](img/jax.png)
 
 &nbsp;  
-- 15 % Rabattcode: “jugda”
+- 15 % Rabattcode (Schickt eine Mail an orga@jug-da.de)
 
 - https://jax.de
 
