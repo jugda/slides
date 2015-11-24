@@ -10,13 +10,29 @@ class: center, middle
 ---
 background-color: #ff0000;
 
-## Nächste Events  
+## Nächste Events (1) 
 
-### **10.12.2015**: Vert.x 3 (Jochen Mader), .red[CoSee GmbH]
 ### **14.01.2016**: Clean Architecture mit Java (Mark Paluch)
-### &nbsp;
-### **2016**: viele spannende Vorträge in der Planung: **Stefan Toth, Kai Spichale, Agim Emruli, Elmar Jürgens, Stefan Schlott, Stefan Tilkov, Lars Röwekamp, Jens Deters**
+### **03.02.2016**: Microservices mit Spring Boot (Josh Long)
+### **10.03.2016**: noch offen (Sprecher von der Javaland)
+### **14.04.2016**: Hack that website! (Stefan Schlott)
+### **12.05.2016**: Resilience (Agim Emruli)
+### **09.06.2016**: Umgekehrte Architekturbewertung (Stefan Toth)
+
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+
+---
+background-color: #ff0000;
+
+## Nächste Events (2)
+
+### **14.07.2016**: API-Design (Kai Spichale)
+### **04.08.2016**: JavaFX und IoT (Jens Deters)
+### **08.09.2016**: noch offen (Stefan Tilkov)
+### **13.10.2016**: Qualitätsanaylse/-verbesserung (Elmar Jürgens)
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+
 ---
 background-image: url(img/plakat.png)
 
