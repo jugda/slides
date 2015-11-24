@@ -30,6 +30,8 @@ background-color: #ff0000;
 ### **04.08.2016**: JavaFX und IoT (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
 ### **13.10.2016**: Qualitätsanaylse/-verbesserung (Elmar Jürgens)
+### **10.11.2016**: Microservices/Java EE (Lars Röwekamp)
+### **08.12.2016**: noch offen
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
