@@ -13,11 +13,11 @@ background-color: #ff0000;
 ## Nächste Events (1) 
 
 ### **14.01.2016**: Clean Architecture mit Java (Mark Paluch)
-### **03.02.2016**: Microservices mit Spring Boot (Josh Long)
+### **18.02.2016**: Hack that website! (Stefan Schlott)
 ### **10.03.2016**: noch offen (Sprecher von der Javaland)
-### **14.04.2016**: Hack that website! (Stefan Schlott)
-### **12.05.2016**: Resilience (Agim Emruli)
-### **09.06.2016**: Umgekehrte Architekturbewertung (Stefan Toth)
+### **21.04.2016**: Spring * [Boot|Cloud] (Josh Long)
+### **12.05.2016**: Robuste Cloud Architekturen (Agim Emruli)
+### **09.06.2016**: Netflix durch die Architektenbrille (Stefan Toth)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -27,13 +27,24 @@ background-color: #ff0000;
 ## Nächste Events (2)
 
 ### **14.07.2016**: API-Design (Kai Spichale)
-### **04.08.2016**: JavaFX und IoT (Jens Deters)
+### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
-### **13.10.2016**: Qualitätsanaylse/-verbesserung (Elmar Jürgens)
-### **10.11.2016**: Microservices/Java EE (Lars Röwekamp)
+### **13.10.2016**: Qualitätsanalyse/-verbesserung (Elmar Jürgens)
+### **10.11.2016**: "Multi-Channel"-Architektur (Lars Röwekamp)
 ### **08.12.2016**: noch offen
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+
+---
+
+## Abstimmen für Josh Longs Vortrag im April
+
+--
+
+.beam["BOOTIFUL" APPLICATIONS WITH SPRING BOOT]  
+.beam[GETTING STARTED WITH SPRING CLOUD] 
+
+Abstimmung folgt in Kürze auf Twitter und Mailingliste 
 
 ---
 background-image: url(img/plakat.png)
@@ -41,7 +52,7 @@ background-image: url(img/plakat.png)
 ## Plakat
 
 .stripe[Bitte ausdrucken und aufhängen!]
-.stripe[http://jug-da.de/veranstaltungen]
+.stripe[neu: http://jug-da.de/plakat]
 
 ---
 
@@ -165,4 +176,7 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+.center[![](img/sponsors/cosee.png)]  
+
+Heute bleiben wir einfach hier. Vielen Dank an Cosee.
+
