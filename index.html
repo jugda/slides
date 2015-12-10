@@ -128,6 +128,7 @@
 
       enableAutoSlideshow("autoSlideshow", 5000);
 
+      var players = document.getElementById("attendees").value.split("\n");
 
       document.getElementById('showAttendees').onclick=function(e){
         if(!e.target.checked) {
@@ -138,13 +139,18 @@
       }
 
       function nextWinner() {
-        var array = document.getElementById("attendees").value.split("\n");
-        var winner = array[Math.floor(Math.random() * array.length)];
-        document.getElementById('winner').innerHTML = winner;
+        if (players.length < 1) {
+          document.getElementById('winner').innerHTML = "Teilnehmer-Liste ist leer!";
+          return;
+        }
+        var winner = Math.floor(Math.random() * players.length);
+        document.getElementById('winner').innerHTML = players[winner];
+        players.splice(winner, 1);
       }
 
       function resetLottery() {
         document.getElementById('winner').innerHTML = '';
+        players = document.getElementById("attendees").value.split("\n");
       }
 
       slideshow.on('showSlide', function (slide) {
