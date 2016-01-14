@@ -13,11 +13,11 @@ background-color: #ff0000;
 ## Nächste Events (1) 
 
 ### **18.02.2016**: .red[Hack that website!] (Stefan Schlott)
+### **05.03.2016**: .red[DukeCon Hacking Day]
 ### **10.03.2016**: TomEE oder ? .red[*] (David Blevins)
 ### **20./21.04.2016**: Spring Cloud (Josh Long)
 ### **12.05.2016**: .red[Robuste Cloud Architekturen] (Agim Emruli)
 ### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
-### **14.07.2016**: API-Design (Kai Spichale)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -26,6 +26,7 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
+### **14.07.2016**: API-Design (Kai Spichale)
 ### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
 ### **13.10.2016**: Qualitätsanalyse/-verbesserung (Elmar Jürgens)
@@ -74,6 +75,20 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
+
+---
+
+## DukeCon Hacking Day
+
+- Javaland-Konferenzplanner: http://dukecon.org/
+
+- .strong[05.03.2016] ganztägig im .strong[codecentric-Büro] in Frankfurt
+
+- Was wir tun wollen:
+  - Implementierung weiterer Features
+  - neue Clients und Smartphone-Apps
+
+- Technologie-Zoo: Spring Boot, Docker, HTML5, Knockoutjs, Flex, Jasmine, Meteor, KeyCloak, Offline-Fähigkeit, Browser-Caching, localStorage, Cordova, Android, iOS, Groovy, REST, Jackson, Lombok, Continuous Integration/Delivery, ElasticSearch/Logstash/Kibana, JPA, Maven, Jenkins, Nexus, Puppet, Vagrant, Selenium, JGiven und vieles andere mehr
 
 ---
 background-image: url(img/javaland_ijug.png)
