@@ -14,7 +14,7 @@ background-color: #ff0000;
 
 ### **05.03.2016**: .red[DukeCon Hacking Day]
 ### **10.03.2016**: Java EE, Extendable to Functional (David Blevins)
-### **20./21.04.2016**: Spring Cloud (Josh Long)
+### **21.04.2016**: .red[Spring Cloud] (Josh Long)
 ### **12.05.2016**: .red[Robuste Cloud Architekturen] (Agim Emruli)
 ### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
 ### **14.07.2016**: API-Design (Kai Spichale)
@@ -28,7 +28,7 @@ background-color: #ff0000;
 
 ### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
-### **13.10.2016**: Qualitätsanalyse/-verbesserung (Elmar Jürgens)
+### **13.10.2016**: .red[Qualitätsanalyse/-verbesserung] (Elmar Jürgens)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 ### **08.12.2016**: noch offen
 
