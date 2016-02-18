@@ -143,6 +143,7 @@ background-image: url(img/javaland_ijug.png)
 ![:scale 20%](img/sponsors/innoq.png)
 ![:scale 20%](img/sponsors/nterra.png)
 ![:scale 20%](img/sponsors/cosee.png)
+![:scale 20%](img/sponsors/telekom.png)
 ![:scale 20%](img/sponsors/entwicklertag.png)
 
 ---
@@ -179,5 +180,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+Heute bleiben wir einfach hier. Vielen Dank an die Telekom.
 
+.center[![](img/sponsors/telekom.png)]  
