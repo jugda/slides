@@ -12,12 +12,11 @@ background-color: #ff0000;
 
 ## Nächste Events (1) 
 
-### **05.03.2016**: .red[DukeCon Hacking Day]
-### **10.03.2016**: Java EE, Extendable to Functional (David Blevins)
 ### **21.04.2016**: .red[Spring Cloud] (Josh Long)
 ### **12.05.2016**: .red[Robuste Cloud Architekturen] (Agim Emruli)
 ### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
 ### **14.07.2016**: API-Design (Kai Spichale)
+### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -26,7 +25,6 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
-### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
 ### **13.10.2016**: .red[Qualitätsanalyse/-verbesserung] (Elmar Jürgens)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
@@ -45,19 +43,14 @@ background-image: url(img/plakat.png)
 
 ---
 
-## Unsere Kanäle
+## Unsere wichtigsten Kanäle
 
 &nbsp;
 ### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
 
-### **Blog** (Ankündigungen, Anmeldungen): http://jug-da.de
+### **Blog** (Ankündigungen): http://jug-da.de
 
 ### **Mailingliste**: https://groups.google.com/d/forum/jug-da
-
---
-
-&nbsp;
-#### **alle anderen werden NICHT MEHR regelmäßig gepflegt**: Xing-Gruppe, Google+: http://gplus.to/jugda, ...
 
 ---
 
@@ -77,39 +70,10 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## DukeCon Hacking Day
-
-- Javaland-Konferenzplanner: http://dukecon.org/
-
-- .strong[05.03.2016] ganztägig im .strong[codecentric-Büro] in Frankfurt
-
-- Was wir tun wollen:
-  - Implementierung weiterer Features
-  - neue Clients und Smartphone-Apps
-
-- Technologie-Zoo: Spring Boot, Docker, HTML5, Knockoutjs, Flex, Jasmine, Meteor, KeyCloak, Offline-Fähigkeit, Browser-Caching, localStorage, Cordova, Android, iOS, Groovy, REST, Jackson, Lombok, Continuous Integration/Delivery, ElasticSearch/Logstash/Kibana, JPA, Maven, Jenkins, Nexus, Puppet, Vagrant, Selenium, JGiven und vieles andere mehr
-
----
 background-image: url(img/javaland_ijug.png)
 
---
-
-.stripe[http://dukecon.org/javaland]
-.stripe[Early-Bird + iJUG-Rabatt]
-.stripe[http://www.javaland.eu/]
-
----
-
-## Frankfurter Entwicklertag 2016
-
-![](img/entwicklertag.png)
-
-&nbsp;  
-- 10./11.03.2016
-
-- http://entwicklertag.de/frankfurt/2016/
-
-- Verlosung einer Freikarte
+.stripe[Rückblick 2016]
+.stripe[Viele Vorträge, tolles Rahmenprogramm, große Community, ...]
 
 ---
 
@@ -180,6 +144,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Heute bleiben wir einfach hier. Vielen Dank an die Telekom.
-
-.center[![](img/sponsors/telekom.png)]  
+![](img/kneipe.png)
