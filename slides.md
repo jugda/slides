@@ -12,7 +12,6 @@ background-color: #ff0000;
 
 ## Nächste Events (1) 
 
-### **21.04.2016**: .red[Spring Cloud] (Josh Long)
 ### **12.05.2016**: .red[Robuste Cloud Architekturen] (Agim Emruli)
 ### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
 ### **14.07.2016**: API-Design (Kai Spichale)
@@ -142,6 +141,5 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 ## Viel Spaß beim Vortrag
 
 &nbsp;
-### Nach dem Vortrag ist vor dem Stammtisch
-
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+.center[![](img/sponsors/accso.png)]  
