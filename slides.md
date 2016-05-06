@@ -13,6 +13,7 @@ background-color: #ff0000;
 ## Nächste Events (1) 
 
 ### **12.05.2016**: .red[Robuste Cloud Architekturen] (Agim Emruli)
+### **18.05.2016**: "ToTP or Not ToTP" + "Lombok" (R. Zwitserloot + R. Spilker)
 ### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
 ### **14.07.2016**: API-Design (Kai Spichale)
 ### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
@@ -66,6 +67,20 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
+sus_jes.jpg
+---
+
+## Java Enterprise Summit und Microservices Summit
+
+![](img/sus_jes.jpg)
+
+http://www.javaenterprisesummit.de 
+
+![](img/sus_mss.jpg)
+
+http://www.microservices-summit.de
+
+### 15 % Rabattcode (Mail an orga@jug-da.de)
 
 ---
 
