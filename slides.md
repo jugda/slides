@@ -138,5 +138,5 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 ## Viel Spaß beim Vortrag
 
 &nbsp;
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
-.center[![](img/sponsors/accso.png)]  
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT FOR WORK für Speis und Trank.
+.center[![](img/sponsors/itforwork.png)]  
