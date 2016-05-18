@@ -16,7 +16,7 @@ background-color: #ff0000;
 ### **14.07.2016**: API-Design (Kai Spichale)
 ### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
-### **13.10.2016**: .red[Qualitätsanalyse/-verbesserung] (Elmar Jürgens)
+### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
