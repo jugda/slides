@@ -12,11 +12,11 @@ background-color: #ff0000;
 
 ## Nächste Events (1) 
 
-### **09.06.2016**: .red[Netflix durch die Architektenbrille] (Stefan Toth)
 ### **14.07.2016**: API-Design (Kai Spichale)
-### **04.08.2016**: Glue for the Internet of Things (Jens Deters)
+### **04.08.2016**: .red[Glue for the Internet of Things] (Jens Deters)
 ### **08.09.2016**: noch offen (Stefan Tilkov)
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
+### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -25,7 +25,6 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
-### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 ### **08.12.2016**: noch offen (Adam Bien)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 
