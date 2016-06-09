@@ -12,11 +12,11 @@ background-color: #ff0000;
 
 ## Nächste Events (1) 
 
+### **28.06.2016**: .red[An Evening of OSGi] (OSGi Expert Groups)
 ### **14.07.2016**: API-Design (Kai Spichale)
 ### **04.08.2016**: .red[Glue for the Internet of Things] (Jens Deters)
-### **08.09.2016**: noch offen (Stefan Tilkov)
+### **08.09.2016**: UI in Microservices (Stefan Tilkov)
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
-### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -25,10 +25,23 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
+### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 ### **08.12.2016**: noch offen (Adam Bien)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+
+---
+
+## An Evening of OSGi
+
+![](https://www.osgi.org/wp-content/uploads/OSGi-Header-Logo-e1463514096111.jpg)
+
+### 6 Mitglieder von OSGi-Expertengruppen (Peter Kriens, ...)
+### 4 Vorträge a 20 Minuten
+### .red[Dienstag, 28.06.2016 um 18:30 Uhr]
+### .red[Deutsche Telekom, T-Online-Allee 1, Darmstadt]
+### [Anmeldung auf jug-da.de!!!](http://jug-da.de/2016/06/OSGi-special/)
 
 ---
 
@@ -103,6 +116,7 @@ http://www.microservices-summit.de
 ![:scale 20%](img/sponsors/cosee.png)
 ![:scale 20%](img/sponsors/telekom.png)
 ![:scale 20%](img/sponsors/entwicklertag.png)
+![:scale 20%](img/sponsors/gi.png)
 
 ---
 
@@ -138,4 +152,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+Heute bleiben wir einfach hier. Vielen Dank an die [Gesellschaft für Informatik - Regionalgruppe Rhein-Main](http://rg-rhein-main.gi.de/).  
+
+.center[![](img/sponsors/gi.png)]  
