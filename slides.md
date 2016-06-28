@@ -126,7 +126,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Heute bleiben wir einfach hier. Vielen Dank an [Deutsche Telekom](http://www.telekom.de/) und [QAWARE](http://www.qaware.de/).  
+Nach dem Vortrag gehen wir ins [4cani](http://www.4cani.com/darmstadt/), direkt neben dem Hauptbahnhof (Westseite).
+
+Vielen Dank an [Deutsche Telekom](http://www.telekom.de/) und [QAWARE](http://www.qaware.de/).  
 
 .center[![](img/sponsors/telekom.png)]  
 .center[![](img/sponsors/qaware.png)]  
