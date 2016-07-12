@@ -12,9 +12,9 @@ background-color: #ff0000;
 
 ## Nächste Events (1) 
 
-### **14.07.2016**: API-Design (Kai Spichale)
 ### **04.08.2016**: .red[Glue for the Internet of Things] (Jens Deters)
-### **08.09.2016**: UI in Microservices (Stefan Tilkov)
+### **xx.08.2016**: .red[Grillfeier]
+### **14.09.2016**: UI in Microservices (Stefan Tilkov)
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 
@@ -65,6 +65,30 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
+
+---
+
+## Javaland 2017
+
+![](img/javaland.gif)
+
+&nbsp;  
+- Call for Papers offen bis 16.08.2016
+
+- Newcomer-Programm - Anmeldung bis 27.07.2016
+
+- http://www.javaland.eu/
+
+---
+
+## W-JAX
+
+![](img/jax.png)
+
+&nbsp;  
+- 15 % Rabattcode
+
+- https://jax.de
 
 ---
 
@@ -126,9 +150,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Nach dem Vortrag gehen wir ins [4cani](http://www.4cani.com/darmstadt/), direkt neben dem Hauptbahnhof (Westseite).
-
-Vielen Dank an [Deutsche Telekom](http://www.telekom.de/) und [QAWARE](http://www.qaware.de/).  
-
-.center[![](img/sponsors/telekom.png)]  
-.center[![](img/sponsors/qaware.png)]  
+![](img/kneipe.png)
