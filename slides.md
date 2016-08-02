@@ -77,7 +77,7 @@ Wir suchen interessierte Firmen:
 ![](img/javaland.gif)
 
 &nbsp;  
-- 28. - 30.03.2017, Phantasialand Brühl
+- 28./29.03.2017, Phantasialand Brühl
 
 - Call for Papers offen bis 16.08.2016
 
