@@ -10,21 +10,12 @@ class: center, middle
 ---
 background-color: #ff0000;
 
-## Nächste Events (1) 
+## Nächste Events
 
-### **04.08.2016**: .red[Glue for the Internet of Things] (Jens Deters)
-### **xx.08.2016**: .red[Grillfeier]
 ### **14.09.2016**: UI in Microservices (Stefan Tilkov)
+### **21. oder 22.09.2016**: .red[Grillfeier]
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
-
----
-background-color: #ff0000;
-
-## Nächste Events (2)
-
 ### **08.12.2016**: noch offen (Adam Bien)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 
@@ -68,14 +59,27 @@ Wir suchen interessierte Firmen:
 
 ---
 
+## Entwicklertag Frankfurt 2017
+
+![](img/entwicklertag.png)
+
+&nbsp;  
+- 16./17.02.2017, Universität Frankfurt - Campus Westend
+
+- Call for Papers offen bis 25.09.2016
+
+- https://entwicklertag.de/frankfurt/2017
+
+---
+
 ## Javaland 2017
 
 ![](img/javaland.gif)
 
 &nbsp;  
-- Call for Papers offen bis 16.08.2016
+- 28. - 30.03.2017, Phantasialand Brühl
 
-- Newcomer-Programm - Anmeldung bis 27.07.2016
+- Call for Papers offen bis 16.08.2016
 
 - http://www.javaland.eu/
 
@@ -150,4 +154,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+Heute bleiben wir einfach hier. Vielen Dank an die nterra.
+  		  
+.center[![](img/sponsors/nterra.png)] 
