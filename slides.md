@@ -24,7 +24,7 @@ background-color: #ff0000;
 
 ## 3. Darmstädter JUG Barbecue Stammtisch am 21.09.2016
 
-![](img/grillplatz.jpg)
+![:scale 50%](img/grillplatz.jpg)
 
 Wir besorgen den Grillplatz, Getränke, Brot, Salate usw. (bitte bald anmelden)
 
