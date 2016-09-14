@@ -12,11 +12,10 @@ background-color: #ff0000;
 
 ## Nächste Events
 
-### **14.09.2016**: UI in Microservices (Stefan Tilkov)
-### **21. oder 22.09.2016**: .red[Grillfeier]
+### **21..09.2016**: .red[Grillfeier] an der Oberförsterwiese
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
-### **08.12.2016**: noch offen (Adam Bien)
+### **08.12.2016**: Emerging Java EE Microservice Patterns (Adam Bien)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
@@ -59,6 +58,18 @@ Wir suchen interessierte Firmen:
 
 ---
 
+##  Software Architecture Summit		
+		
+![](img/sus_sas.png)		
+		
+http://software-architecture-summit.de/
+
+26. - 28.09.2016 in Berlin
+		
+### 15 % Rabattcode (Mail an orga@jug-da.de)
+
+---
+
 ## Entwicklertag Frankfurt 2017
 
 ![](img/entwicklertag.png)
@@ -66,7 +77,7 @@ Wir suchen interessierte Firmen:
 &nbsp;  
 - 16./17.02.2017, Universität Frankfurt - Campus Westend
 
-- Call for Papers offen bis 25.09.2016
+- Call for Papers .red[noch] offen bis 25.09.2016
 
 - https://entwicklertag.de/frankfurt/2017
 
@@ -79,8 +90,6 @@ Wir suchen interessierte Firmen:
 &nbsp;  
 - 28./29.03.2017, Phantasialand Brühl
 
-- Call for Papers offen bis 16.08.2016
-
 - http://www.javaland.eu/
 
 ---
@@ -90,7 +99,7 @@ Wir suchen interessierte Firmen:
 ![](img/jax.png)
 
 &nbsp;  
-- 15 % Rabattcode
+- 15 % Rabattcode (Mail an orga@jug-da.de)
 
 - https://jax.de
 
@@ -154,6 +163,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-Heute bleiben wir einfach hier. Vielen Dank an die nterra.
-  		  
-.center[![](img/sponsors/nterra.png)] 
+![](img/kneipe.png)
