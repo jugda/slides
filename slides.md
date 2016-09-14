@@ -76,9 +76,10 @@ Wir suchen interessierte Firmen:
 		
 ![](img/sus_sas.png)		
 		
-http://software-architecture-summit.de/
+&nbsp;  
+- 26. - 28.09.2016 in Berlin
 
-26. - 28.09.2016 in Berlin
+- http://software-architecture-summit.de/
 		
 ### 15 % Rabattcode (Mail an orga@jug-da.de)
 
