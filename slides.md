@@ -24,11 +24,11 @@ background-color: #ff0000;
 
 ## 3. Darmstädter JUG Barbecue Stammtisch am 21.09.2016
 
-![:scale 50%](img/grillplatz.jpg)
+![:scale 30%](img/grillplatz.jpg)
 
-Wir besorgen den Grillplatz, Getränke, Brot, Salate usw. (bitte bald anmelden)
+Wir besorgen den Grillplatz, Getränke, Brot, Salate usw.
 
-Ihr müsst nur etwas für auf den Grill mitbringen (Fleisch, Wurst, Käse, ...).
+Ihr müsst nur etwas für auf den Grill mitbringen.
 
 Vielen Dank an unseren Sponsor innoQ.
 
