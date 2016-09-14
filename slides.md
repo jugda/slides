@@ -12,13 +12,27 @@ background-color: #ff0000;
 
 ## Nächste Events
 
-### **21..09.2016**: .red[Grillfeier] an der Oberförsterwiese
+### **21.09.2016**: .red[Grillfeier] an der Oberförsterwiese
 ### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
 ### **08.12.2016**: Emerging Java EE Microservice Patterns (Adam Bien)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+
+---
+
+## 3. Darmstädter JUG Barbecue Stammtisch am 21.09.2016
+
+![](img/grillplatz.jpg)
+
+Wir besorgen den Grillplatz, Getränke, Brot, Salate usw. (bitte bald anmelden)
+
+Ihr müsst nur etwas für auf den Grill mitbringen (Fleisch, Wurst, Käse, ...).
+
+Vielen Dank an unseren Sponsor innoQ.
+
+.center[![](img/sponsors/innoq.png)]
 
 ---
 
