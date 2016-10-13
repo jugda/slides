@@ -12,27 +12,13 @@ background-color: #ff0000;
 
 ## Nächste Events
 
-### **21.09.2016**: .red[Grillfeier] an der Oberförsterwiese
-### **13.10.2016**: .red[Versionshistorie Softwareprojekte] (Dennis Pagano)
 ### **17.11.2016**: .red["Multi-Channel"-Architektur] (Lars Röwekamp)
-### **08.12.2016**: Emerging Java EE Microservice Patterns (Adam Bien)
+### **30.11.2016**: .red[Eclipse DemoCamp bei der Deutschen Telekom]
+### **08.12.2016**: .red[Emerging Java EE Microservice Patterns (Adam Bien)]
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
+### Vortragende 2017: Stefan Zörner, Nicolai Parlog, Carola Lilienthal, ...
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
-
----
-
-## 3. Darmstädter JUG Barbecue Stammtisch am 21.09.2016
-
-![:scale 30%](img/grillplatz.jpg)
-
-Wir besorgen den Grillplatz, Getränke, Brot, Salate usw.
-
-Ihr müsst nur etwas für auf den Grill mitbringen.
-
-Vielen Dank an unseren Sponsor innoQ.
-
-.center[![](img/sponsors/innoq.png)]
 
 ---
 
@@ -72,16 +58,14 @@ Wir suchen interessierte Firmen:
 
 ---
 
-##  Software Architecture Summit		
-		
-![](img/sus_sas.png)		
-		
-&nbsp;  
-- 26. - 28.09.2016 in Berlin
+## W-JAX
 
-- http://software-architecture-summit.de/
-		
-### 15 % Rabattcode (Mail an orga@jug-da.de)
+![](img/jax.png)
+
+&nbsp;  
+- 15 % Rabattcode (Mail an orga@jug-da.de)
+
+- https://jax.de
 
 ---
 
@@ -91,8 +75,6 @@ Wir suchen interessierte Firmen:
 
 &nbsp;  
 - 16./17.02.2017, Universität Frankfurt - Campus Westend
-
-- Call for Papers .red[noch] offen bis 25.09.2016
 
 - https://entwicklertag.de/frankfurt/2017
 
@@ -106,17 +88,6 @@ Wir suchen interessierte Firmen:
 - 28./29.03.2017, Phantasialand Brühl
 
 - http://www.javaland.eu/
-
----
-
-## W-JAX
-
-![](img/jax.png)
-
-&nbsp;  
-- 15 % Rabattcode (Mail an orga@jug-da.de)
-
-- https://jax.de
 
 ---
 
@@ -176,6 +147,5 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 ## Viel Spaß beim Vortrag
 
 &nbsp;
-### Nach dem Vortrag ist vor dem Stammtisch
-
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+.center[![](img/sponsors/accso.png)]  
