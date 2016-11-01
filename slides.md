@@ -58,9 +58,19 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## W-JAX
+## Java Enterprise Summit und Microservices Summit
+ 
+![](img/sus_jes.jpg)
+ 
+http://www.javaenterprisesummit.de 
+ 
+![](img/sus_mss.jpg)
+ 
+http://www.microservices-summit.de
+ 
+### 15 % Rabattcode (Mail an orga@jug-da.de)
 
-![](img/jax.png)
+---
 
 &nbsp;  
 - 15 % Rabattcode (Mail an orga@jug-da.de)
