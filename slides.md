@@ -14,7 +14,7 @@ background-color: #ff0000;
 
 ### **30.11.2016**: .red[Eclipse DemoCamp bei der Deutschen Telekom]
 ### **08.12.2016**: .red[Emerging Java EE Microservice Patterns (Adam Bien)]
-### **19.01.2017**: JUnit 5 - Next Generation Testing on the JVM (Nicolai Parlog)
+### **19.01.2017**: JUnit 5 - Next Generation Testing (Nicolai Parlog)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
 ### **16.03.2017**: Softwarearchitektur für alle (Stefan Zörner)
 
@@ -26,7 +26,7 @@ background-color: #ff0000;
 
 ### **20.04.2017**: Smarthome/OpenHAB (Kai Kreuzer)
 ### **11.05.2017**: Thema noch offen (Sprecher noch offen)
-### **15.06.2017**: Erfahrungen aus 10 Jahren Domain Driven Design (Carola Lilienthal)
+### **15.06.2017**: Erfahrungen aus 10 Jahren DDD (Carola Lilienthal)
 ### **29.06.2017**: .red[JUG Barbecue an der Oberförsterwiese]
 ### **13.07.2017**:  Software-Qualitätsanalyse (Elmar Jürgens)
 
