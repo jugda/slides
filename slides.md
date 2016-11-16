@@ -14,10 +14,9 @@ background-color: #ff0000;
 
 ### **30.11.2016**: .red[Eclipse DemoCamp bei der Deutschen Telekom]
 ### **08.12.2016**: .red[Emerging Java EE Microservice Patterns (Adam Bien)]
-### **12.12.2016**: .red[Thema noch offen (Heinz Kabutz)]
-### **19.01.2017**: Thema noch offen (Nicolai Parlog)
+### **19.01.2017**: JUnit 5 - Next Generation Testing on the JVM (Nicolai Parlog)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
-### **16.03.2017**: Thema noch offen (Stefan Zörner)
+### **16.03.2017**: Softwarearchitektur für alle (Stefan Zörner)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -25,11 +24,11 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
-### **20.04.2017**: Thema noch offen (Kai Kreuzer)
+### **20.04.2017**: Smarthome/OpenHAB (Kai Kreuzer)
 ### **11.05.2017**: Thema noch offen (Sprecher noch offen)
-### **15.06.2017**: Thema noch offen (Carola Lilienthal)
+### **15.06.2017**: Erfahrungen aus 10 Jahren Domain Driven Design (Carola Lilienthal)
 ### **29.06.2017**: .red[JUG Barbecue an der Oberförsterwiese]
-### **13.07.2017**: Thema noch offen (Elmar Jürgens)
+### **13.07.2017**:  Software-Qualitätsanalyse (Elmar Jürgens)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -71,6 +70,18 @@ Wir suchen interessierte Firmen:
 
 ---
 
+## Eclipse DemoCamp
+
+![:scale 40%](https://wiki.eclipse.org/images/8/86/DemoCamp.png)
+
+* 30.11.2016, Deutsche Telekom AG
+
+* 8 Vorträge, 17 - 21 Uhr
+
+* http://jug-da.de/2016/11/Eclipse-Demo-Camp/
+
+---
+
 ## Java Enterprise Summit und Microservices Summit
  
 ![](img/sus_jes.jpg)
@@ -82,18 +93,6 @@ http://www.javaenterprisesummit.de
 http://www.microservices-summit.de
  
 ### 15 % Rabattcode (Mail an orga@jug-da.de)
-
----
-
-## Eclipse DemoCamp
-
-![:scale 40%](https://wiki.eclipse.org/images/8/86/DemoCamp.png)
-
-* 30.11.2016, Deutsche Telekom AG
-
-* 8 Vorträge, 17 - 21 Uhr
-
-* http://jug-da.de/2016/11/Eclipse-Demo-Camp/
 
 ---
 
