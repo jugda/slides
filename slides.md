@@ -1,8 +1,10 @@
 layout: true
-.logo[![:scale 20%](img/logo.png)]
+.logo[![:scale 15%](img/logo_rund.png)]
 .copyright[&copy; 2016 Java User Group Darmstadt]
 ---
 class: center, middle
+
+![:scale 40%](img/logo_rund.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
@@ -83,15 +85,15 @@ Wir suchen interessierte Firmen:
 ---
 
 ## Java Enterprise Summit und Microservices Summit
- 
+
 ![](img/sus_jes.jpg)
- 
-http://www.javaenterprisesummit.de 
- 
+
+http://www.javaenterprisesummit.de
+
 ![](img/sus_mss.jpg)
- 
+
 http://www.microservices-summit.de
- 
+
 ### 15 % Rabattcode (Mail an orga@jug-da.de)
 
 ---
@@ -107,14 +109,11 @@ http://www.microservices-summit.de
 
 ---
 
-## Javaland 2017
-
 ![](img/javaland.gif)
 
-&nbsp;  
-- 28./29.03.2017, Phantasialand Brühl
+![:scale 100%](img/javaland_ijug.png)
 
-- http://www.javaland.eu/
+http://www.javaland.eu/
 
 ---
 
@@ -163,7 +162,7 @@ Falk</textarea>
     <button onClick="resetLottery()">Reset</button>
 </div>
 
-<div id="winner" style="color:red; font-size:1.5em; font-align:center;margin-top:50px;"></div>
+<h2 id="winner" style="color:red"></h2>
 
 ???
 
@@ -176,7 +175,7 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 
 ### Nach dem Vortrag ist vor dem Stammtisch
-   
+
 .center[![](img/sponsors/cosee.png)]  
 
 Heute bleiben wir einfach hier. Vielen Dank an Cosee.

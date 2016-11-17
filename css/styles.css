@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+  font-family: 'Roboto';
+}
+h1, h2, h3 {
+  font-family: 'Open Sans';
+}
+h1 {
+  font-size: 60px !important;
+}
+h2 {
+  font-size: 43px !important;
+}
+h3 {
+  font-size: 26px !important;
+}
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+.remark-slide-content {
+  font-size: 1.5em;
+}
+.remark-slide-number {
+  font-size: 0.5em;
+}
+
+.logo {
+  text-align: right;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.copyright {
+  position: absolute;
+  right: 100px;
+  bottom: 12px;
+  font-size: 0.5em;
+}
+
+.footnote {
+  font-size: 0.8em;
+  position: absolute;
+  right: 20px;
+  bottom: 50px;
+}
+
+.slideshow {
+  position: absolute;
+  left: 20px;
+  bottom: 12px
+}
+
+.beam {
+  width: 100%;
+  color: darkgreen;
+  font-size: 1.1em;
+  background-color: yellow;
+  border: 3px black solid;
+  padding: 10px;
+  display:inline-block;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.beam:first-child {
+  margin-top: 100px;
+}
+
+.stripe {
+  color: darkgreen;
+  font-size: 1.5em;
+  background-color: yellow;
+  border: 3px black solid;
+  padding: 10px;
+  display:inline-block;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.stripe:first-child {
+  margin-top: 200px;
+}
+.stripe > a {
+  color: darkgreen;
+  text-decoration: none;
+}
+
+img {
+  vertical-align: middle;
+}
+
+.strong {
+  font-weight: bold;
+}
+
+.red {
+  color: red;
+}
+
+label, input {
+  font-size: xx-small;
+}
