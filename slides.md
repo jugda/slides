@@ -12,12 +12,11 @@ background-color: #ff0000;
 
 ## Nächste Events
 
-### **30.11.2016**: .red[Eclipse DemoCamp bei der Deutschen Telekom]
-### **08.12.2016**: .red[Emerging Java EE Microservice Patterns (Adam Bien)]
-### **12.12.2016**: .red[Thema noch offen (Heinz Kabutz)]
-### **19.01.2017**: Thema noch offen (Nicolai Parlog)
+### **19.01.2017**: JUnit 5 (Nicolai Parlog)
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
-### **16.03.2017**: Thema noch offen (Stefan Zörner)
+### **16.03.2017**: Softwarearchitektur für alle (Stefan Zörner)
+### **20.04.2017**: openHAB 2 (Kai Kreuzer)
+### **11.05.2017**: Thema noch offen (Sprecher noch offen)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -25,11 +24,9 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
-### **20.04.2017**: Thema noch offen (Kai Kreuzer)
-### **11.05.2017**: Thema noch offen (Sprecher noch offen)
-### **15.06.2017**: Thema noch offen (Carola Lilienthal)
+### **15.06.2017**: 10 Jahren DDD (C. Lilienthal + H. Schwentner)
 ### **29.06.2017**: .red[JUG Barbecue an der Oberförsterwiese]
-### **13.07.2017**: Thema noch offen (Elmar Jürgens)
+### **13.07.2017**: Software Teams Debuggen (Elmar Jürgens)
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
@@ -68,32 +65,6 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
-
----
-
-## Java Enterprise Summit und Microservices Summit
- 
-![](img/sus_jes.jpg)
- 
-http://www.javaenterprisesummit.de 
- 
-![](img/sus_mss.jpg)
- 
-http://www.microservices-summit.de
- 
-### 15 % Rabattcode (Mail an orga@jug-da.de)
-
----
-
-## Eclipse DemoCamp
-
-![:scale 40%](https://wiki.eclipse.org/images/8/86/DemoCamp.png)
-
-* 30.11.2016, Deutsche Telekom AG
-
-* 8 Vorträge, 17 - 21 Uhr
-
-* http://jug-da.de/2016/11/Eclipse-Demo-Camp/
 
 ---
 
@@ -178,6 +149,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ### Nach dem Vortrag ist vor dem Stammtisch
    
-.center[![](img/sponsors/cosee.png)]  
+.center[![](img/sponsors/itforwork.png) ![](img/sponsors/msg.png)]  
 
-Heute bleiben wir einfach hier. Vielen Dank an Cosee.
+Heute bleiben wir einfach hier. Vielen Dank an IT for Work und msg systems.
+
+Frohe Weihnachten und einen guten Rutsch. Bis bald in 2017.
