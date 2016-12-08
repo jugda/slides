@@ -1,8 +1,10 @@
 layout: true
-.logo[![:scale 20%](img/logo.png)]
+.logo[![:scale 15%](img/logo_rund.png)]
 .copyright[&copy; 2016 Java User Group Darmstadt]
 ---
 class: center, middle
+
+![:scale 40%](img/logo_rund.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
@@ -79,14 +81,11 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## Javaland 2017
-
 ![](img/javaland.gif)
 
-&nbsp;  
-- 28./29.03.2017, Phantasialand Brühl
+![:scale 100%](img/javaland_ijug.png)
 
-- http://www.javaland.eu/
+http://www.javaland.eu/
 
 ---
 
@@ -135,7 +134,7 @@ Falk</textarea>
     <button onClick="resetLottery()">Reset</button>
 </div>
 
-<div id="winner" style="color:red; font-size:1.5em; font-align:center;margin-top:50px;"></div>
+<h2 id="winner" style="color:red"></h2>
 
 ???
 
