@@ -1,7 +1,3 @@
-layout: true
-.logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2016 Java User Group Darmstadt]
----
 class: center, middle
 
 ![:scale 40%](img/logo_rund.png)
@@ -9,6 +5,10 @@ class: center, middle
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
 
+---
+layout: true
+.logo[![:scale 15%](img/logo_rund.png)]
+.copyright[&copy; 2016 Java User Group Darmstadt]
 ---
 background-color: #ff0000;
 
@@ -50,7 +50,7 @@ background-image: url(img/plakat.png)
 ## Plakat
 
 .stripe[Bitte ausdrucken und aufhängen!]
-.stripe[neu: http://jug-da.de/plakat]
+.stripe[http://jug-da.de/plakat]
 
 ---
 
@@ -115,7 +115,7 @@ http://www.javaland.eu/
 
 ---
 
-## Verlosung
+## Große Weihnachtsverlosung
 
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 
@@ -128,7 +128,6 @@ Niko
 Sebastian
 Falk</textarea>
 
-<br/>
 <div>
     <button onClick="nextWinner()">Nächster Gewinner</button>
     <button onClick="resetLottery()">Reset</button>
