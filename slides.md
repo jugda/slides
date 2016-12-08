@@ -49,8 +49,11 @@ background-image: url(img/plakat.png)
 
 ## Plakat
 
-.stripe[Bitte ausdrucken und aufhängen!]
 .stripe[http://jug-da.de/plakat]
+--
+.stripe[Bitte ausdrucken und aufhängen!]
+--
+.stripe[Gern Bild twittern an @JUG_DA]
 
 ---
 
