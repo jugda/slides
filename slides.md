@@ -34,15 +34,6 @@ background-color: #ff0000;
 
 ---
 
-background-image: url(img/plakat.png)
-
-## Plakat
-
-.stripe[Bitte ausdrucken und aufhängen!]
-.stripe[neu: http://jug-da.de/plakat]
-
----
-
 ## Unsere wichtigsten Kanäle
 
 &nbsp;
@@ -51,6 +42,15 @@ background-image: url(img/plakat.png)
 ### **Blog** (Ankündigungen): http://jug-da.de
 
 ### **Mailingliste**: https://groups.google.com/d/forum/jug-da
+
+---
+
+background-image: url(img/plakat.png)
+
+## Plakat
+
+.stripe[Bitte ausdrucken und aufhängen!]
+.stripe[neu: http://jug-da.de/plakat]
 
 ---
 
