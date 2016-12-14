@@ -26,7 +26,7 @@ background-color: #ff0000;
 
 ## Nächste Events (2)
 
-### **15.06.2017**: 10 Jahren DDD (C. Lilienthal + H. Schwentner)
+### **08.06.2017**: .red[10 Jahren DDD (C. Lilienthal + H. Schwentner)]
 ### **29.06.2017**: .red[JUG Barbecue an der Oberförsterwiese]
 ### **13.07.2017**: Software Teams Debuggen (Elmar Jürgens)
 
@@ -59,8 +59,8 @@ background-image: url(img/plakat.png)
 
 ## Wechselnde Veranstaltungsorte
 
-&nbsp;  
-&nbsp;  
+&nbsp;
+&nbsp;
 Wir suchen interessierte Firmen:
 
 - Raumanforderung: .strong[30+]
@@ -77,7 +77,7 @@ Wir suchen interessierte Firmen:
 
 ![](img/entwicklertag.png)
 
-&nbsp;  
+&nbsp;
 - 16./17.02.2017, Universität Frankfurt - Campus Westend
 
 - https://entwicklertag.de/frankfurt/2017
@@ -149,8 +149,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;
 
 ### Nach dem Vortrag ist vor dem Stammtisch
-   
-.center[![](img/sponsors/itforwork.png) ![](img/sponsors/msg.png)]  
+
+.center[![](img/sponsors/itforwork.png) ![](img/sponsors/msg.png)]
 
 Heute bleiben wir einfach hier. Vielen Dank an IT for Work und msg systems.
 
