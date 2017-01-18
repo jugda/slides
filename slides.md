@@ -63,13 +63,13 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**29.06.2017**</td>
-		<td><i class="fa fa-university"></i></td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>JUG Barbecue an der Oberförsterwiese</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>**13.07.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td><i class="fa fa-university"></i></td>
 		<td>Software Teams Debuggen<br/>(Elmar Jürgens)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/07/Software-Teams-Debuggen/)</td>
 	</tr>
@@ -103,7 +103,7 @@ background-image: url(img/plakat.png)
 
 ---
 
-## Wechselnde Veranstaltungsorte <i class="fa fa-building-o"></i>
+## Wechselnde Orte <i class="fa fa-building-o"></i>
 
 &nbsp;
 &nbsp;
@@ -138,7 +138,7 @@ http://www.javaland.eu/
 
 ---
 
-## Vielen Dank an unsere Sponsoren <i class="fa fa-building-o"></i>
+## Vielen Dank <i class="fa fa-building-o"></i>
 
 ![:scale 20%](img/sponsors/tud.png)
 ![:scale 20%](img/sponsors/sus.png)
