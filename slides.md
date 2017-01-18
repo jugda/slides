@@ -8,33 +8,79 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2017 Java User Group Darmstadt]
+.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
 ---
 background-color: #ff0000;
 
-## Nächste Events
+## Nächste Events <i class="fa fa-calendar"></i>
 
-### **16.01.2017**: .red[Fork/Join ManagedBlocker (Heinz Kabutz)]
-### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
-### **16.03.2017**: .red[Softwarearchitektur für alle (Stefan Zörner)]
-### **20.04.2017**: .red[openHAB 2 (Kai Kreuzer)]
-### **11.05.2017**: .red[IntelliJ IDEA Trickkiste (Yann Cébron)]
+<table>
+	<tr>
+		<td>**26.01.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Fork/Join ManagedBlocker<br/>(Heinz Kabutz)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/01/Fork-Join-ManagedBlocker/)</td>
+	</tr>
+	<tr>
+		<td>**23.02.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>JDK 9 / Project Jigsaw<br/>(Wolfgang Weigend)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/02/Java-9-Jigsaw/)</td>
+	</tr>
+	<tr>
+		<td>**16.03.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Softwarearchitektur für alle<br/>(Stefan Zörner)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/03/Softwarearchitektur-fuer-alle/)</td>
+	</tr>
+	<tr>
+		<td>**20.04.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>openHAB 2<br/>(Kai Kreuzer)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/04/openHAB-2/)</td>
+	</tr>
+	<tr>
+		<td>**11.05.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>IntelliJ IDEA Trickkiste<br/>(Yann Cébron)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/05/IntelliJ-Tricks/)</td>
+	</tr>
+</table>
+&nbsp;
 
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
 
 ---
 
-## Nächste Events (2)
+## Nächste Events (2) <i class="fa fa-calendar"></i>
 
-### **08.06.2017**: .red[10 Jahren DDD (C. Lilienthal + H. Schwentner)]
-### **29.06.2017**: .red[JUG Barbecue an der Oberförsterwiese]
-### **13.07.2017**: Software Teams Debuggen (Elmar Jürgens)
+<table>
+	<tr>
+		<td>**08.06.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
+	</tr>
+	<tr>
+		<td>**29.06.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>JUG Barbecue an der Oberförsterwiese</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>**13.07.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Software Teams Debuggen<br/>(Elmar Jürgens)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/07/Software-Teams-Debuggen/)</td>
+	</tr>
+</table>
+&nbsp;
 
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
 
 ---
 
-## Unsere wichtigsten Kanäle
+## Unsere wichtigsten Kanäle <i class="fa fa-bullhorn"></i>
 
 &nbsp;
 ### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
@@ -47,7 +93,7 @@ background-color: #ff0000;
 
 background-image: url(img/plakat.png)
 
-## Plakat
+## Plakat <i class="fa fa-list-alt"></i>
 
 .stripe[http://jug-da.de/plakat]
 --
@@ -57,7 +103,7 @@ background-image: url(img/plakat.png)
 
 ---
 
-## Wechselnde Veranstaltungsorte
+## Wechselnde Veranstaltungsorte <i class="fa fa-building-o"></i>
 
 &nbsp;
 &nbsp;
@@ -92,7 +138,7 @@ http://www.javaland.eu/
 
 ---
 
-## Vielen Dank an unsere Sponsoren
+## Vielen Dank an unsere Sponsoren <i class="fa fa-building-o"></i>
 
 ![:scale 20%](img/sponsors/tud.png)
 ![:scale 20%](img/sponsors/sus.png)
@@ -118,7 +164,7 @@ http://www.javaland.eu/
 
 ---
 
-## Verlosung
+## Verlosung <i class="fa fa-users"></i>
 
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 

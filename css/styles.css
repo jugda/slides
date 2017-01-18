@@ -17,6 +17,22 @@ h2 {
 h3 {
   font-size: 26px !important;
 }
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+td {
+	padding-right: 50px;
+	padding-bottom: 25px;
+	vertical-align: top;
+}
+
 .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
 
 .remark-slide-content {
@@ -100,4 +116,16 @@ img {
 
 label, input {
   font-size: xx-small;
+}
+
+.fa-container {
+  position: relative;
+}
+
+.fa-nested {
+  position: absolute;
+  top: -8px;
+  left: -6px;
+  font-size: 180% !important;
+  color: rgba(217, 83, 79, 0.7);
 }
