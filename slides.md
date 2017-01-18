@@ -8,7 +8,7 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2016 Java User Group Darmstadt]
+.copyright[&copy; 2017 Java User Group Darmstadt]
 ---
 background-color: #ff0000;
 
@@ -118,7 +118,7 @@ http://www.javaland.eu/
 
 ---
 
-## Große Weihnachtsverlosung
+## Verlosung
 
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 
@@ -150,8 +150,5 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-.center[![](img/sponsors/itforwork.png) ![](img/sponsors/msg.png)]
+![](img/kneipe.png)
 
-Heute bleiben wir einfach hier. Vielen Dank an IT for Work und msg systems.
-
-Frohe Weihnachten und einen guten Rutsch. Bis bald in 2017.
