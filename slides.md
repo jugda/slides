@@ -14,11 +14,11 @@ background-color: #ff0000;
 
 ## Nächste Events
 
-### **19.01.2017**: JUnit 5 (Nicolai Parlog)
+### **16.01.2017**: .red[Fork/Join ManagedBlocker (Heinz Kabutz)]
 ### **23.02.2017**: JDK 9 / Project Jigsaw (Wolfgang Weigend)
-### **16.03.2017**: Softwarearchitektur für alle (Stefan Zörner)
-### **20.04.2017**: openHAB 2 (Kai Kreuzer)
-### **11.05.2017**: Thema noch offen (Sprecher noch offen)
+### **16.03.2017**: .red[Softwarearchitektur für alle (Stefan Zörner)]
+### **20.04.2017**: .red[openHAB 2 (Kai Kreuzer)]
+### **11.05.2017**: .red[IntelliJ IDEA Trickkiste (Yann Cébron)]
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind .red[rot] markiert.]
 
