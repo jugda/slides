@@ -16,12 +16,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**26.01.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Fork/Join ManagedBlocker<br/>(Heinz Kabutz)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/01/Fork-Join-ManagedBlocker/)</td>
-	</tr>
-	<tr>
 		<td>**23.02.2017**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>JDK 9 / Project Jigsaw<br/>(Wolfgang Weigend)</td>
@@ -196,5 +190,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-![](img/kneipe.png)
+.center[![](img/sponsors/telekom.png)]
+
+Heute bleiben wir einfach hier. Vielen Dank an die Deutsche Telekom AG.
+
 
