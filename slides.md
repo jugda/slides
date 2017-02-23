@@ -12,15 +12,9 @@ layout: true
 ---
 background-color: #ff0000;
 
-## Nächste Events <i class="fa fa-calendar"></i>
+## <i class="fa fa-calendar"></i> Nächste Events
 
 <table>
-	<tr>
-		<td>**23.02.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>JDK 9 / Project Jigsaw<br/>(Wolfgang Weigend)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/02/Java-9-Jigsaw/)</td>
-	</tr>
 	<tr>
 		<td>**16.03.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -39,6 +33,12 @@ background-color: #ff0000;
 		<td>IntelliJ IDEA Trickkiste<br/>(Yann Cébron)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/05/IntelliJ-Tricks/)</td>
 	</tr>
+	<tr>
+		<td>**08.06.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -46,15 +46,9 @@ background-color: #ff0000;
 
 ---
 
-## Nächste Events (2) <i class="fa fa-calendar"></i>
+## <i class="fa fa-calendar"></i> Nächste Events (2)
 
 <table>
-	<tr>
-		<td>**08.06.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
-	</tr>
 	<tr>
 		<td>**29.06.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -74,7 +68,7 @@ background-color: #ff0000;
 
 ---
 
-## Unsere wichtigsten Kanäle <i class="fa fa-bullhorn"></i>
+## <i class="fa fa-bullhorn"></i> Unsere wichtigsten Kanäle
 
 &nbsp;
 ### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
@@ -87,7 +81,7 @@ background-color: #ff0000;
 
 background-image: url(img/plakat.png)
 
-## Plakat <i class="fa fa-list-alt"></i>
+## <i class="fa fa-list-alt"></i> Plakat
 
 .stripe[http://jug-da.de/plakat]
 --
@@ -97,7 +91,7 @@ background-image: url(img/plakat.png)
 
 ---
 
-## Wechselnde Orte <i class="fa fa-building-o"></i>
+## <i class="fa fa-building-o"></i> Wechselnde Orte
 
 &nbsp;
 &nbsp;
@@ -113,17 +107,6 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## Entwicklertag Frankfurt 2017
-
-![](img/entwicklertag.png)
-
-&nbsp;
-- 16./17.02.2017, Universität Frankfurt - Campus Westend
-
-- https://entwicklertag.de/frankfurt/2017
-
----
-
 ![](img/javaland.gif)
 
 ![:scale 100%](img/javaland_ijug.png)
@@ -132,7 +115,19 @@ http://www.javaland.eu/
 
 ---
 
-## Vielen Dank <i class="fa fa-building-o"></i>
+![:scale 50%](img/jax.png)
+ 
+&nbsp;  
+- 08.05. bis 12.05.2017
+
+- 15 % Rabattcode (Mail an orga@jug-da.de)
+ 
+- https://jax.de
+ 
+---
+
+
+## <i class="fa fa-building-o"></i> Vielen Dank
 
 ![:scale 20%](img/sponsors/tud.png)
 ![:scale 20%](img/sponsors/sus.png)
@@ -158,7 +153,7 @@ http://www.javaland.eu/
 
 ---
 
-## Verlosung <i class="fa fa-users"></i>
+## <i class="fa fa-users"></i> Verlosung
 
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 
@@ -190,8 +185,4 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
-.center[![](img/sponsors/telekom.png)]
-
-Heute bleiben wir einfach hier. Vielen Dank an die Deutsche Telekom AG.
-
-
+![](img/kneipe.png)
