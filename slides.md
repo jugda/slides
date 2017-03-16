@@ -16,12 +16,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**16.03.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Softwarearchitektur für alle<br/>(Stefan Zörner)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/03/Softwarearchitektur-fuer-alle/)</td>
-	</tr>
-	<tr>
 		<td>**20.04.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>openHAB 2<br/>(Kai Kreuzer)</td>
@@ -39,16 +33,6 @@ background-color: #ff0000;
 		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-
-## <i class="fa fa-calendar"></i> Nächste Events (2)
-
-<table>
 	<tr>
 		<td>**29.06.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -183,6 +167,5 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag ist vor dem Stammtisch
-
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+.center[![](img/sponsors/accso.png)]  
