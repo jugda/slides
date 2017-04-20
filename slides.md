@@ -16,12 +16,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**20.04.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>openHAB 2<br/>(Kai Kreuzer)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/04/openHAB-2/)</td>
-	</tr>
-	<tr>
 		<td>**11.05.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>IntelliJ IDEA Trickkiste<br/>(Yann Cébron)</td>
@@ -44,6 +38,34 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>Software Teams Debuggen<br/>(Elmar Jürgens)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/07/Software-Teams-Debuggen/)</td>
+	</tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+---
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+<table>
+	<tr>
+		<td>**24.08.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>**21.09.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Everything as Code<br/>(Mario-Leander Reimer)</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>**12./19.10.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Spring Boot Starters<br/>(Michael Simons)</td>
+		<td></td>
 	</tr>
 </table>
 &nbsp;
@@ -109,6 +131,21 @@ http://www.javaland.eu/
 - https://jax.de
  
 ---
+   
+## API Summit und Microservices Summit
+ 
+![](img/sus_apisummit.jpg)
+ 
+http://www.api-summit.de
+  
+![](img/sus_mss.jpg)
+
+http://www.microservices-summit.de
+ 
+### 15 % Rabattcode (Mail an orga@jug-da.de)
+ 
+
+---
 
 
 ## <i class="fa fa-building-o"></i> Vielen Dank
@@ -167,5 +204,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
-.center[![](img/sponsors/accso.png)]  
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work.
+
+.center[![](img/sponsors/itforwork.png)]
