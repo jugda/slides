@@ -16,22 +16,22 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**11.05.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>IntelliJ IDEA Trickkiste<br/>(Yann Cébron)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/05/IntelliJ-Tricks/)</td>
-	</tr>
-	<tr>
 		<td>**08.06.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
 	</tr>
 	<tr>
-		<td>**29.06.2017**</td>
+		<td>**09./10.06.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Hack Darmstadt</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/HackDarmstadt/)</td>
+	</tr>
+	<tr>
+		<td>**14.06.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>JUG Barbecue an der Oberförsterwiese</td>
-		<td></td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/Vierter-Barbecue-Stammtisch/)</td>
 	</tr>
 	<tr>
 		<td>**13.07.2017**</td>
@@ -53,19 +53,19 @@ background-color: #ff0000;
 		<td>**24.08.2017**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
-		<td></td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/08/Vavr-Resilience4j/)</td>
 	</tr>
 	<tr>
 		<td>**21.09.2017**</td>
-		<td><i class="fa fa-university"></i></td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Everything as Code<br/>(Mario-Leander Reimer)</td>
-		<td></td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/09/Everything-as-Code/)</td>
 	</tr>
 	<tr>
-		<td>**12./19.10.2017**</td>
+		<td>**19.10.2017**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Spring Boot Starters<br/>(Michael Simons)</td>
-		<td></td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/10/Spring-Boot-Starters/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -113,23 +113,27 @@ Wir suchen interessierte Firmen:
 
 ---
 
-![](img/javaland.gif)
+## Hackathon am 09./10.06.2017
+ 
+.center[![](img/HackDarmstadt.png)]
 
-![:scale 100%](img/javaland_ijug.png)
-
-http://www.javaland.eu/
+&nbsp;
+&nbsp;
+ 
+Civic Tech und LoRaWAN Hackathon für ein besseres Darmstadt, veranstaltet von JUG Darmstadt, IoT Hessen, BSI und anderen.
 
 ---
 
-![:scale 50%](img/jax.png)
+## 4. Darmstädter JUG Barbecue Stammtisch am 14.06.2017
  
-&nbsp;  
-- 08.05. bis 12.05.2017
+.center[![:scale 50%](img/grillplatz.jpg)]
+ 
+Wir besorgen den Grillplatz, Getränke, Brot, Salate usw.
+ 
+Ihr bringt mit, was Ihr auf den Grill legen wollt.
 
-- 15 % Rabattcode (Mail an orga@jug-da.de)
- 
-- https://jax.de
- 
+Vielen Dank an unseren Sponsor ![:scale 10%](img/sponsors/innoq.png)
+
 ---
    
 ## API Summit und Microservices Summit
@@ -143,10 +147,8 @@ http://www.api-summit.de
 http://www.microservices-summit.de
  
 ### 15 % Rabattcode (Mail an orga@jug-da.de)
- 
 
 ---
-
 
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
