@@ -150,6 +150,33 @@ http://www.microservices-summit.de
 
 ---
 
+<style>
+.floatright {
+  clear: left;
+  float: right;
+  margin: 0 0 10px 10px;
+}
+</style>
+
+## Prometheus Monitoring Retreat 24.06.2017 .floatright[[![Prometheus](img/prometheus_logo.png)](https://prometheus.io/)]
+ 
+**Was ist Prometheus?**<br>
+Prometheus (http://prometheus.io) ist ein modernes Monitoring-System, mit dem man (nicht nur) Cloud-Infrastrukturen überwachen kann.
+
+.floatright[![](img/prometheus_monitoring_retreat.png)]
+
+**Was erwartet dich?**<br>
+Experimentiere mit Prometheus auf Deinem Laptop oder in der Cloud.
+Treffe andere Anwender, sammle neue Metriken, tausche 
+ Tipps und Tricks über Grafana Dashboards aus.
+
+**Wann und wo?**<br>
+Samstag, 24. Juni 2017 von 10:00-16:00 Uhr, Eschborn bei Frankfurt
+
+**Voranmeldung:** http://eepurl.com/cIjNr9
+
+---
+
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
 ![:scale 20%](img/sponsors/tud.png)
