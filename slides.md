@@ -233,6 +233,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Cosee.
 
-.center[![](img/sponsors/itforwork.png)]
+.center[![](img/sponsors/cosee.png)]
