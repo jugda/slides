@@ -132,7 +132,7 @@ Wir besorgen den Grillplatz, Getränke, Brot, Salate usw.
  
 Ihr bringt mit, was Ihr auf den Grill legen wollt.
 
-Vielen Dank an unseren Sponsor ![:scale 10%](img/sponsors/innoq.png)
+Vielen Dank an unsere Sponsoren ![:scale 10%](img/sponsors/innoq.png) und ![:scale 10%](img/sponsors/interes.png)
 
 ---
    
@@ -200,6 +200,7 @@ Samstag, 24. Juni 2017 von 10:00-16:00 Uhr, Eschborn bei Frankfurt
 ![:scale 20%](img/sponsors/entwicklertag.png)
 ![:scale 20%](img/sponsors/gi.png)
 ![:scale 20%](img/sponsors/qaware.png)
+![:scale 20%](img/sponsors/interes.png)
 
 ---
 
