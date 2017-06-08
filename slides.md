@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 40%](img/logo_rund.png)
+![:scale 80%](img/logo_rund_mit_gi.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
@@ -16,13 +16,7 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**08.06.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>10 Jahre DDD<br/>(Carola Lilienthal + Henning Schwentner)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/10-Jahre-DDD/)</td>
-	</tr>
-	<tr>
-		<td>**09./10.06.2017**</td>
+		<td>**09.06.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Hack Darmstadt</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/HackDarmstadt/)</td>
@@ -39,6 +33,12 @@ background-color: #ff0000;
 		<td>Software Teams Debuggen<br/>(Elmar Jürgens)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/07/Software-Teams-Debuggen/)</td>
 	</tr>
+	<tr>
+		<td>**24.08.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/08/Vavr-Resilience4j/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -50,12 +50,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**24.08.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/08/Vavr-Resilience4j/)</td>
-	</tr>
-	<tr>
 		<td>**21.09.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Everything as Code<br/>(Mario-Leander Reimer)</td>
@@ -66,6 +60,12 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>Spring Boot Starters<br/>(Michael Simons)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/10/Spring-Boot-Starters/)</td>
+	</tr>
+	<tr>
+		<td>**09.11.2017**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>inspectIT - Open Source App. Performance Monitoring<br/>(M. Mann + C. Heger)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/11/Open-Source-APM-inspectit/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -110,17 +110,6 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
-
----
-
-## Hackathon am 09./10.06.2017
- 
-.center[![](img/HackDarmstadt.png)]
-
-&nbsp;
-&nbsp;
- 
-Civic Tech und LoRaWAN Hackathon für ein besseres Darmstadt, veranstaltet von JUG Darmstadt, IoT Hessen, BSI und anderen.
 
 ---
 
@@ -201,6 +190,7 @@ Samstag, 24. Juni 2017 von 10:00-16:00 Uhr, Eschborn bei Frankfurt
 ![:scale 20%](img/sponsors/gi.png)
 ![:scale 20%](img/sponsors/qaware.png)
 ![:scale 20%](img/sponsors/interes.png)
+![:scale 20%](img/sponsors/igd.png)
 
 ---
 
@@ -234,6 +224,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD.
 
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/igd.png)]
