@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 80%](img/logo_rund_mit_gi.png)
+![:scale 40%](img/logo_rund.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
@@ -16,39 +16,11 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**09.06.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Hack Darmstadt</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/HackDarmstadt/)</td>
-	</tr>
-	<tr>
-		<td>**14.06.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>JUG Barbecue an der Oberförsterwiese</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/06/Vierter-Barbecue-Stammtisch/)</td>
-	</tr>
-	<tr>
-		<td>**13.07.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Software Teams Debuggen<br/>(Elmar Jürgens)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/07/Software-Teams-Debuggen/)</td>
-	</tr>
-	<tr>
 		<td>**24.08.2017**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/08/Vavr-Resilience4j/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-<table>
 	<tr>
 		<td>**21.09.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -113,74 +85,18 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## 4. Darmstädter JUG Barbecue Stammtisch am 14.06.2017
- 
-.center[![:scale 50%](img/grillplatz.jpg)]
- 
-Wir besorgen den Grillplatz, Getränke, Brot, Salate usw.
- 
-Ihr bringt mit, was Ihr auf den Grill legen wollt.
-
-Vielen Dank an unsere Sponsoren ![:scale 10%](img/sponsors/innoq.png) und ![:scale 10%](img/sponsors/interes.png)
-
----
-   
-## API Summit und Microservices Summit
- 
-![](img/sus_apisummit.jpg)
- 
-http://www.api-summit.de
-  
-![](img/sus_mss.jpg)
-
-http://www.microservices-summit.de
- 
-### 15 % Rabattcode (Mail an orga@jug-da.de)
-
----
-
-<style>
-.floatright {
-  clear: left;
-  float: right;
-  margin: 0 0 10px 10px;
-}
-</style>
-
-## Prometheus Monitoring Retreat 24.06.2017 .floatright[[![Prometheus](img/prometheus_logo.png)](https://prometheus.io/)]
- 
-**Was ist Prometheus?**<br>
-Prometheus (http://prometheus.io) ist ein modernes Monitoring-System, mit dem man (nicht nur) Cloud-Infrastrukturen überwachen kann.
-
-.floatright[![](img/prometheus_monitoring_retreat.png)]
-
-**Was erwartet dich?**<br>
-Experimentiere mit Prometheus auf Deinem Laptop oder in der Cloud.
-Treffe andere Anwender, sammle neue Metriken, tausche 
- Tipps und Tricks über Grafana Dashboards aus.
-
-**Wann und wo?**<br>
-Samstag, 24. Juni 2017 von 10:00-16:00 Uhr, Eschborn bei Frankfurt
-
-**Voranmeldung:** http://eepurl.com/cIjNr9
-
----
-
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
 ![:scale 20%](img/sponsors/tud.png)
 ![:scale 20%](img/sponsors/sus.png)
 ![:scale 20%](img/sponsors/idea.png)
 ![:scale 20%](img/sponsors/dpunkt.png)
-![:scale 20%](img/sponsors/oreilly.png)
 ![:scale 20%](img/sponsors/epress.png)
-![:scale 20%](img/sponsors/mitp.png)
 ![:scale 20%](img/sponsors/hanser.png)
 ![:scale 20%](img/sponsors/accso.png)
 ![:scale 20%](img/sponsors/axxessio.png)
 ![:scale 20%](img/sponsors/msg.png)
 ![:scale 20%](img/sponsors/itforwork.png)
-![:scale 20%](img/sponsors/rheinwerk.png)
 ![:scale 20%](img/sponsors/sigs.png)
 ![:scale 20%](img/sponsors/innoq.png)
 ![:scale 20%](img/sponsors/nterra.png)
@@ -224,6 +140,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD.
-
-.center[![](img/sponsors/igd.png)]
+### Nach dem Vortrag ist vor dem Stammtisch
+   
+![](img/kneipe.png)
