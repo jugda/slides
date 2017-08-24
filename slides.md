@@ -16,12 +16,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**24.08.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Vavr und Resilience4j<br/>(Robert Winkler)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/08/Vavr-Resilience4j/)</td>
-	</tr>
-	<tr>
 		<td>**21.09.2017**</td>
 		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Everything as Code<br/>(Mario-Leander Reimer)</td>
@@ -82,6 +76,22 @@ Wir suchen interessierte Firmen:
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
 
 - Kontakt: info@jug-da.de
+
+---
+
+## <i class="fa fa-bullhorn"></i> Partnerveranstaltungen
+
+* Jeweils 15 % Rabatt (Mail an orga@jug-da.de)
+
+![:scale 95%](img/sus_apicon.jpg)
+
+![](img/sus_jes.jpg) ![](img/wjax.jpg)
+
+---
+
+## <i class="fa fa-bullhorn"></i> UNKONF
+
+![](img/unkonf.jpg)
 
 ---
 
