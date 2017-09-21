@@ -16,12 +16,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**21.09.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Everything as Code<br/>(Mario-Leander Reimer)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/09/Everything-as-Code/)</td>
-	</tr>
-	<tr>
 		<td>**19.10.2017**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Spring Boot Starters<br/>(Michael Simons)</td>
@@ -32,6 +26,12 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>inspectIT - Open Source App. Performance Monitoring<br/>(M. Mann + C. Heger)</td>
 		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/11/Open-Source-APM-inspectit/)</td>
+	</tr>
+	<tr>
+		<td>**07.12.2017**</td>
+		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>2. Kunterbunter Abend mit 3 Vorträgen<br/>(Diverse Sprecher)</td>
+		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -79,13 +79,13 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## <i class="fa fa-bullhorn"></i> Partnerveranstaltungen
+## <i class="fa fa-bullhorn"></i> Partner Software und Support
 
 * Jeweils 15 % Rabatt (Mail an orga@jug-da.de)
 
-![:scale 95%](img/sus_apicon.jpg)
-
 ![](img/sus_jes.jpg) ![](img/wjax.jpg)
+
+![](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
 
 ---
 
