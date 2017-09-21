@@ -150,6 +150,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag ist vor dem Stammtisch
-   
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work.
+
+.center[![](img/sponsors/itforwork.png)]
