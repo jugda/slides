@@ -48,9 +48,9 @@ function nextWinner() {
     return;
   }
   
-  setLotteryImage('winner', '../img/lottery.gif')
+  setLotteryImage('winner', 'img/lottery.gif')
   
-  drawingWinner('winner', "../sound/win.wav", Math.floor(Math.random() * players.length));
+  drawingWinner('winner', "sound/win.wav", Math.floor(Math.random() * players.length));
 }
 
 function setLotteryImage(elementId, imageUrl) {
