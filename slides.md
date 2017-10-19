@@ -3,12 +3,13 @@ class: center, middle
 ![:scale 40%](img/logo_rund.png)
 
 # Aktuelle Informationen
-.slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" />]
+.slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
 .copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+
 ---
 background-color: #ff0000;
 
@@ -23,15 +24,56 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**09.11.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>inspectIT - Open Source App. Performance Monitoring<br/>(M. Mann + C. Heger)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/11/Open-Source-APM-inspectit/)</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>OpenShift Container Plattform<br/>(Jürgen Hoffmann)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2017/11/Openshift-Container-Platform/)</td>
 	</tr>
 	<tr>
 		<td>**07.12.2017**</td>
-		<td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td><i class="fa fa-university"></i></td>
 		<td>2. Kunterbunter Abend mit 3 Vorträgen<br/>(Diverse Sprecher)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2017/12/Zweiter-Kunterbunter-Abend/)</td>
+	</tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+---
+background-color: #ff0000;
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+<table>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Kommunikation (Cosima Laube)</td>
+	</tr>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Kotlin (Dirk Dittert)</td>
+	</tr>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>inspectIT - Performance Monitoring (Mario Mann, Christoph Heger)</td>
+	</tr>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>GraphQL, GRPC & Co. (T. Bayer)</td>
+	</tr>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Kafka (Matthias Wessendorf)</td>
+	</tr>
+	<tr>
+		<td>**2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Microservices scheitern (D. Schmitz)</td>
 	</tr>
 </table>
 &nbsp;
@@ -43,9 +85,14 @@ background-color: #ff0000;
 ## <i class="fa fa-bullhorn"></i> Unsere wichtigsten Kanäle
 
 &nbsp;
+
 ### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
 
+&nbsp;
+
 ### **Blog** (Ankündigungen): http://jug-da.de
+
+&nbsp;
 
 ### **Mailingliste**: https://groups.google.com/d/forum/jug-da
 
@@ -81,17 +128,27 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Partner Software und Support
 
-* Jeweils 15 % Rabatt (Mail an orga@jug-da.de)
+&nbsp;
 
-![](img/sus_jes.jpg) ![](img/wjax.jpg)
+![:scale 20%](img/wjax.jpg) 15 % Rabatt
 
-![](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
+![:scale 20%](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
+
+Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
 
 ---
 
-## <i class="fa fa-bullhorn"></i> UNKONF
+## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-![](img/unkonf.jpg)
+![:scale 20%](img/jcon.jpg) 24. - 26. Oktober in Düsseldorf (2 Tage kostenlos)
+
+![:scale 20%](img/unkonf.jpg) 28. Oktober in Mannheim (ausverkauft)
+
+![:scale 20%](img/jvmcon.png) 28. - 29. November in Köln (300 Euro Rabatt)
+
+![:scale 20%](img/ittage.png) 11. - 14. Dezember in Frankfurt (20 % Rabatt)
+
+Gleich Verlosung von Tickets, Rabatte: orga@jug-da.de
 
 ---
 
@@ -150,6 +207,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 &nbsp;
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work.
+.center[![](img/kneipe.png)]
 
-.center[![](img/sponsors/itforwork.png)]
+.center[Nach dem Vortrag ist vor dem Stammtisch ...]
