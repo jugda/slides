@@ -150,26 +150,28 @@ Gleich Verlosung von Tickets, Rabatte: orga@jug-da.de
 
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
-![:scale 20%](img/sponsors/tud.png)
-![:scale 20%](img/sponsors/sus.png)
-![:scale 20%](img/sponsors/idea.png)
-![:scale 20%](img/sponsors/dpunkt.png)
-![:scale 20%](img/sponsors/epress.png)
-![:scale 20%](img/sponsors/hanser.png)
-![:scale 20%](img/sponsors/accso.png)
-![:scale 20%](img/sponsors/axxessio.png)
-![:scale 20%](img/sponsors/msg.png)
-![:scale 20%](img/sponsors/itforwork.png)
-![:scale 20%](img/sponsors/sigs.png)
-![:scale 20%](img/sponsors/innoq.png)
-![:scale 20%](img/sponsors/nterra.png)
-![:scale 20%](img/sponsors/cosee.png)
-![:scale 20%](img/sponsors/telekom.png)
-![:scale 20%](img/sponsors/entwicklertag.png)
-![:scale 20%](img/sponsors/gi.png)
-![:scale 20%](img/sponsors/qaware.png)
-![:scale 20%](img/sponsors/interes.png)
-![:scale 20%](img/sponsors/igd.png)
+&nbsp;
+
+![:scale 24%](img/sponsors/tud.png)
+![:scale 24%](img/sponsors/sus.png)
+![:scale 24%](img/sponsors/idea.png)
+![:scale 24%](img/sponsors/dpunkt.png)
+![:scale 24%](img/sponsors/epress.png)
+![:scale 24%](img/sponsors/hanser.png)
+![:scale 24%](img/sponsors/accso.png)
+![:scale 24%](img/sponsors/axxessio.png)
+![:scale 24%](img/sponsors/msg.png)
+![:scale 24%](img/sponsors/itforwork.png)
+![:scale 24%](img/sponsors/sigs.png)
+![:scale 24%](img/sponsors/innoq.png)
+![:scale 24%](img/sponsors/nterra.png)
+![:scale 24%](img/sponsors/cosee.png)
+![:scale 24%](img/sponsors/telekom.png)
+![:scale 24%](img/sponsors/entwicklertag.png)
+![:scale 24%](img/sponsors/gi.png)
+![:scale 24%](img/sponsors/qaware.png)
+![:scale 24%](img/sponsors/interes.png)
+![:scale 24%](img/sponsors/igd.png)
 
 ---
 
