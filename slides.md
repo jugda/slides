@@ -15,13 +15,9 @@ background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
 
+&nbsp;
+
 <table>
-	<tr>
-		<td>**19.10.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Spring Boot Starters<br/>(Michael Simons)</td>
-		<td>[<i class="fa fa-external-link"></i>](http://jug-da.de/2017/10/Spring-Boot-Starters/)</td>
-	</tr>
 	<tr>
 		<td>**09.11.2017**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
