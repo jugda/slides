@@ -47,9 +47,27 @@ function nextWinner() {
     document.getElementById('winner').innerHTML = "Teilnehmer-Liste ist leer!";
     return;
   }
-  var winner = Math.floor(Math.random() * players.length);
-  document.getElementById('winner').innerHTML = players[winner];
-  players.splice(winner, 1);
+  
+  setLotteryImage('winner', '/img/lottery.gif')
+  
+  drawingWinner('winner', "/sound/win.wav", Math.floor(Math.random() * players.length));
+}
+
+function setLotteryImage(elementId, imageUrl) {
+  var img = document.createElement("img");
+  img.src = imageUrl;
+  document.getElementById(elementId).innerHTML = '';
+  document.getElementById(elementId).appendChild(img);	
+}
+
+function drawingWinner(elementId, soundUrl, winner) {
+  var snd = new Audio(soundUrl);
+  setTimeout(function(){ 
+	snd.play(); 
+	document.getElementById(elementId).innerHTML = players[winner];
+	players.splice(winner, 1);
+  }, 1000);
+	
 }
 
 function resetLottery() {

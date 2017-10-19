@@ -138,7 +138,7 @@ Falk</textarea>
     <button onClick="resetLottery()">Reset</button>
 </div>
 
-<h2 id="winner" style="color:red"></h2>
+<h1 id="winner" style="color:red; text-align:center;"></h1>
 
 ???
 
