@@ -19,16 +19,28 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**09.11.2017**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>OpenShift Container Plattform<br/>(Jürgen Hoffmann)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2017/11/Openshift-Container-Platform/)</td>
-	</tr>
-	<tr>
 		<td>**07.12.2017**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>2. Kunterbunter Abend mit 3 Vorträgen<br/>(Diverse Sprecher)</td>
+		<td>2. Kunterbunter Abend<br/>(Diverse Sprecher)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2017/12/Zweiter-Kunterbunter-Abend/)</td>
+	</tr>
+	<tr>
+		<td>**18.01.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>REST und Alternativen<br/>(Thomas Bayer)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/01/REST-GraphQL-gRPC/)</td>
+	</tr>
+	<tr>
+		<td>**22.02.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Kotlin<br/>(Benjamin Schmid)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/02/Kotlin/)</td>
+	</tr>
+	<tr>
+		<td>**22.03.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Scheitern von Microservices<br/>(David Schmitz)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/10-Tipps-Microservices-scheitern/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -42,34 +54,28 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**2018**</td>
+		<td>**19.04.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Kommunikation (Cosima Laube)</td>
+		<td>inspectIT<br/>(C. Heger + M. Mann)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/)</td>
 	</tr>
 	<tr>
-		<td>**2018**</td>
+		<td>**17.05.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Kotlin (Dirk Dittert)</td>
+		<td>Time is an Illusion<br/>(Andreas Heigl)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
-		<td>**2018**</td>
+		<td>**16.08.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>inspectIT - Performance Monitoring (Mario Mann, Christoph Heger)</td>
-	</tr>
-	<tr>
-		<td>**2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>GraphQL, GRPC & Co. (T. Bayer)</td>
+		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
 		<td>**2018**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Kafka (Matthias Wessendorf)</td>
-	</tr>
-	<tr>
-		<td>**2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Microservices scheitern (D. Schmitz)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -110,6 +116,7 @@ background-image: url(img/plakat.png)
 
 &nbsp;
 &nbsp;
+
 Wir suchen interessierte Firmen:
 
 - Raumanforderung: .strong[30+]
@@ -122,29 +129,33 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## <i class="fa fa-bullhorn"></i> Partner Software und Support
-
-&nbsp;
-
-![:scale 20%](img/wjax.jpg) 15 % Rabatt
-
-![:scale 20%](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
-
-Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
-
----
-
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-![:scale 20%](img/jcon.jpg) 24. - 26. Oktober in Düsseldorf (2 Tage kostenlos)
-
-![:scale 20%](img/unkonf.jpg) 28. Oktober in Mannheim (ausverkauft)
+&nbsp;
 
 ![:scale 20%](img/jvmcon.png) 28. - 29. November in Köln (300 Euro Rabatt)
 
 ![:scale 20%](img/ittage.png) 11. - 14. Dezember in Frankfurt (20 % Rabatt)
 
+![:scale 20%](img/entwicklertag.png) 21. - 22. Februar 2018 in Frankfurt
+
+![:scale 20%](img/javaland2018.jpg) 13. - 15. März 2018 in Brühl (20 % Rabatt)
+
+&nbsp;
+
 Gleich Verlosung von Tickets, Rabatte: orga@jug-da.de
+
+---
+
+## <i class="fa fa-bullhorn"></i> Partner Software und Support
+
+&nbsp;
+
+![:scale 20%](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
+
+&nbsp;
+
+Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
 
 ---
 
@@ -203,8 +214,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+
 &nbsp;
 
-.center[![](img/kneipe.png)]
-
-.center[Nach dem Vortrag ist vor dem Stammtisch ...]
+.center[![](img/sponsors/accso.png)]  
