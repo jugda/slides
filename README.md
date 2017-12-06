@@ -10,3 +10,18 @@
   - um es lokal auszuführen, benötigt man einen simplen Webserver
   - z. B. ```ruby -run -ehttpd . -p8000```
   - siehe auch https://gist.github.com/willurd/5720255
+- die Namen der Verlosung bekommt man über folgendes Groovy-Skript (xxx ersetzen durch URL mit Type = JSON)
+
+```
+def orgas = ['Falk', 'Gerd', 'Jan', 'Jörn', 'Marcel', 'Niko', 'Sebastian']
+def registered = new groovy.json.JsonSlurper()
+    .parse(new URL('xxx'), "UTF-8")
+    .registrations
+    .name
+
+(registered - registered.intersect(orgas)).each {
+    println it
+}
+
+null
+```

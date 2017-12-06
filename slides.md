@@ -19,14 +19,8 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**07.12.2017**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>2. Kunterbunter Abend<br/>(Diverse Sprecher)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2017/12/Zweiter-Kunterbunter-Abend/)</td>
-	</tr>
-	<tr>
 		<td>**18.01.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td><i class="fa fa-university"></i></td>
 		<td>REST und Alternativen<br/>(Thomas Bayer)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/01/REST-GraphQL-gRPC/)</td>
 	</tr>
@@ -42,6 +36,12 @@ background-color: #ff0000;
 		<td>Scheitern von Microservices<br/>(David Schmitz)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/10-Tipps-Microservices-scheitern/)</td>
 	</tr>
+	<tr>
+		<td>**19.04.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>inspectIT<br/>(C. Heger + M. Mann)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -52,13 +52,9 @@ background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
 
+&nbsp;
+
 <table>
-	<tr>
-		<td>**19.04.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>inspectIT<br/>(C. Heger + M. Mann)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/)</td>
-	</tr>
 	<tr>
 		<td>**17.05.2018**</td>
 		<td><i class="fa fa-university"></i></td>
@@ -67,7 +63,7 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**16.08.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
@@ -84,48 +80,43 @@ background-color: #ff0000;
 
 ---
 
-## <i class="fa fa-bullhorn"></i> Unsere wichtigsten Kanäle
+background-image: url(img/thumbsup.jpg)
 
-&nbsp;
+## <i class="fa fa-bullhorn"></i> Eure Unterstützung
 
-### **Twitter**: [@JUG_DA](https://twitter.com/jug_da)
+.stripe[Weitersagen, <i class="fa fa-address-card" aria-hidden="true"></i> [Plakat aufhängen](http://jug-da.de/plakat)]  
+.stripe[<i class="fa fa-globe" aria-hidden="true"></i> http://jug-da.de] 
+.stripe[<i class="fa fa-twitter" aria-hidden="true"></i> [@JUG_DA](https://twitter.com/jug_da) - [<i class="fa fa-envelope-o" aria-hidden="true"></i>](https://groups.google.com/d/forum/jug-da) - [<i class="fa fa-rss-square" aria-hidden="true"></i>](https://www.jug-da.de/feed.xml) - [<i class="fa fa-calendar" aria-hidden="true"></i>](https://www.jug-da.de/events.ics)]
 
-&nbsp;
+???
 
-### **Blog** (Ankündigungen): http://jug-da.de
+CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1401616/
 
-&nbsp;
-
-### **Mailingliste**: https://groups.google.com/d/forum/jug-da
-
----
-
-background-image: url(img/plakat.png)
-
-## <i class="fa fa-list-alt"></i> Plakat
-
-.stripe[http://jug-da.de/plakat]
---
-.stripe[Bitte ausdrucken und aufhängen!]
---
-.stripe[Gern Bild twittern an @JUG_DA]
+Bitte ausdrucken und aufhängen: http://jug-da.de/plakat
+Gern Bild twittern an @JUG_DA.
 
 ---
 
-## <i class="fa fa-building-o"></i> Wechselnde Orte
+background-image: url(img/offene_arme.jpg)
+class: darkblue
 
-&nbsp;
-&nbsp;
+## <i class="fa fa-list-alt"></i> Sponsoring
+
+.stripe[Gastgeber]  
+.stripe[Catering]  
+.stripe[Merchandising] 
+
+???
+
+CC0 Creative Commons: https://pixabay.com/de/indischer-mann-m%C3%A4nnlich-person-1193226/ 
 
 Wir suchen interessierte Firmen:
-
 - Raumanforderung: .strong[30+]
-
 - Zeitraum: abends ab .strong[18:30 Uhr]
-
 - Lage: .strong[Darmstadt (Zentrumsnähe)]
-
 - Kontakt: info@jug-da.de
+- Übernahme von Catering
+- Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
 ---
 
@@ -133,29 +124,23 @@ Wir suchen interessierte Firmen:
 
 &nbsp;
 
-![:scale 20%](img/jvmcon.png) 28. - 29. November in Köln (300 Euro Rabatt)
-
 ![:scale 20%](img/ittage.png) 11. - 14. Dezember in Frankfurt (20 % Rabatt)
 
 ![:scale 20%](img/entwicklertag.png) 21. - 22. Februar 2018 in Frankfurt
 
 ![:scale 20%](img/javaland2018.jpg) 13. - 15. März 2018 in Brühl (20 % Rabatt)
 
+![:scale 20%](img/jax.png) 23. - 27. April 2018 in Mainz (15 % Rabatt)
+
 &nbsp;
 
-Gleich Verlosung von Tickets, Rabatte: orga@jug-da.de
+Gleich Verlosung von Tickets, Rabattcodes über orga@jug-da.de
 
 ---
 
-## <i class="fa fa-bullhorn"></i> Partner Software und Support
+class: middle, center
 
-&nbsp;
-
-![:scale 20%](img/sus_tutorials.png) 20% Rabatt bei https://tutorials.entwickler.de/
-
-&nbsp;
-
-Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
+![:scale 90%](img/synyx_lichtschwerter.jpg)
 
 ---
 
@@ -175,7 +160,6 @@ Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
 ![:scale 24%](img/sponsors/itforwork.png)
 ![:scale 24%](img/sponsors/sigs.png)
 ![:scale 24%](img/sponsors/innoq.png)
-![:scale 24%](img/sponsors/nterra.png)
 ![:scale 24%](img/sponsors/cosee.png)
 ![:scale 24%](img/sponsors/telekom.png)
 ![:scale 24%](img/sponsors/entwicklertag.png)
@@ -183,6 +167,7 @@ Rabatt-Codes bitte per Mail erfragen (orga@jug-da.de)
 ![:scale 24%](img/sponsors/qaware.png)
 ![:scale 24%](img/sponsors/interes.png)
 ![:scale 24%](img/sponsors/igd.png)
+![:scale 24%](img/sponsors/liveperson.png)
 
 ---
 
@@ -212,10 +197,12 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ---
 
-## Viel Spaß beim Vortrag
+## Viel Spaß bei den Vorträgen
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an LivePerson.
+
+.center[![](img/liveperson.png)]  
 
 &nbsp;
 
-.center[![](img/sponsors/accso.png)]  
+### Wir wünschen Euch ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr!

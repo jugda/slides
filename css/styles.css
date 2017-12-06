@@ -86,21 +86,21 @@ td {
 }
 
 .stripe {
-  color: darkgreen;
+  color: darkblue;
   font-size: 1.5em;
-  background-color: yellow;
+  background-color: white;
   border: 3px black solid;
   padding: 10px;
   display:inline-block;
   margin-top: 30px;
   font-weight: bold;
+  width: 600px;
 }
 .stripe:first-child {
   margin-top: 150px;
 }
 .stripe > a {
-  color: darkgreen;
-  text-decoration: none;
+  color: darkblue !important;
 }
 
 img {
@@ -111,8 +111,16 @@ img {
   font-weight: bold;
 }
 
-.red {
-  color: red;
+.darkblue {
+  color: darkblue;
+}
+
+.white {
+  color: white;
+}
+
+.white a {
+  color: white;
 }
 
 label, input {
