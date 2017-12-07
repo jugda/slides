@@ -138,9 +138,41 @@ Gleich Verlosung von Tickets, Rabattcodes über orga@jug-da.de
 
 ---
 
-class: middle, center
+layout: true
+.logo[Freitickets Kinoabend in Karlsruhe am 15.12.]
+.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
 
-![:scale 90%](img/synyx_lichtschwerter.jpg)
+---
+
+background-image: url(img/synyx_lichtschwerter.jpg)
+---
+
+layout: true
+.logo[Vorstellung LivePerson]
+.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+
+
+---
+
+background-image: url(img/liveperson/1.jpg)
+
+---
+
+background-image: url(img/liveperson/2.jpg)
+
+---
+
+background-image: url(img/liveperson/3.jpg)
+
+---
+
+background-image: url(img/liveperson/4.jpg)
+
+---
+
+layout: true
+.logo[![:scale 15%](img/logo_rund.png)]
+.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
 
 ---
 
@@ -199,7 +231,7 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß bei den Vorträgen
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an LivePerson.
+### Im Anschluss bleiben wir einfach hier. Vielen Dank an LivePerson für Speis und Trank.
 
 .center[![](img/liveperson.png)]  
 

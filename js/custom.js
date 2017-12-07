@@ -10,6 +10,7 @@ remark.macros.scale = function (percentage) {
 };
 
 var slideshow = remark.create({
+  ratio: '4:3',
   sourceUrl: 'slides.md'
 });
 
