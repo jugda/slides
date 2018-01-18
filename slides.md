@@ -19,12 +19,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**18.01.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>REST und Alternativen<br/>(Thomas Bayer)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/01/REST-GraphQL-gRPC/)</td>
-	</tr>
-	<tr>
 		<td>**22.02.2018**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Kotlin<br/>(Benjamin Schmid)</td>
@@ -124,8 +118,6 @@ Wir suchen interessierte Firmen:
 
 &nbsp;
 
-![:scale 20%](img/ittage.png) 11. - 14. Dezember in Frankfurt (20 % Rabatt)
-
 ![:scale 20%](img/entwicklertag.png) 21. - 22. Februar 2018 in Frankfurt
 
 ![:scale 20%](img/javaland2018.jpg) 13. - 15. März 2018 in Brühl (20 % Rabatt)
@@ -135,38 +127,6 @@ Wir suchen interessierte Firmen:
 &nbsp;
 
 Gleich Verlosung von Tickets, Rabattcodes über orga@jug-da.de
-
----
-
-layout: true
-.logo[Freitickets Kinoabend in Karlsruhe am 15.12.]
-.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
-
----
-
-background-image: url(img/synyx_lichtschwerter.jpg)
----
-
-layout: true
-.logo[Vorstellung LivePerson]
-.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
-
-
----
-
-background-image: url(img/liveperson/1.jpg)
-
----
-
-background-image: url(img/liveperson/2.jpg)
-
----
-
-background-image: url(img/liveperson/3.jpg)
-
----
-
-background-image: url(img/liveperson/4.jpg)
 
 ---
 
@@ -229,12 +189,10 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ---
 
-## Viel Spaß bei den Vorträgen
+## Viel Spaß beim Vortrag
 
-### Im Anschluss bleiben wir einfach hier. Vielen Dank an LivePerson für Speis und Trank.
-
-.center[![](img/liveperson.png)]  
+### Nach dem Vortrag ist vor dem Stammtisch
+    
+![](img/kneipe.png)
 
 &nbsp;
-
-### Wir wünschen Euch ein frohes Weihnachtsfest und einen guten Rutsch ins Neue Jahr!
