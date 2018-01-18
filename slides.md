@@ -8,7 +8,7 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+.copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 background-color: #ff0000;
