@@ -19,14 +19,14 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**22.02.2018**</td>
+		<td>**08.03.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Kotlin<br/>(Benjamin Schmid)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/02/Kotlin/)</td>
+		<td>Double Feature: Java 10 + Hybrid Architecture<br/>(Reinier Zwitserloot + Roel Spilker, Joep Weijers)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/Double-Feature-Refactoring2Java10-And-HybridArchitecture/)</td>
 	</tr>
 	<tr>
 		<td>**22.03.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Scheitern von Microservices<br/>(David Schmitz)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/10-Tipps-Microservices-scheitern/)</td>
 	</tr>
@@ -35,6 +35,12 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>inspectIT<br/>(C. Heger + M. Mann)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/)</td>
+	</tr>
+	<tr>
+		<td>**17.05.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Time is an Illusion + Encoding<br/>(Andreas Heigl)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -50,10 +56,10 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**17.05.2018**</td>
+		<td>**13.06.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Time is an Illusion<br/>(Andreas Heigl)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
 	</tr>
 	<tr>
 		<td>**16.08.2018**</td>
@@ -62,10 +68,16 @@ background-color: #ff0000;
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
-		<td>**2018**</td>
+		<td>**19.09.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Kafka (Matthias Wessendorf)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Spring Data JDBC (Jens Schauder)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/09/SpringDataJdbc/)</td>
+	</tr>
+	<tr>
+		<td>**15.11.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -118,15 +130,13 @@ Wir suchen interessierte Firmen:
 
 &nbsp;
 
-![:scale 20%](img/entwicklertag.png) 21. - 22. Februar 2018 in Frankfurt
-
 ![:scale 20%](img/javaland2018.jpg) 13. - 15. März 2018 in Brühl (20 % Rabatt)
 
 ![:scale 20%](img/jax.png) 23. - 27. April 2018 in Mainz (15 % Rabatt)
 
 &nbsp;
 
-Gleich Verlosung von Tickets, Rabattcodes über orga@jug-da.de
+Rabattcodes über orga@jug-da.de
 
 ---
 
@@ -150,7 +160,7 @@ layout: true
 ![:scale 24%](img/sponsors/axxessio.png)
 ![:scale 24%](img/sponsors/msg.png)
 ![:scale 24%](img/sponsors/itforwork.png)
-![:scale 24%](img/sponsors/sigs.png)
+![:scale 24%](img/sponsors/mitp.png)
 ![:scale 24%](img/sponsors/innoq.png)
 ![:scale 24%](img/sponsors/cosee.png)
 ![:scale 24%](img/sponsors/telekom.png)
@@ -191,8 +201,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
-    
-![](img/kneipe.png)
-
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+   
 &nbsp;
+   
+.center[![](img/sponsors/accso.png)]  
