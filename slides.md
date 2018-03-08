@@ -19,12 +19,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**08.03.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Double Feature: Java 10 + Hybrid Architecture<br/>(Reinier Zwitserloot + Roel Spilker, Joep Weijers)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/Double-Feature-Refactoring2Java10-And-HybridArchitecture/)</td>
-	</tr>
-	<tr>
 		<td>**22.03.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Scheitern von Microservices<br/>(David Schmitz)</td>
@@ -42,6 +36,12 @@ background-color: #ff0000;
 		<td>Time is an Illusion + Encoding<br/>(Andreas Heigl)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
+	<tr>
+		<td>**13.06.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -55,12 +55,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**13.06.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
-	</tr>
 	<tr>
 		<td>**16.08.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -201,8 +195,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
-   
+### Nach dem Vortrag ist vor dem Stammtisch
+     
 &nbsp;
-   
-.center[![](img/sponsors/accso.png)]  
+
+![](img/kneipe.png)
