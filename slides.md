@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 40%](img/logo_rund.png)
+![:scale 40%](img/logo_rund_mit_gi.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
@@ -11,6 +11,12 @@ layout: true
 .copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
+
+background-image: url(img/voting_ersatzvortrag.png)
+
+&nbsp;
+
+---
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
@@ -18,12 +24,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**22.03.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Scheitern von Microservices<br/>(David Schmitz)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/03/10-Tipps-Microservices-scheitern/)</td>
-	</tr>
 	<tr>
 		<td>**19.04.2018**</td>
 		<td><i class="fa fa-university"></i></td>
@@ -38,9 +38,15 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**13.06.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
+	</tr>
+	<tr>
+		<td>**16.08.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -56,14 +62,8 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**16.08.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
 		<td>**19.09.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Spring Data JDBC (Jens Schauder)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/09/SpringDataJdbc/)</td>
 	</tr>
@@ -82,7 +82,7 @@ background-color: #ff0000;
 
 background-image: url(img/thumbsup.jpg)
 
-## <i class="fa fa-bullhorn"></i> Eure Unterstützung
+## <i class="fa fa-bullhorn"></i> Unterstützung
 
 .stripe[Weitersagen, <i class="fa fa-address-card" aria-hidden="true"></i> [Plakat aufhängen](http://jug-da.de/plakat)]  
 .stripe[<i class="fa fa-globe" aria-hidden="true"></i> http://jug-da.de] 
@@ -122,15 +122,36 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-&nbsp;
-
-![:scale 20%](img/javaland2018.jpg) 13. - 15. März 2018 in Brühl (20 % Rabatt)
+Rabattcodes über orga@jug-da.de
 
 ![:scale 20%](img/jax.png) 23. - 27. April 2018 in Mainz (15 % Rabatt)
 
-&nbsp;
+.center[![:scale 45%](img/javaland2019.jpg)]
 
-Rabattcodes über orga@jug-da.de
+
+---
+
+## <i class="fa fa-search"></i> Newcomer werden
+
+- Votrag auf einer (großen) Konferenz halten?
+
+- Wir unterstützen Euch: 
+  - Thema
+  - Titel, Abstract
+  - Einreichung
+  - Folien
+  - Generalprobe bei der JUG
+  - Tipps und Tricks zum Vortragsstil
+
+- <i class="fa fa-female"></i> + <i class="fa fa-male"></i>
+
+- **Traut Euch. Meldet Euch. Sprecht uns an.**
+
+???
+
+- zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
+- Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
+- bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
 ---
 
@@ -166,6 +187,20 @@ layout: true
 ![:scale 24%](img/sponsors/liveperson.png)
 
 ---
+## <i class="fa fa-bullhorn"></i> Buchrezensionen
+
+Mail an orga@jug-da.de
+
+&nbsp;
+
+![:scale 30%](img/sponsors/dpunkt.png)
+![:scale 30%](img/sponsors/epress.png)
+![:scale 30%](img/sponsors/hanser.png)
+![:scale 30%](img/sponsors/mitp.png)
+![:scale 30%](img/sponsors/rheinwerk.png)
+![:scale 30%](img/sponsors/oreilly.png)
+
+---
 
 ## <i class="fa fa-users"></i> Verlosung
 
@@ -195,8 +230,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
-     
-&nbsp;
-
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD.
+   
+.center[![](img/sponsors/igd.png)]
