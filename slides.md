@@ -136,7 +136,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-search"></i> Newcomer werden
 
-- Votrag auf einer (großen) Konferenz halten?
+- Vortrag auf einer (großen) Konferenz halten?
 
 - Wir unterstützen Euch: 
   - Thema
