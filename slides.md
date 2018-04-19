@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 40%](img/logo_rund_mit_gi.png)
+![:scale 40%](img/logo_rund.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
@@ -12,11 +12,6 @@ layout: true
 
 ---
 
-background-image: url(img/voting_ersatzvortrag.png)
-
-&nbsp;
-
----
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
@@ -24,12 +19,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**19.04.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>inspectIT<br/>(C. Heger + M. Mann)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/04/Open-Source-APM-inspectit/)</td>
-	</tr>
 	<tr>
 		<td>**17.05.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -43,10 +32,16 @@ background-color: #ff0000;
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
 	</tr>
 	<tr>
-		<td>**16.08.2018**</td>
+		<td>**12.07.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>5. Darmstädter Barbecue Stammtisch</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Fuenfter-Barbecue-Stammtisch/)</td>
+	</tr>
+	<tr>
+		<td>**18.07.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Streaming von Datenbankänderungen mit Debezium (Gunnar Morling)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Debezium/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -61,6 +56,12 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
+	<tr>
+		<td>**16.08.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
 	<tr>
 		<td>**19.09.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -122,12 +123,14 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-Rabattcodes über orga@jug-da.de
 
 ![:scale 20%](img/jax.png) 23. - 27. April 2018 in Mainz (15 % Rabatt)
 
-.center[![:scale 45%](img/javaland2019.jpg)]
+![:scale 20%](img/sus_microservice_summit.png) ![:scale 10%](img/sus_api_summit.png) 11. - 13. Juni 2018 in München (15 % Rabatt)
 
+![:scale 20%](img/wjax.png) 05. - 09. November 2018 in München (15 % Rabatt)
+
+### Rabattcodes über orga@jug-da.de
 
 ---
 
@@ -189,8 +192,6 @@ layout: true
 ---
 ## <i class="fa fa-bullhorn"></i> Buchrezensionen
 
-Mail an orga@jug-da.de
-
 &nbsp;
 
 ![:scale 30%](img/sponsors/dpunkt.png)
@@ -199,6 +200,10 @@ Mail an orga@jug-da.de
 ![:scale 30%](img/sponsors/mitp.png)
 ![:scale 30%](img/sponsors/rheinwerk.png)
 ![:scale 30%](img/sponsors/oreilly.png)
+
+&nbsp;
+
+### <i class="fa fa-envelope-o"></i> [orga@jug-da.de](orga@jug-da.de)
 
 ---
 
@@ -230,6 +235,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD.
-   
-.center[![](img/sponsors/igd.png)]
+### Nach dem Vortrag ist vor dem Stammtisch
+     
+&nbsp;
+
+![](img/kneipe.png)
