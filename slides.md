@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**17.05.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Time is an Illusion + Encoding<br/>(Andreas Heigl)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
 		<td>**13.06.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
@@ -43,6 +37,12 @@ background-color: #ff0000;
 		<td>Streaming von Datenbankänderungen mit Debezium (Gunnar Morling)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Debezium/)</td>
 	</tr>
+	<tr>
+		<td>**16.08.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -56,12 +56,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**16.08.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
 	<tr>
 		<td>**19.09.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -123,8 +117,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-
-![:scale 20%](img/jax.png) 23. - 27. April 2018 in Mainz (15 % Rabatt)
 
 ![:scale 20%](img/sus_microservice_summit.png) ![:scale 10%](img/sus_api_summit.png) 11. - 13. Juni 2018 in München (15 % Rabatt)
 
@@ -235,8 +227,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
-     
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
+
 &nbsp;
 
-![](img/kneipe.png)
+.center[![](img/sponsors/nterra.png)]
