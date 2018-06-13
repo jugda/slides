@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**13.06.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Groovy integration testing with Docker and TestContainers (Kevin Wittek)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/06/Testcontainers/)</td>
-	</tr>
-	<tr>
 		<td>**12.07.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>5. Darmstädter Barbecue Stammtisch</td>
@@ -33,7 +27,7 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**18.07.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Streaming von Datenbankänderungen mit Debezium (Gunnar Morling)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Debezium/)</td>
 	</tr>
@@ -179,7 +173,7 @@ layout: true
 ![:scale 24%](img/sponsors/qaware.png)
 ![:scale 24%](img/sponsors/interes.png)
 ![:scale 24%](img/sponsors/igd.png)
-![:scale 24%](img/sponsors/liveperson.png)
+![:scale 24%](img/sponsors/softwareag.png)
 
 ---
 ## <i class="fa fa-bullhorn"></i> Buchrezensionen
@@ -227,8 +221,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Software AG.
 
 &nbsp;
 
-.center[![](img/sponsors/nterra.png)]
+.center[![](img/sponsors/softwareag.png)]
