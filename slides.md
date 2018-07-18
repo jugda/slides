@@ -20,21 +20,21 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**12.07.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>5. Darmstädter Barbecue Stammtisch</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Fuenfter-Barbecue-Stammtisch/)</td>
-	</tr>
-	<tr>
-		<td>**18.07.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Streaming von Datenbankänderungen mit Debezium (Gunnar Morling)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/07/Debezium/)</td>
-	</tr>
-	<tr>
 		<td>**16.08.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/08/Will-einfach-nur-coden/)</td>
+	</tr>
+	<tr>
+		<td>**19.09.2018**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Spring Data JDBC (Jens Schauder)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/09/SpringDataJdbc/)</td>
+	</tr>
+	<tr>
+		<td>**18.10.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Vortrag (noch offen)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -51,16 +51,16 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**19.09.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Spring Data JDBC (Jens Schauder)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/09/SpringDataJdbc/)</td>
-	</tr>
-	<tr>
 		<td>**15.11.2018**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
+	</tr>
+	<tr>
+		<td>**06.12.2018**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Vortrag und Weihnachtsfeier (noch offen)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -111,8 +111,11 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
+![:scale 20%](img/herbstcampus.jpg) 04. - 06. September 2018 in Nürnberg
 
-![:scale 20%](img/sus_microservice_summit.png) ![:scale 10%](img/sus_api_summit.png) 11. - 13. Juni 2018 in München (15 % Rabatt)
+![:scale 20%](img/unkonf.jpg) 13. Oktober 2018 in Mannheim	
+
+![:scale 20%](img/voxxed_microservices.jpg) 29. - 31. Oktober 2018 in Paris
 
 ![:scale 20%](img/wjax.png) 05. - 09. November 2018 in München (15 % Rabatt)
 
@@ -221,8 +224,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Software AG.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
 
 &nbsp;
 
-.center[![](img/sponsors/softwareag.png)]
+.center[![](img/sponsors/cosee.png)]
