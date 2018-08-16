@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**16.08.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Aber ich will einfach nur coden<br/>(Cosima Laube)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/08/Will-einfach-nur-coden/)</td>
-	</tr>
-	<tr>
 		<td>**19.09.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Spring Data JDBC (Jens Schauder)</td>
@@ -34,22 +28,9 @@ background-color: #ff0000;
 	<tr>
 		<td>**18.10.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Vortrag (noch offen)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Developer Experience mit Kubernetes (Nicolas Byl)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/10/Kubernetes-Developer-Experience/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-background-color: #ff0000;
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-&nbsp;
-
-<table>
 	<tr>
 		<td>**15.11.2018**</td>
 		<td><i class="fa fa-university"></i></td>
@@ -69,7 +50,7 @@ background-color: #ff0000;
 
 ---
 
-background-image: url(img/thumbsup.jpg)
+background-image: url(img/jug-hilfe.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Unterstützung
 
@@ -86,8 +67,7 @@ Gern Bild twittern an @JUG_DA.
 
 ---
 
-background-image: url(img/offene_arme.jpg)
-class: darkblue
+background-image: url(img/jug-welcome.jpg)
 
 ## <i class="fa fa-list-alt"></i> Sponsoring
 
@@ -97,7 +77,7 @@ class: darkblue
 
 ???
 
-CC0 Creative Commons: https://pixabay.com/de/indischer-mann-m%C3%A4nnlich-person-1193226/ 
+CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447068/
 
 Wir suchen interessierte Firmen:
 - Raumanforderung: .strong[30+]
@@ -111,17 +91,29 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-![:scale 20%](img/herbstcampus.jpg) 04. - 06. September 2018 in Nürnberg
+[![:scale 20%](img/herbstcampus.jpg)](http://herbstcampus.de) 04. - 06. September 2018 in Nürnberg
 
-![:scale 20%](img/unkonf.jpg) 13. Oktober 2018 in Mannheim	
+[![:scale 20%](img/sus_swa_summit.png)](http://www.software-architecture-summit.de/) 10. - 12. September 2018 in Berlin (15 % Rabatt)
 
-![:scale 20%](img/voxxed_microservices.jpg) 29. - 31. Oktober 2018 in Paris
+[![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 13. Oktober 2018 in Mannheim	
 
-![:scale 20%](img/wjax.png) 05. - 09. November 2018 in München (15 % Rabatt)
+[![:scale 20%](img/sus_enterprise_summit.png)](https://javaenterprisesummit.de/) 17. - 19. Oktober 2018 in Düsseldorf (15 % Rabatt)
+
+[![:scale 20%](img/voxxed_microservices.jpg)](https://voxxeddays.com/microservices/) 29. - 31. Oktober 2018 in Paris
+
+[![:scale 20%](img/wjax.png)](http://wjax.de) 05. - 09. November 2018 in München (15 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
 
 ---
+
+## <i class="fa fa-bullhorn"></i> Coming soon
+
+[.center[![](img/coming_soon.png)]](https://twitter.com/JUG_DA/status/1016987357034270720)
+
+---
+
+background-image: url(img/jug-newcomer.jpg)
 
 ## <i class="fa fa-search"></i> Newcomer werden
 
@@ -141,6 +133,8 @@ Wir suchen interessierte Firmen:
 
 ???
 
+CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447092/
+
 - zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
@@ -150,6 +144,23 @@ Wir suchen interessierte Firmen:
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
 .copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+
+---
+
+## <i class="fa fa-bullhorn"></i> Buchrezensionen
+
+&nbsp;
+
+![:scale 30%](img/sponsors/dpunkt.png)
+![:scale 30%](img/sponsors/epress.png)
+![:scale 30%](img/sponsors/hanser.png)
+![:scale 30%](img/sponsors/mitp.png)
+![:scale 30%](img/sponsors/rheinwerk.png)
+![:scale 30%](img/sponsors/oreilly.png)
+
+&nbsp;
+
+### <i class="fa fa-envelope-o"></i> [orga@jug-da.de](orga@jug-da.de)
 
 ---
 
@@ -177,22 +188,6 @@ layout: true
 ![:scale 24%](img/sponsors/interes.png)
 ![:scale 24%](img/sponsors/igd.png)
 ![:scale 24%](img/sponsors/softwareag.png)
-
----
-## <i class="fa fa-bullhorn"></i> Buchrezensionen
-
-&nbsp;
-
-![:scale 30%](img/sponsors/dpunkt.png)
-![:scale 30%](img/sponsors/epress.png)
-![:scale 30%](img/sponsors/hanser.png)
-![:scale 30%](img/sponsors/mitp.png)
-![:scale 30%](img/sponsors/rheinwerk.png)
-![:scale 30%](img/sponsors/oreilly.png)
-
-&nbsp;
-
-### <i class="fa fa-envelope-o"></i> [orga@jug-da.de](orga@jug-da.de)
 
 ---
 
@@ -224,8 +219,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an InteRES.
 
 &nbsp;
 
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/interes.png)]
