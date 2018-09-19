@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**19.09.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Spring Data JDBC (Jens Schauder)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/09/SpringDataJdbc/)</td>
-	</tr>
-	<tr>
 		<td>**18.10.2018**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Developer Experience mit Kubernetes (Nicolas Byl)</td>
@@ -33,7 +27,7 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**15.11.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
 	</tr>
@@ -91,10 +85,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-[![:scale 20%](img/herbstcampus.jpg)](http://herbstcampus.de) 04. - 06. September 2018 in Nürnberg
-
-[![:scale 20%](img/sus_swa_summit.png)](http://www.software-architecture-summit.de/) 10. - 12. September 2018 in Berlin (15 % Rabatt)
-
 [![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 13. Oktober 2018 in Mannheim	
 
 [![:scale 20%](img/sus_enterprise_summit.png)](https://javaenterprisesummit.de/) 17. - 19. Oktober 2018 in Düsseldorf (15 % Rabatt)
@@ -103,13 +93,9 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/wjax.png)](http://wjax.de) 05. - 09. November 2018 in München (15 % Rabatt)
 
+[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt
+
 ### Rabattcodes über orga@jug-da.de
-
----
-
-## <i class="fa fa-bullhorn"></i> Coming soon
-
-[.center[![](img/coming_soon.png)]](https://twitter.com/JUG_DA/status/1016987357034270720)
 
 ---
 
@@ -138,6 +124,26 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
+
+---
+
+## <i class="fa fa-bullhorn"></i> Coming soon: Speaker Unkonf
+
+[.center[![](img/coming_soon.png)]](https://twitter.com/JUG_DA/status/1016987357034270720)
+
+---
+
+## <i class="fa fa-bullhorn"></i> Coming soon: Kids4IT
+
+- Tagesveranstaltung wie Devoxx4Kids, Kids4IT, CoderDojo, ...
+
+- Darmstädter Kinder und Jugendliche als Teilnehmer
+
+- Veranstaltungsort Darmstadt (Sponsoren und Räumlichkeiten gesucht)
+
+- ggf. Zusammenarbeit mit Schulen
+
+- Mentoren gesucht
 
 ---
 
@@ -219,8 +225,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an InteRES.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT For Work (IHK Darmstadt).
 
 &nbsp;
 
-.center[![](img/sponsors/interes.png)]
+.center[![](img/sponsors/itforwork.png)]
