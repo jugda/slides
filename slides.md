@@ -93,7 +93,7 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/wjax.png)](http://wjax.de) 05. - 09. November 2018 in München (15 % Rabatt)
 
-[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt
+[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt (20 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
 
