@@ -32,10 +32,10 @@ background-color: #ff0000;
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
 	</tr>
 	<tr>
-		<td>**06.12.2018**</td>
+		<td>**12.12.2018**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Vortrag und Weihnachtsfeier (noch offen)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>10 Tipps, um mit Microservices zu scheitern (David Schmitz)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/12/Zehn-Tipps-Microservices-scheitern/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -84,10 +84,6 @@ Wir suchen interessierte Firmen:
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
-
-[![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 13. Oktober 2018 in Mannheim	
-
-[![:scale 20%](img/sus_enterprise_summit.png)](https://javaenterprisesummit.de/) 17. - 19. Oktober 2018 in Düsseldorf (15 % Rabatt)
 
 [![:scale 20%](img/voxxed_microservices.jpg)](https://voxxeddays.com/microservices/) 29. - 31. Oktober 2018 in Paris
 
