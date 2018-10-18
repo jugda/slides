@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**18.10.2018**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Developer Experience mit Kubernetes (Nicolas Byl)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/10/Kubernetes-Developer-Experience/)</td>
-	</tr>
-	<tr>
 		<td>**15.11.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
@@ -33,9 +27,21 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**12.12.2018**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>10 Tipps, um mit Microservices zu scheitern (David Schmitz)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/12/Zehn-Tipps-Microservices-scheitern/)</td>
+	</tr>
+	<tr>
+		<td>**16.01.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**14.02.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Doppelvortrag: Monitoring + Tracing (Antje Landschulz, Björn Kasteleiner)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -221,8 +227,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT For Work (IHK Darmstadt).
-
+### Nach dem Vortrag ist vor dem Stammtisch
+      
 &nbsp;
-
-.center[![](img/sponsors/itforwork.png)]
+ 
+![](img/kneipe.png)
