@@ -97,6 +97,8 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt (20 % Rabatt)
 
+[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2019/) 20. - 21. Februar 2019 in Frankfurt
+
 ### Rabattcodes über orga@jug-da.de
 
 ---
