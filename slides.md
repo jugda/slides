@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**15.11.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
-	</tr>
-	<tr>
 		<td>**12.12.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>10 Tipps, um mit Microservices zu scheitern (David Schmitz)</td>
@@ -91,10 +85,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-[![:scale 20%](img/voxxed_microservices.jpg)](https://voxxeddays.com/microservices/) 29. - 31. Oktober 2018 in Paris
-
-[![:scale 20%](img/wjax.png)](http://wjax.de) 05. - 09. November 2018 in München (15 % Rabatt)
-
 [![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt (20 % Rabatt)
 
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2019/) 20. - 21. Februar 2019 in Frankfurt
@@ -153,7 +143,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+.copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -229,8 +219,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
       
 &nbsp;
  
-![](img/kneipe.png)
+.center[![](img/sponsors/nterra.png)]
