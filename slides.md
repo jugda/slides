@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 40%](img/logo_rund.png)
+![:scale 40%](img/logo_rund_mit_gi.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**15.11.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Functional Libraries for Java 8 (Rabea Gransberger)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/11/FunctionalLibrariesWithJava8/)</td>
-	</tr>
-	<tr>
 		<td>**12.12.2018**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>10 Tipps, um mit Microservices zu scheitern (David Schmitz)</td>
@@ -33,14 +27,56 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**16.01.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>noch offen</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Architektur für den Lebensmittelhandel (Ansgar Brauner)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/01/Microservices-Architektur/)</td>
 	</tr>
 	<tr>
 		<td>**14.02.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Doppelvortrag: Monitoring + Tracing (Antje Landschulz, Björn Kasteleiner)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/02/Monitoring-Tracing/)</td>
+	</tr>
+	<tr>
+		<td>**13.02.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>SpeakerUnkonf Rhein-Main</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+---
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+&nbsp;
+
+<table>
+	<tr>
+		<td>**14.03.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Java 10, 11, 12 und darüber hinaus (Michael Vitz)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/03/Java-10-11-12/)</td>
+	</tr>
+	<tr>
+		<td>**11.04.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**16.05.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**06.06.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Deep Learning - A Primer (Shirin Glander)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -91,13 +127,11 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-[![:scale 20%](img/voxxed_microservices.jpg)](https://voxxeddays.com/microservices/) 29. - 31. Oktober 2018 in Paris
-
-[![:scale 20%](img/wjax.png)](http://wjax.de) 05. - 09. November 2018 in München (15 % Rabatt)
-
-[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 10. - 13. Dezember 2018 in Frankfurt (20 % Rabatt)
-
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2019/) 20. - 21. Februar 2019 in Frankfurt
+
+[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 19. - 21. März 2019 in Brühl (30 % Rabatt)
+
+[![:scale 20%](img/jax.png)](https://www.jax.de/) 06. - 10. Mai 2019 in Mainz (15 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -133,7 +167,8 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 ## <i class="fa fa-bullhorn"></i> Coming soon: Speaker Unkonf
 
-[.center[![](img/coming_soon.png)]](https://twitter.com/JUG_DA/status/1016987357034270720)
+.center[![:scale 60%](img/coming_soon.png)]
+.stripe[[23.02.2018 bei cosee in Darmstadt](https://twitter.com/JUG_DA/status/1016987357034270720)]
 
 ---
 
@@ -229,8 +264,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
-      
-&nbsp;
- 
-![](img/kneipe.png)
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD und QAware.
+      	      
+&nbsp;	&nbsp;
+ 	 
+.center[![](img/sponsors/igd.png)![](img/sponsors/qaware.png)]
+
