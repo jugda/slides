@@ -188,7 +188,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2017 [Java User Group Darmstadt](http://jug-da.de/2017/01/)]
+.copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -269,4 +269,3 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 &nbsp;	&nbsp;
  	 
 .center[![](img/sponsors/igd.png)![](img/sponsors/qaware.png)]
-
