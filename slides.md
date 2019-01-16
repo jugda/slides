@@ -1,6 +1,6 @@
 class: center, middle
 
-![:scale 40%](img/logo_rund_mit_gi.png)
+![:scale 40%](img/logo.png)
 
 # Aktuelle Informationen
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
@@ -20,28 +20,28 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**12.12.2018**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>10 Tipps, um mit Microservices zu scheitern (David Schmitz)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2018/12/Zehn-Tipps-Microservices-scheitern/)</td>
-	</tr>
-	<tr>
-		<td>**16.01.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Architektur für den Lebensmittelhandel (Ansgar Brauner)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/01/Microservices-Architektur/)</td>
-	</tr>
-	<tr>
 		<td>**14.02.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Doppelvortrag: Monitoring + Tracing (Antje Landschulz, Björn Kasteleiner)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/02/Monitoring-Tracing/)</td>
 	</tr>
 	<tr>
-		<td>**13.02.2019**</td>
-		<td><i class="fa fa-university"></i></td>
+		<td>**23.02.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>SpeakerUnkonf Rhein-Main</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**14.03.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Java 10, 11, 12 und darüber hinaus (Michael Vitz)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/03/Java-10-11-12/)</td>
+	</tr>
+	<tr>
+		<td>**11.04.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Sixpacks werden in der Küche gemacht! (Niko Köbler)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/04/sixpacks-werden-in-der-kueche-gemacht/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -56,27 +56,21 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**14.03.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Java 10, 11, 12 und darüber hinaus (Michael Vitz)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/03/Java-10-11-12/)</td>
-	</tr>
-	<tr>
-		<td>**11.04.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>noch offen</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
 		<td>**16.05.2019**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>noch offen</td>
+		<td>Refactoring 2nd Edition (Michael Hunger)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
 		<td>**06.06.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Deep Learning - A Primer (Shirin Glander)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**05.11.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Neue Schule der Software-Architektur (Stefan Toth)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -137,6 +131,13 @@ Wir suchen interessierte Firmen:
 
 ---
 
+## <i class="fa fa-bullhorn"></i> Coming soon: Speaker Unkonf
+
+.center[![:scale 60%](img/speakonf.jpg)]
+.stripe[[23.02.2018 bei cosee in Darmstadt](https://twitter.com/JUG_DA/status/1016987357034270720)]
+
+---
+
 background-image: url(img/jug-newcomer.jpg)
 
 ## <i class="fa fa-search"></i> Newcomer werden
@@ -162,13 +163,6 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
-
----
-
-## <i class="fa fa-bullhorn"></i> Coming soon: Speaker Unkonf
-
-.center[![:scale 60%](img/coming_soon.png)]
-.stripe[[23.02.2018 bei cosee in Darmstadt](https://twitter.com/JUG_DA/status/1016987357034270720)]
 
 ---
 
@@ -264,8 +258,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Fraunhofer IGD und QAware.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
       	      
 &nbsp;	&nbsp;
  	 
-.center[![](img/sponsors/igd.png)![](img/sponsors/qaware.png)]
+.center[![](img/sponsors/accso.png)]
