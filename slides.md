@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**14.02.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Doppelvortrag: Monitoring + Tracing (Antje Landschulz, Björn Kasteleiner)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/02/Monitoring-Tracing/)</td>
-	</tr>
-	<tr>
 		<td>**23.02.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>SpeakerUnkonf Rhein-Main</td>
@@ -33,7 +27,7 @@ background-color: #ff0000;
 	</tr>
 	<tr>
 		<td>**14.03.2019**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Java 10, 11, 12 und darüber hinaus (Michael Vitz)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/03/Java-10-11-12/)</td>
 	</tr>
@@ -258,8 +252,7 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
-      	      
-&nbsp;	&nbsp;
- 	 
-.center[![](img/sponsors/accso.png)]
+   
+### Nach dem Vortrag ist vor dem Stammtisch
+
+![](img/kneipe.png)
