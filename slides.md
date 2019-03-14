@@ -20,35 +20,11 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**23.02.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>SpeakerUnkonf Rhein-Main</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
-		<td>**14.03.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Java 10, 11, 12 und darüber hinaus (Michael Vitz)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/03/Java-10-11-12/)</td>
-	</tr>
-	<tr>
 		<td>**11.04.2019**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Sixpacks werden in der Küche gemacht! (Niko Köbler)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/04/sixpacks-werden-in-der-kueche-gemacht/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-&nbsp;
-
-<table>
 	<tr>
 		<td>**16.05.2019**</td>
 		<td><i class="fa fa-university"></i></td>
@@ -115,20 +91,18 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
 
-[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2019/) 20. - 21. Februar 2019 in Frankfurt
-
 [![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 19. - 21. März 2019 in Brühl (30 % Rabatt)
 
 [![:scale 20%](img/jax.png)](https://www.jax.de/) 06. - 10. Mai 2019 in Mainz (15 % Rabatt)
 
+[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 04. Juli 2019 in Stuttgart
+
+[![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 03. - 05. September 2019 in Nürnberg
+
+[![:scale 20%](img/jfn.png)](https://javaforumnord.de/) 24. September 2019 in Hannover
+
+
 ### Rabattcodes über orga@jug-da.de
-
----
-
-## <i class="fa fa-bullhorn"></i> Coming soon: Speaker Unkonf
-
-.center[![:scale 60%](img/speakonf.jpg)]
-.stripe[[23.02.2018 bei cosee in Darmstadt](https://twitter.com/JUG_DA/status/1016987357034270720)]
 
 ---
 
@@ -229,6 +203,7 @@ layout: true
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 
 <textarea id="attendees" style="display:none;" rows="10" cols="40" onClick="resizeLotteryInput(false);" onBlur="resizeLotteryInput(true);">
+Melanie
 Gerd
 Jan
 Jörn
@@ -252,7 +227,14 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-   
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Cosee.
+
+&nbsp;    &nbsp;
+      
+.center[![](img/sponsors/cosee.png)]
+
+???
+
 ### Nach dem Vortrag ist vor dem Stammtisch
 
 ![](img/kneipe.png)
