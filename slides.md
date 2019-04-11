@@ -8,7 +8,7 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[&copy; 2019 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -20,14 +20,8 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**11.04.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Sixpacks werden in der Küche gemacht! (Niko Köbler)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/04/sixpacks-werden-in-der-kueche-gemacht/)</td>
-	</tr>
-	<tr>
 		<td>**16.05.2019**</td>
-		<td><i class="fa fa-university"></i></td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Refactoring 2nd Edition (Michael Hunger)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
@@ -36,6 +30,12 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>Deep Learning - A Primer (Shirin Glander)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**15.08.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Elasticsearch - Neues, Security + Monitoring (Alexander Reelsen)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/08/ElasticSearch/)</td>
 	</tr>
 	<tr>
 		<td>**05.11.2019**</td>
@@ -90,8 +90,6 @@ Wir suchen interessierte Firmen:
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
-
-[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 19. - 21. März 2019 in Brühl (30 % Rabatt)
 
 [![:scale 20%](img/jax.png)](https://www.jax.de/) 06. - 10. Mai 2019 in Mainz (15 % Rabatt)
 
@@ -227,11 +225,12 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an InteRES.
 
-&nbsp;    &nbsp;
+&nbsp;    
+&nbsp;
       
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/interes.png)]
 
 ???
 
