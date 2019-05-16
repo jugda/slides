@@ -20,17 +20,36 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**16.05.2019**</td>
+		<td>**06.06.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Refactoring 2nd Edition (Michael Hunger)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Deep Learning - A Primer (Denis Stalz-John)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/06/Deap-Learning/)</td>
 	</tr>
 	<tr>
-		<td>**06.06.2019**</td>
+		<td>**10.07.2019**</td>
 		<td><i class="fa fa-university"></i></td>
-		<td>Deep Learning - A Primer (Shirin Glander)</td>
+		<td>Java 9 & 11 Live-Coding (Nicolai Parlog)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
+    <tr>
+        <td>**11.07.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+        <td>6. Darmstädter Barbecue Stammtisch</td>
+        <td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/07/Sechster-Barbecue-Stammtisch/)</td>
+    </tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+---
+background-color: #ff0000;
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+&nbsp;
+
+<table>
 	<tr>
 		<td>**15.08.2019**</td>
 		<td><i class="fa fa-university"></i></td>
@@ -89,18 +108,27 @@ Wir suchen interessierte Firmen:
 
 ---
 
-## <i class="fa fa-bullhorn"></i> Weitere Konferenzen
+## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/jax.png)](https://www.jax.de/) 06. - 10. Mai 2019 in Mainz (15 % Rabatt)
+
+[![:scale 20%](img/cosee_techtalks.svg)](https://talks.cosee.biz) 23. Mai 2019 in Darmstadt
 
 [![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 04. Juli 2019 in Stuttgart
 
 [![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 03. - 05. September 2019 in Nürnberg
 
+[![:scale 20%](img/accento.jpg)](https://accento.dev/) 24. - 25. September 2019 in Karlsruhe
+
 [![:scale 20%](img/jfn.png)](https://javaforumnord.de/) 24. September 2019 in Hannover
+
+[![:scale 20%](img/wjax.png)](https://www.jax.de/) 04. - 08. November 2019 in München (15 % Rabatt)
 
 
 ### Rabattcodes über orga@jug-da.de
+
+---
+
+background-image: url(img/accento_2019.png)
 
 ---
 
@@ -225,12 +253,12 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an InteRES.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work und Cegeka.
 
-&nbsp;    
-&nbsp;
-      
-.center[![](img/sponsors/interes.png)]
+&nbsp;  &nbsp;
+
+.center[![](img/sponsors/itforwork.png)]
+.center[![](img/sponsors/cegeka.png)]
 
 ???
 
