@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**06.06.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Deep Learning - A Primer (Denis Stalz-John)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/06/Deap-Learning/)</td>
-	</tr>
-	<tr>
 		<td>**10.07.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Java 9 & 11 Live-Coding (Nicolai Parlog)</td>
@@ -37,6 +31,12 @@ background-color: #ff0000;
         <td>6. Darmstädter Barbecue Stammtisch</td>
         <td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/07/Sechster-Barbecue-Stammtisch/)</td>
     </tr>
+	<tr>
+		<td>**15.08.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>Elasticsearch - Neues, Security + Monitoring (Alexander Reelsen)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/08/ElasticSearch/)</td>
+	</tr>
 </table>
 &nbsp;
 
@@ -51,15 +51,21 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**15.08.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Elasticsearch - Neues, Security + Monitoring (Alexander Reelsen)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/08/ElasticSearch/)</td>
+		<td>**17.10.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Microservices Erfahrungsbericht</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
 		<td>**05.11.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Neue Schule der Software-Architektur (Stefan Toth)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**11.12.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Testen von und mit Infrastruktur (Sandra Parsick)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -111,8 +117,6 @@ Wir suchen interessierte Firmen:
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
 
-[![:scale 20%](img/cosee_techtalks.svg)](https://talks.cosee.biz) 23. Mai 2019 in Darmstadt
-
 [![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 04. Juli 2019 in Stuttgart
 
 [![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 03. - 05. September 2019 in Nürnberg
@@ -128,7 +132,7 @@ Wir suchen interessierte Firmen:
 
 ---
 
-background-image: url(img/accento_2019.png)
+background-image: url(img/accento_2019.jpg)
 
 ---
 
@@ -253,12 +257,11 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an IT for Work und Cegeka.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
 
 &nbsp;  &nbsp;
 
-.center[![](img/sponsors/itforwork.png)]
-.center[![](img/sponsors/cegeka.png)]
+.center[![](img/sponsors/nterra.png)]
 
 ???
 
