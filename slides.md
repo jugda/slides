@@ -19,12 +19,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**10.07.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Java 9 & 11 Live-Coding (Nicolai Parlog)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
     <tr>
         <td>**11.07.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
@@ -36,6 +30,12 @@ background-color: #ff0000;
 		<td><i class="fa fa-university"></i></td>
 		<td>Elasticsearch - Neues, Security + Monitoring (Alexander Reelsen)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/08/ElasticSearch/)</td>
+	</tr>
+	<tr>
+		<td>**11.09.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -60,7 +60,7 @@ background-color: #ff0000;
 		<td>**05.11.2019**</td>
 		<td><i class="fa fa-university"></i></td>
 		<td>Neue Schule der Software-Architektur (Stefan Toth)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/11/Neue-Schule-Softwarearchitektur/)</td>
 	</tr>
 	<tr>
 		<td>**11.12.2019**</td>
@@ -117,8 +117,6 @@ Wir suchen interessierte Firmen:
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
 
-[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 04. Juli 2019 in Stuttgart
-
 [![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 03. - 05. September 2019 in Nürnberg
 
 [![:scale 20%](img/accento.jpg)](https://accento.dev/) 24. - 25. September 2019 in Karlsruhe
@@ -162,7 +160,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
----
+??? ---
 
 ## <i class="fa fa-bullhorn"></i> Coming soon: Kids4IT
 
@@ -257,14 +255,13 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
+### Nach dem Vortrag ist vor dem Stammtisch
 
-&nbsp;  &nbsp;
-
-.center[![](img/sponsors/nterra.png)]
+.center[![](img/herrengartencafe.jpg)]
 
 ???
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
 ![](img/kneipe.png)
+![](img/herrengartencafe.jpg)
