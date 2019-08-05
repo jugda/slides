@@ -19,42 +19,17 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-    <tr>
-        <td>**11.07.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-        <td>6. Darmstädter Barbecue Stammtisch</td>
-        <td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/07/Sechster-Barbecue-Stammtisch/)</td>
-    </tr>
-	<tr>
-		<td>**15.08.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>Elasticsearch - Neues, Security + Monitoring (Alexander Reelsen)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/08/ElasticSearch/)</td>
-	</tr>
 	<tr>
 		<td>**11.09.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>noch offen</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Wege zum Kubernetes-Cluster (Leo Roos)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/09/Kubernetes-Cluster/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-background-color: #ff0000;
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-&nbsp;
-
-<table>
 	<tr>
 		<td>**17.10.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Microservices Erfahrungsbericht</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>Vom Monolithen zu Microservices in Openshift (Sascha Hanß)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/10/Microservices-Openshift/)</td>
 	</tr>
 	<tr>
 		<td>**05.11.2019**</td>
@@ -68,6 +43,19 @@ background-color: #ff0000;
 		<td>Testen von und mit Infrastruktur (Sandra Parsick)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+???
+background-color: #ff0000;
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+&nbsp;
+
+<table>
 </table>
 &nbsp;
 
@@ -255,9 +243,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Software AG.
 
-.center[![](img/herrengartencafe.jpg)]
+.center[![](img/sponsors/softwareag.png)]
 
 ???
 
