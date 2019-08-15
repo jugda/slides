@@ -28,7 +28,7 @@ background-color: #ff0000;
 	<tr>
 		<td>**17.10.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Vom Monolithen zu Microservices in Openshift (Sascha Hanß)</td>
+		<td>Vom Monolithen zu Microservices in Openshift (Sascha Hanß, Daniel Krämer)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/10/Microservices-Openshift/)</td>
 	</tr>
 	<tr>
@@ -111,6 +111,8 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/jfn.png)](https://javaforumnord.de/) 24. September 2019 in Hannover
 
+[![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 12. Oktober 2019 in Mannheim    
+
 [![:scale 20%](img/wjax.png)](https://www.jax.de/) 04. - 08. November 2019 in München (15 % Rabatt)
 
 
@@ -119,6 +121,10 @@ Wir suchen interessierte Firmen:
 ---
 
 background-image: url(img/accento_2019.jpg)
+
+---
+
+background-image: url(img/unkonf_2019.jpg)
 
 ---
 
@@ -243,9 +249,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Software AG.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Cosee.
 
-.center[![](img/sponsors/softwareag.png)]
+.center[![](img/sponsors/cosee.png)]
 
 ???
 
