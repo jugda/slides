@@ -20,8 +20,8 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td style="color:red;">**26.09.2019**</td>
-		<td><i class="fa fa-university"></i></td>
+		<td>**26.09.2019**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Neue Schule der Software-Architektur (Stefan Toth)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/09/Neue-Schule-Softwarearchitektur/)</td>
 	</tr>
@@ -50,7 +50,17 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
+	<tr>
+		<td>**11.12.2019**</td>
+		<td><i class="fa fa-university"></i></td>
+		<td>()</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
 </table>
+
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+
+
 &nbsp;
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
@@ -98,10 +108,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/accento.jpg)](https://accento.dev/) 24. - 25. September 2019 in Karlsruhe
-
-[![:scale 20%](img/jfn.png)](https://javaforumnord.de/) 24. September 2019 in Hannover
-
 [![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 12. Oktober 2019 in Mannheim    
 
 [![:scale 20%](img/wjax.png)](https://www.jax.de/) 04. - 08. November 2019 in München (15 % Rabatt)
@@ -110,15 +116,9 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2020/) 19. - 20. Februar 2020 in Frankfurt
 
+[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 17. - 19. März 2020 in Brühl bei Köln (30 % Rabatt)
+
 ### Rabattcodes über orga@jug-da.de
-
----
-
-background-image: url(img/accento_2019.jpg)
-
----
-
-background-image: url(img/unkonf_2019.jpg)
 
 ---
 
@@ -243,9 +243,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Software AG.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Accso.
 
-.center[![](img/sponsors/softwareag.png)]
+.center[![](img/sponsors/accso.png)]
 
 ???
 
