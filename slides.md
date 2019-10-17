@@ -114,7 +114,7 @@ Wir suchen interessierte Firmen:
 
 ---
 
-background-image: url(img/javaland2020.png)
+background-image: url(img/javaland2020.jpg)
 
 ---
 
