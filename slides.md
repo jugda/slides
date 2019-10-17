@@ -114,6 +114,10 @@ Wir suchen interessierte Firmen:
 
 ---
 
+background-image: url(img/javaland2020.png)
+
+---
+
 background-image: url(img/jug-newcomer.jpg)
 
 ## <i class="fa fa-search"></i> Newcomer werden
