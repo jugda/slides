@@ -20,12 +20,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**26.09.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Neue Schule der Software-Architektur (Stefan Toth)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/09/Neue-Schule-Softwarearchitektur/)</td>
-	</tr>
-	<tr>
 		<td>**17.10.2019**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 		<td>Vom Monolithen zu Microservices in Openshift (Sascha Hanß, Daniel Krämer)</td>
@@ -107,8 +101,6 @@ Wir suchen interessierte Firmen:
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
-
-[![:scale 20%](img/unkonf.jpg)](https://unkonf.de) 12. Oktober 2019 in Mannheim    
 
 [![:scale 20%](img/wjax.png)](https://www.jax.de/) 04. - 08. November 2019 in München (15 % Rabatt)
 
@@ -243,9 +235,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Accso.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Prostep.
 
-.center[![](img/sponsors/accso.png)]
+.center[![](img/sponsors/prostep.png)]
 
 ???
 
