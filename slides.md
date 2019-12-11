@@ -20,15 +20,33 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**17.10.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Vom Monolithen zu Microservices in Openshift (Sascha Hanß, Daniel Krämer)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/10/Microservices-Openshift/)</td>
+		<td>**11.12.2019**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>Testen von und mit Infrastruktur (Sandra Parsick)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/12/Testen-Infrastruktur/)</td>
 	</tr>
 	<tr>
-		<td>**11.12.2019**</td>
+		<td>**16.01.2020**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Testen von und mit Infrastruktur (Sandra Parsick)</td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**13.02.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>Doppelvortrag: DevOps und Ethik (Carsten Hoffmann, Corinna Schreier)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/02/DevOps-Ethik/)</td>
+	</tr>
+	<tr>
+		<td>**12.03.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>noch offen</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**23.04.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Quarkus (Markus Eisele)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -101,10 +119,6 @@ Wir suchen interessierte Firmen:
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
-
-[![:scale 20%](img/wjax.png)](https://www.jax.de/) 04. - 08. November 2019 in München (15 % Rabatt)
-
-[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 09. - 12. Dezember 2019 in Frankfurt (20 % Rabatt)
 
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2020/) 19. - 20. Februar 2020 in Frankfurt
 
@@ -239,13 +253,14 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Prostep.
-
-.center[![](img/sponsors/prostep.png)]
-
-???
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
 ![](img/kneipe.png)
+
+???
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Prostep.
+
 ![](img/herrengartencafe.jpg)
+.center[![](img/sponsors/prostep.png)]
+
