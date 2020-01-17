@@ -20,27 +20,21 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**11.12.2019**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>Testen von und mit Infrastruktur (Sandra Parsick)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2019/12/Testen-Infrastruktur/)</td>
-	</tr>
-	<tr>
-		<td>**16.01.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>noch offen</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
 		<td>**13.02.2020**</td>
         <td><i class="fa fa-university fa-container"></i></i></td>
 		<td>Doppelvortrag: DevOps und Ethik (Carsten Hoffmann, Corinna Schreier)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/02/DevOps-Ethik/)</td>
 	</tr>
 	<tr>
-		<td>**12.03.2020**</td>
+		<td>**04.03.2020**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>noch offen</td>
+		<td>Reactive Relational Database Connectivity (Greg Turnquist)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**26.03.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>MicroProfile (Thilo Frotscher)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 	<tr>
@@ -123,6 +117,8 @@ Wir suchen interessierte Firmen:
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2020/) 19. - 20. Februar 2020 in Frankfurt
 
 [![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 17. - 19. März 2020 in Brühl bei Köln (30 % Rabatt)
+
+[![:scale 20%](img/jax.png)](https://www.jax.de/) 11. - 15. Mai 2020 in Mainz (15 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -253,12 +249,17 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die cosee.
+
+.center[![](img/sponsors/cosee.png)]
+
+
+???
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
 ![](img/kneipe.png)
 
-???
 ### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Prostep.
 
 ![](img/herrengartencafe.jpg)
