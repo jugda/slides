@@ -20,27 +20,83 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**13.02.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>Doppelvortrag: DevOps und Ethik (Carsten Hoffmann, Corinna Schreier)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/02/DevOps-Ethik/)</td>
-	</tr>
-	<tr>
 		<td>**04.03.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Reactive Relational Database Connectivity (Greg Turnquist)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>Reactive Relational Database Connectivity (**Greg Turnquist**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/03/Reactive-DB/)</td>
 	</tr>
 	<tr>
 		<td>**26.03.2020**</td>
         <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>MicroProfile (Thilo Frotscher)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>MicroProfile (**Thilo Frotscher**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/03/MicroProfile/)</td>
 	</tr>
 	<tr>
 		<td>**23.04.2020**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Quarkus (Markus Eisele)</td>
+		<td>Quarkus (**Markus Eisele**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/04/Quarkus/)</td>
+	</tr>
+	<tr>
+		<td>**14.05.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Change-Driven Testing (**Sven Amann**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/05/Change-Driven-Testing/)</td>
+	</tr>
+	<tr>
+		<td>**18.06.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+</table>
+&nbsp;
+
+.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+
+---
+
+background-color: #ff0000;
+
+## <i class="fa fa-calendar"></i> Nächste Events
+
+&nbsp;
+
+<table>
+	<tr>
+		<td>**16.07.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Service Mesh (**Hanna Prinz**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/07/Service-Mesh/)</td>
+	</tr>
+	<tr>
+		<td>**20.08.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**10.09.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**22.10.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Java by Comparison (**Simon Harrer**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
+	</tr>
+	<tr>
+		<td>**12.11.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+	</tr>
+	<tr>
+		<td>**10.12.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
@@ -58,13 +114,11 @@ background-color: #ff0000;
 <table>
 	<tr>
 		<td>**11.12.2019**</td>
-		<td><i class="fa fa-university"></i></td>
-		<td>()</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>noch offen (**noch offen**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
 </table>
-
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
 
 
 &nbsp;
@@ -249,9 +303,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die cosee.
+### Nach dem Vortrag ist vor dem Stammtisch
 
-.center[![](img/sponsors/cosee.png)]
+![](img/kneipe.png)
 
 
 ???
