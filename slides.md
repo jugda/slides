@@ -14,6 +14,14 @@ layout: true
 
 background-color: #ff0000;
 
+[![](img/cont-doc-camp.svg)](https://ahus1.de/cdc)
+
+Samstag, 25. April 2020 | https://ahus1.de/cdc &nbsp; &nbsp;<p style="text-align:right;position:relative;top:-80px">[![:scale 20%](img/cont-doc-camp-dm.gif)](https://ahus1.de/cdc)</p>
+
+---
+
+background-color: #ff0000;
+
 ## <i class="fa fa-calendar"></i> Nächste Events
 
 &nbsp;
@@ -171,6 +179,8 @@ Wir suchen interessierte Firmen:
 [![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2020/) 19. - 20. Februar 2020 in Frankfurt
 
 [![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 17. - 19. März 2020 in Brühl bei Köln (30 % Rabatt)
+
+[![:scale 20%](img/cont-doc-camp.svg)](https://ahus1.de/cdc) 25. April 2020 in Eschborn b. Frankfurt: [ahus1.de/cdc](https://ahus1.de/cdc)
 
 [![:scale 20%](img/jax.png)](https://www.jax.de/) 11. - 15. Mai 2020 in Mainz (15 % Rabatt)
 
