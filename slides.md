@@ -8,15 +8,7 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2019 [Java User Group Darmstadt](http://jug-da.de/)]
-
----
-
-background-color: #ff0000;
-
-[![](img/cont-doc-camp.svg)](https://ahus1.de/cdc)
-
-Samstag, 25. April 2020 | https://ahus1.de/cdc &nbsp; &nbsp;<p style="text-align:right;position:relative;top:-80px">[![:scale 20%](img/cont-doc-camp-dm.gif)](https://ahus1.de/cdc)</p>
+.copyright[&copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -27,12 +19,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**04.03.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>Reactive Relational Database Connectivity (**Greg Turnquist**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/03/Reactive-DB/)</td>
-	</tr>
 	<tr>
 		<td>**26.03.2020**</td>
         <td><i class="fa fa-university fa-container"></i></i></td>
@@ -176,13 +162,16 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2020/) 19. - 20. Februar 2020 in Frankfurt
-
 [![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 17. - 19. März 2020 in Brühl bei Köln (30 % Rabatt)
 
-[![:scale 20%](img/cont-doc-camp.svg)](https://ahus1.de/cdc) 25. April 2020 in Eschborn b. Frankfurt: [ahus1.de/cdc](https://ahus1.de/cdc)
+[![:scale 20%](img/cosee_techtalks.svg)](https://www.cosee.biz/business-breakfast/) 20. März 2020 in Darmstadt: Business Breakfast
+
+[![:scale 20%](img/cont-doc-camp.svg)](https://ahus1.de/cdc) 25. April 2020 in Eschborn bei Frankfurt
 
 [![:scale 20%](img/jax.png)](https://www.jax.de/) 11. - 15. Mai 2020 in Mainz (15 % Rabatt)
+
+[![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 16. Mai 2020 in Darmstadt (frei)
+
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -191,6 +180,14 @@ Wir suchen interessierte Firmen:
 background-image: url(img/javaland2020.jpg)
 
 ---
+background-color: #ff0000;
+
+[![](img/cont-doc-camp.svg)](https://ahus1.de/cdc)
+
+Samstag, 25. April 2020 | https://ahus1.de/cdc &nbsp; &nbsp;<p style="text-align:right;position:relative;top:-80px">[![:scale 20%](img/cont-doc-camp-dm.gif)](https://ahus1.de/cdc)</p>
+
+---
+
 
 background-image: url(img/jug-newcomer.jpg)
 
