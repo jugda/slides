@@ -166,8 +166,6 @@ Wir suchen interessierte Firmen:
 
 [![:scale 20%](img/cosee_techtalks.svg)](https://www.cosee.biz/business-breakfast/) 20. März 2020 in Darmstadt: Business Breakfast
 
-[![:scale 20%](img/cont-doc-camp.svg)](https://ahus1.de/cdc) 25. April 2020 in Eschborn bei Frankfurt
-
 [![:scale 20%](img/jax.png)](https://www.jax.de/) 11. - 15. Mai 2020 in Mainz (15 % Rabatt)
 
 [![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 16. Mai 2020 in Darmstadt (frei)
@@ -178,13 +176,6 @@ Wir suchen interessierte Firmen:
 ---
 
 background-image: url(img/javaland2020.jpg)
-
----
-background-color: #ff0000;
-
-[![](img/cont-doc-camp.svg)](https://ahus1.de/cdc)
-
-Samstag, 25. April 2020 | https://ahus1.de/cdc &nbsp; &nbsp;<p style="text-align:right;position:relative;top:-80px">[![:scale 20%](img/cont-doc-camp-dm.gif)](https://ahus1.de/cdc)</p>
 
 ---
 
