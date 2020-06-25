@@ -20,28 +20,28 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**26.03.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>MicroProfile (**Thilo Frotscher**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/03/MicroProfile/)</td>
-	</tr>
-	<tr>
-		<td>**23.04.2020**</td>
+		<td>**16.07.2020**</td>
         <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Quarkus (**Markus Eisele**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/04/Quarkus/)</td>
+		<td>Service Mesh (**Hanna Prinz**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/07/Service-Mesh/)</td>
 	</tr>
 	<tr>
-		<td>**14.05.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Change-Driven Testing (**Sven Amann**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/05/Change-Driven-Testing/)</td>
-	</tr>
-	<tr>
-		<td>**18.06.2020**</td>
+		<td>**20.08.2020**</td>
         <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+		<td>ArchUnit (**Thomas Much**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/08/ArchUnit/)</td>
+	</tr>
+	<tr>
+		<td>**10.09.2020**</td>
+        <td><i class="fa fa-university fa-container"></i></i></td>
+		<td>Workshop: Spring Cloud Contract (**Fabian Krüger**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/09/Spring-Cloud-Contracts/)</td>
+	</tr>
+	<tr>
+		<td>**22.10.2020**</td>
+        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+		<td>Java by Comparison (**Simon Harrer**)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
 	</tr>
 </table>
 &nbsp;
@@ -57,30 +57,6 @@ background-color: #ff0000;
 &nbsp;
 
 <table>
-	<tr>
-		<td>**16.07.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Service Mesh (**Hanna Prinz**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/07/Service-Mesh/)</td>
-	</tr>
-	<tr>
-		<td>**20.08.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
-		<td>**10.09.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-	<tr>
-		<td>**22.10.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>Java by Comparison (**Simon Harrer**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
-	</tr>
 	<tr>
 		<td>**12.11.2020**</td>
         <td><i class="fa fa-university fa-container"></i></i></td>
@@ -162,23 +138,25 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 17. - 19. März 2020 in Brühl bei Köln (30 % Rabatt)
+[![:scale 20%](img/accento.png)](https://2020.accento.dev/) 07. Juli 2020 Online (50 % Rabatt)
 
-[![:scale 20%](img/cosee_techtalks.svg)](https://www.cosee.biz/business-breakfast/) 20. März 2020 in Darmstadt: Business Breakfast
+[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 07. - 11. September 2020 in Mainz (15 % Rabatt)
 
-[![:scale 20%](img/jax.png)](https://www.jax.de/) 11. - 15. Mai 2020 in Mainz (15 % Rabatt)
+[![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 19. September 2020 Virtuell aus Darmstadt (frei)
 
-[![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 16. Mai 2020 in Darmstadt (frei)
-
+[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 02. - 06. November 2020 in München (15 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
 
 ---
 
-background-image: url(img/javaland2020.jpg)
+background-image: url(img/accento2020.jpg)
 
 ---
 
+background-image: url(img/accento2020_2.jpg)
+
+???
 
 background-image: url(img/jug-newcomer.jpg)
 
@@ -293,6 +271,12 @@ Falk</textarea>
 
 <h1 id="winner" style="color:red; text-align:center;"></h1>
 
+### Preise
+
+1. Freikarte accento.dev am 07.07.
+2. Buch von entwickler.press
+3. Buch von dpunkt
+
 ???
 
 Namen aus der Teilnehmerliste in das Textarea kopieren.
@@ -301,10 +285,9 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag ist vor dem Stammtisch
+### Nach dem Vortrag bleiben wir einfach hier.
 
 ![](img/kneipe.png)
-
 
 ???
 
