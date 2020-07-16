@@ -103,6 +103,12 @@ td {
   color: darkblue !important;
 }
 
+.bottom {
+  position: absolute;
+  left: 100px;
+  bottom: 70px;  
+}
+
 img {
   vertical-align: middle;
 }

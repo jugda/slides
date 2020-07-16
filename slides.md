@@ -21,25 +21,25 @@ background-color: #ff0000;
 <table>
 	<tr>
 		<td>**16.07.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+        <td><i class="fa fa-globe"></i></td>
 		<td>Service Mesh (**Hanna Prinz**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/07/Service-Mesh/)</td>
 	</tr>
 	<tr>
 		<td>**20.08.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
+        <td><i class="fa fa-globe"></i></td>
 		<td>ArchUnit (**Thomas Much**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/08/ArchUnit/)</td>
 	</tr>
 	<tr>
 		<td>**10.09.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
+        <td><i class="fa fa-globe"></i></td>
 		<td>Workshop: Spring Cloud Contract (**Fabian Krüger**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/09/Spring-Cloud-Contracts/)</td>
 	</tr>
 	<tr>
 		<td>**22.10.2020**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
+        <td><i class="fa fa-globe"></i></td>
 		<td>Java by Comparison (**Simon Harrer**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
 	</tr>
@@ -59,13 +59,13 @@ background-color: #ff0000;
 <table>
 	<tr>
 		<td>**12.11.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
+        <td><i class="fa fa-globe"></i></td>
+		<td>Crypto 101 (Oliver Milke)</td>
+		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/)</td>
 	</tr>
 	<tr>
 		<td>**10.12.2020**</td>
-        <td><i class="fa fa-university fa-container"></i></i></td>
+        <td><i class="fa fa-globe"></i></td>
 		<td>noch offen (**noch offen**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
 	</tr>
@@ -138,8 +138,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/accento.png)](https://2020.accento.dev/) 07. Juli 2020 Online (50 % Rabatt)
-
 [![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 07. - 11. September 2020 in Mainz (15 % Rabatt)
 
 [![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 19. September 2020 Virtuell aus Darmstadt (frei)
@@ -148,13 +146,19 @@ Wir suchen interessierte Firmen:
 
 ### Rabattcodes über orga@jug-da.de
 
----
-
-background-image: url(img/accento2020.jpg)
+#### Weitere kostenlose Remote-Konferenzen im Herbst: <br/>Herbstcampus, Java-Forum-Stuttgart
 
 ---
 
-background-image: url(img/accento2020_2.jpg)
+background-image: url(img/javaland2021.jpg)
+
+## <i class="fa fa-search"></i> Vision
+
+.bottom[<i class="fa fa-globe" aria-hidden="true"></i> http://vision.ijug.eu] 
+
+???
+
+Die nächste JavaLand (2021) wird hoffentlich wieder vor Ort stattfinden, aber es wird einen mehr oder weniger großen Remote-Anteil geben. Darum wird aktuell eine Hybrid-Konferenz geplant. Welche Ideen dafür interessant sein könnten, werden auf vision.ijug.eu diskutiert. Wer mit diskutieren möchte oder eigene Ideen/Vorschläge hat, findet dort die Möglichkeit, sich einzubringen (#javaland im jvm-german Slack).
 
 ???
 
@@ -202,7 +206,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2018 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[&copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -273,9 +277,9 @@ Falk</textarea>
 
 ### Preise
 
-1. Freikarte accento.dev am 07.07.
-2. Buch von entwickler.press
-3. Buch von dpunkt
+1. Jahres-Abo JavaMagazin
+2. Buch von dpunkt
+3. Lizenz für ein Jetbrains-Tool (z. B. IntelliJ)
 
 ???
 
