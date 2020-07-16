@@ -3,12 +3,14 @@ class: center, middle
 ![:scale 40%](img/logo.png)
 
 # Aktuelle Informationen
+
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
@@ -201,12 +203,6 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - ggf. Zusammenarbeit mit Schulen
 
 - Mentoren gesucht
-
----
-
-layout: true
-.logo[![:scale 15%](img/logo_rund.png)]
-.copyright[&copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 
