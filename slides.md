@@ -22,18 +22,6 @@ background-color: #ff0000;
 
 <table>
 	<tr>
-		<td>**16.07.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>Service Mesh (**Hanna Prinz**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/07/Service-Mesh/)</td>
-	</tr>
-	<tr>
-		<td>**20.08.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>ArchUnit (**Thomas Much**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/08/ArchUnit/)</td>
-	</tr>
-	<tr>
 		<td>**10.09.2020**</td>
         <td><i class="fa fa-globe"></i></td>
 		<td>Workshop: Spring Cloud Contract (**Fabian Krüger**)</td>
@@ -45,38 +33,21 @@ background-color: #ff0000;
 		<td>Java by Comparison (**Simon Harrer**)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
 	</tr>
-</table>
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
-
----
-
-background-color: #ff0000;
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-&nbsp;
-
-<table>
 	<tr>
 		<td>**12.11.2020**</td>
         <td><i class="fa fa-globe"></i></td>
 		<td>Crypto 101 (Oliver Milke)</td>
 		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/)</td>
 	</tr>
-	<tr>
-		<td>**10.12.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
 </table>
+
 &nbsp;
 
 .footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
 
+
 ???
+
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
@@ -140,6 +111,10 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
+Herbstcampus Java Online Event
+
+[![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 01. - 03. September 2020 Virtuell (20 € Rabatt)
+
 [![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 07. - 11. September 2020 in Mainz (15 % Rabatt)
 
 [![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 19. September 2020 Virtuell aus Darmstadt (frei)
@@ -148,7 +123,7 @@ Wir suchen interessierte Firmen:
 
 ### Rabattcodes über orga@jug-da.de
 
-#### Weitere kostenlose Remote-Konferenzen im Herbst: <br/>Herbstcampus, Java-Forum-Stuttgart
+#### Weitere Remote-Konferenzen im Herbst: <br/>Java-Forum-Stuttgart, JUG Saxony Day
 
 ---
 
