@@ -13,60 +13,20 @@ layout: true
 .copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
-
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
 
 &nbsp;
 
-<table>
-	<tr>
-		<td>**10.09.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>Workshop: Spring Cloud Contract (**Fabian Krüger**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/09/Spring-Cloud-Contracts/)</td>
-	</tr>
-	<tr>
-		<td>**22.10.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>Java by Comparison (**Simon Harrer**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/)</td>
-	</tr>
-	<tr>
-		<td>**12.11.2020**</td>
-        <td><i class="fa fa-globe"></i></td>
-		<td>Crypto 101 (Oliver Milke)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/)</td>
-	</tr>
-</table>
-
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+  |  |  | 
+------------- |------------- |------------- | -------------
+**17.09.2020**  | <i class="fa fa-globe"></i> | Workshop: Spring Cloud Contract (**Fabian Krüger**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/09/Spring-Cloud-Contracts/)
+**22.10.2020** | <i class="fa fa-globe"></i> | Java by Comparison (**Simon Harrer**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/) |
+**12.11.2020** | <i class="fa fa-globe"></i> | Crypto 101 (**Oliver Milke**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/) |
 
 
-???
-
-background-color: #ff0000;
-
-## <i class="fa fa-calendar"></i> Nächste Events
-
-&nbsp;
-
-<table>
-	<tr>
-		<td>**11.12.2019**</td>
-        <td><i class="fa fa-university fa-container"><i class="fa fa-ban fa-nested"></i></i></td>
-		<td>noch offen (**noch offen**)</td>
-		<td>[<i class="fa fa-external-link"></i>](https://www.jug-da.de/)</td>
-	</tr>
-</table>
-
-
-&nbsp;
-
-.footnote[Von der TU Darmstadt abweichende Veranstaltungsorte sind markiert.]
+.footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
 ---
 
@@ -74,7 +34,7 @@ background-image: url(img/jug-hilfe.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Unterstützung
 
-.stripe[Weitersagen, <i class="fa fa-address-card" aria-hidden="true"></i> [Plakat aufhängen](http://jug-da.de/plakat)]  
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> Weitersagen - [<i class="fa fa-print" aria-hidden="true"></i> Plakat aufhängen](http://jug-da.de/plakat)]  
 .stripe[<i class="fa fa-globe" aria-hidden="true"></i> http://jug-da.de] 
 .stripe[<i class="fa fa-twitter" aria-hidden="true"></i> [@JUG_DA](https://twitter.com/jug_da) - [<i class="fa fa-envelope-o" aria-hidden="true"></i>](https://groups.google.com/d/forum/jug-da) - [<i class="fa fa-rss-square" aria-hidden="true"></i>](https://www.jug-da.de/feed.xml) - [<i class="fa fa-calendar" aria-hidden="true"></i>](https://www.jug-da.de/events.ics)]
 
@@ -110,12 +70,6 @@ Wir suchen interessierte Firmen:
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
-
-Herbstcampus Java Online Event
-
-[![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) 01. - 03. September 2020 Virtuell (20 € Rabatt)
-
-[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 07. - 11. September 2020 in Mainz (15 % Rabatt)
 
 [![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 19. September 2020 Virtuell aus Darmstadt (frei)
 
