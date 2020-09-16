@@ -81,6 +81,12 @@ Wir suchen interessierte Firmen:
 
 ---
 
+background-image: url(img/speakonf-2020.jpg)
+
+.bottom[<i class="fa fa-globe" aria-hidden="true"></i> https://www.speakonf.de] 
+
+---
+
 background-image: url(img/javaland2021.jpg)
 
 ## <i class="fa fa-search"></i> Vision
@@ -177,7 +183,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 ![:scale 24%](img/sponsors/igd.png)
 ![:scale 24%](img/sponsors/softwareag.png)
 
----
+???
 
 ## <i class="fa fa-users"></i> Verlosung
 
@@ -214,7 +220,7 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier.
+### Nach dem Workshop sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ![](img/kneipe.png)
 
