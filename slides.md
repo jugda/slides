@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**17.09.2020**  | <i class="fa fa-globe"></i> | Workshop: Spring Cloud Contract (**Fabian Krüger**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/09/Spring-Cloud-Contracts/)
 **22.10.2020** | <i class="fa fa-globe"></i> | Java by Comparison (**Simon Harrer**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/) |
 **12.11.2020** | <i class="fa fa-globe"></i> | Crypto 101 (**Oliver Milke**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/) |
 
@@ -97,7 +96,7 @@ background-image: url(img/javaland2021.jpg)
 
 Die nächste JavaLand (2021) wird hoffentlich wieder vor Ort stattfinden, aber es wird einen mehr oder weniger großen Remote-Anteil geben. Darum wird aktuell eine Hybrid-Konferenz geplant. Welche Ideen dafür interessant sein könnten, werden auf vision.ijug.eu diskutiert. Wer mit diskutieren möchte oder eigene Ideen/Vorschläge hat, findet dort die Möglichkeit, sich einzubringen (#javaland im jvm-german Slack).
 
-???
+---
 
 background-image: url(img/jug-newcomer.jpg)
 
