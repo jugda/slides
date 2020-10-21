@@ -177,7 +177,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 ![:scale 24%](img/sponsors/igd.png)
 ![:scale 24%](img/sponsors/softwareag.png)
 
-???
+---
 
 ## <i class="fa fa-users"></i> Verlosung
 
@@ -202,9 +202,9 @@ Falk</textarea>
 
 ### Preise
 
-1. Jahres-Abo JavaMagazin
-2. Buch von dpunkt
-3. Lizenz für ein Jetbrains-Tool (z. B. IntelliJ)
+1. Lizenz für ein Jetbrains-Tool (z. B. IntelliJ)
+2. Buch von entwickler.press
+3. Buch von dpunkt
 
 ???
 
