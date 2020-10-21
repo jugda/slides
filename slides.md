@@ -21,8 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**22.10.2020** | <i class="fa fa-globe"></i> | Java by Comparison (**Simon Harrer**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/10/Java-by-Comparison/) |
 **12.11.2020** | <i class="fa fa-globe"></i> | Crypto 101 (**Oliver Milke**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/11/Kryptographie/) |
+**10.12.2020** | <i class="fa fa-globe"></i> | Machine Learning anschaulich (**Oliver Zeigermann**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/12/Machine-Learning/) |
+**14.01.2021** | <i class="fa fa-globe"></i> | Jakarta EE 9 and Beyond (**Ivar Grimstadt, Tanja Obradovic**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/01/Jakarta-EE-9/) |
+**18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**Anna Maier**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -70,19 +72,12 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-[![:scale 20%](img/speakonf.jpg)](https://www.speakonf.de/) 19. September 2020 Virtuell aus Darmstadt (frei)
+[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 02. - 06. November 2020 in München (15 % Rabatt)  
+[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 07. - 12. Dezember 2020 (Online)  
+[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2021/) 03. - 04. März 2021 (Online)  
 
-[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 02. - 06. November 2020 in München (15 % Rabatt)
 
 ### Rabattcodes über orga@jug-da.de
-
-#### Weitere Remote-Konferenzen im Herbst: <br/>Java-Forum-Stuttgart, JUG Saxony Day
-
----
-
-background-image: url(img/speakonf-2020.jpg)
-
-.bottom[<i class="fa fa-globe" aria-hidden="true"></i> https://www.speakonf.de] 
 
 ---
 
