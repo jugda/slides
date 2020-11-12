@@ -74,15 +74,15 @@ td {
   width: 100%;
   color: darkgreen;
   font-size: 1.1em;
-  background-color: yellow;
+  background-color: white;
   border: 3px black solid;
   padding: 10px;
   display:inline-block;
-  margin-top: 30px;
+  margin-top: 10px;
   font-weight: bold;
 }
 .beam:first-child {
-  margin-top: 100px;
+  margin-top: 20px;
 }
 
 .stripe {
