@@ -21,14 +21,15 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**10.12.2020** | <i class="fa fa-globe"></i> | Machine Learning anschaulich (**.darkblue[Oliver Zeigermann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2020/12/Machine-Learning/) |
 **14.01.2021** | <i class="fa fa-globe"></i> | Jakarta EE 9 and Beyond (**.darkblue[Ivar Grimstadt, Tanja Obradovic]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/01/Jakarta-EE-9/) |
 **18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**.darkblue[Anna Maier]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**25.03.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**15.04.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, L. Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
----
+???
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events (2)
@@ -86,7 +87,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) 07. - 12. Dezember 2020 (Online)]  
+.beam[[![:scale 20%](img/cyberland.png)](http://cyberland.ijug.eu/) Ladies Night 25. Januar 2021 (Online)]  
 .beam[[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2021/) 03. - 04. März 2021 (Online)] 
 .beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 16. - 17. März 2021 in Brühl (Mitglieder-Rabatt)]  
 .beam[[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 03. - 07. Mai 2021 in Mainz (15 % Rabatt)]  
@@ -194,7 +195,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 ---
 
-## <i class="fa fa-users"></i> Verlosung
+## <i class="fa fa-gift"></i> Große Weihnachtsverlosung
 
 <label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
 
@@ -217,9 +218,11 @@ Falk</textarea>
 
 ### Preise
 
-1. Freiticket für 1 Tag Remote Konferenz IT-Tage (08., 09. oder 10.12.2020)
-2. Lizenz für ein Jetbrains-Tool (z. B. IntelliJ)
-3. Buch von dpunkt
+1. ** 1 Freiticket** für Entwicklertag Frankfurt (03. - 04.03.2021)
+2. ** 1 Lizenz** für ein Jetbrains-Tool (z. B. IntelliJ)
+3. **3** Bücher von dpunkt
+4. **2** Bücher von entwickler.press
+5. **1** JavaMagazin Jahres-Abo
 
 ???
 
