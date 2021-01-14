@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2021 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2020 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2021 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 background-color: #ff0000;
@@ -21,10 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**14.01.2021** | <i class="fa fa-globe"></i> | Jakarta EE 9 and Beyond (**.darkblue[Ivar Grimstadt, Tanja Obradovic]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/01/Jakarta-EE-9/) |
-**18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**.darkblue[Anna Maier]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**25.03.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**15.04.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, L. Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**.darkblue[Anna Maier]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/02/Accessibility/) |
+**25.03.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, L. Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/03/Java-by-Comparison/) |
+**15.04.2021** | <i class="fa fa-globe"></i> | Scala 3 (**.darkblue[Daniel Westheide]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -87,7 +87,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/cyberland.png)](http://cyberland.ijug.eu/) Ladies Night 25. Januar 2021 (Online)]  
+.beam[[![:scale 20%](img/cyberland-2.png)](http://cyberland.ijug.eu/) Ladies Night 25. Januar 2021 (Online)]  
 .beam[[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2021/) 03. - 04. März 2021 (Online)] 
 .beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 16. - 17. März 2021 in Brühl (Mitglieder-Rabatt)]  
 .beam[[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 03. - 07. Mai 2021 in Mainz (15 % Rabatt)]  
@@ -193,11 +193,12 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 ![:scale 24%](img/sponsors/igd.png)
 ![:scale 24%](img/sponsors/softwareag.png)
 
----
+???
 
 ## <i class="fa fa-gift"></i> Große Weihnachtsverlosung
 
-<label for="showAttendees">Zeige Teilnehmer <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" /></label>
+<input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" />
+<label for="showAttendees">Zeige Teilnehmer</label>
 
 <textarea id="attendees" style="display:none;" rows="10" cols="40" onClick="resizeLotteryInput(false);" onBlur="resizeLotteryInput(true);">
 Melanie
