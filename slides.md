@@ -24,12 +24,11 @@ background-color: #ff0000;
 **18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**.darkblue[Anna Maier]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/02/Accessibility/) |
 **25.03.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, L. Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/03/Java-by-Comparison/) |
 **15.04.2021** | <i class="fa fa-globe"></i> | Scala 3 (**.darkblue[Daniel Westheide]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
-???
+---
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events (2)
@@ -38,8 +37,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**25.03.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**15.04.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, Linus Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
+**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
