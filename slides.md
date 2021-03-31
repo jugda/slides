@@ -21,14 +21,15 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**18.02.2021** | <i class="fa fa-globe"></i> | Building Truly Accessible Software (**.darkblue[Anna Maier]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/02/Accessibility/) |
-**25.03.2021** | <i class="fa fa-globe"></i> | Java by Comparison (**.darkblue[Simon Harrer, L. Dietz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/03/Java-by-Comparison/) |
-**15.04.2021** | <i class="fa fa-globe"></i> | Scala 3 (**.darkblue[Daniel Westheide]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**15.04.2021** | <i class="fa fa-globe"></i> | Why Scala 3 matters (**.darkblue[Daniel Westheide]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
+**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
----
+???
+
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events (2)
@@ -37,7 +38,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
 **17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
@@ -86,25 +86,12 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/cyberland-2.png)](http://cyberland.ijug.eu/) Ladies Night 25. Januar 2021 (Online)]  
-.beam[[![:scale 20%](img/entwicklertag.png)](https://entwicklertag.de/frankfurt/2021/) 03. - 04. März 2021 (Online)] 
-.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 16. - 17. März 2021 in Brühl (Mitglieder-Rabatt)]  
 .beam[[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 03. - 07. Mai 2021 in Mainz (15 % Rabatt)]  
+.beam[[![:scale 20%](img/cyberland-2.png)](https://cyberland.ijug.eu/2021-04-late-night-sandra-edition/) Late Night Sandra Edition 13. April 2021 (Online)]  
+.beam[[![:scale 20%](img/cyberland_next_gen.png)](https://cyberland.ijug.eu/) Next Generation 28. April 2021 (Online)]  
 
 
 ### Rabattcodes über orga@jug-da.de
-
----
-
-background-image: url(img/javaland2021.jpg)
-
-## <i class="fa fa-search"></i> Vision
-
-.bottom[<i class="fa fa-globe" aria-hidden="true"></i> http://vision.ijug.eu] 
-
-???
-
-Die nächste JavaLand (2021) wird hoffentlich wieder vor Ort stattfinden, aber es wird einen mehr oder weniger großen Remote-Anteil geben. Darum wird aktuell eine Hybrid-Konferenz geplant. Welche Ideen dafür interessant sein könnten, werden auf vision.ijug.eu diskutiert. Wer mit diskutieren möchte oder eigene Ideen/Vorschläge hat, findet dort die Möglichkeit, sich einzubringen (#javaland im jvm-german Slack).
 
 ---
 
@@ -192,9 +179,9 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 ![:scale 24%](img/sponsors/igd.png)
 ![:scale 24%](img/sponsors/softwareag.png)
 
-???
+---
 
-## <i class="fa fa-gift"></i> Große Weihnachtsverlosung
+## <i class="fa fa-gift"></i> Verlosung
 
 <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" />
 <label for="showAttendees">Zeige Teilnehmer</label>
@@ -218,11 +205,9 @@ Falk</textarea>
 
 ### Preise
 
-1. ** 1 Freiticket** für Entwicklertag Frankfurt (03. - 04.03.2021)
-2. ** 1 Lizenz** für ein Jetbrains-Tool (z. B. IntelliJ)
-3. **3** Bücher von dpunkt
-4. **2** Bücher von entwickler.press
-5. **1** JavaMagazin Jahres-Abo
+3x E-Book Java by Comparison
+
+![:scale 24%](https://images-na.ssl-images-amazon.com/images/I/812WHxNPrkL.jpg)
 
 ???
 
