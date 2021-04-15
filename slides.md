@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**15.04.2021** | <i class="fa fa-globe"></i> | Why Scala 3 matters (**.darkblue[Daniel Westheide]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
 **17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -87,7 +86,6 @@ Wir suchen interessierte Firmen:
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
 .beam[[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 03. - 07. Mai 2021 in Mainz (15 % Rabatt)]  
-.beam[[![:scale 20%](img/cyberland-2.png)](https://cyberland.ijug.eu/2021-04-late-night-sandra-edition/) Late Night Sandra Edition 13. April 2021 (Online)]  
 .beam[[![:scale 20%](img/cyberland_next_gen.png)](https://cyberland.ijug.eu/) Next Generation 28. April 2021 (Online)]  
 
 
@@ -205,9 +203,9 @@ Falk</textarea>
 
 ### Preise
 
-3x E-Book Java by Comparison
-
-![:scale 24%](https://images-na.ssl-images-amazon.com/images/I/812WHxNPrkL.jpg)
+1 Buch Eurer Wahl von dpunkt  
+1 Jetbrains Lizenz (IntelliJ, ...)  
+1 Jahresabo JavaMagazin  
 
 ???
 
