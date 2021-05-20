@@ -21,9 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.05.2021** | <i class="fa fa-globe"></i> | Live Coding mit dem MicroProfile (**.darkblue[Thilo Frotscher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/05/MicroProfile/) |
-**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-
+**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/06/Hibernate/) |
+**tbd** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**tbd** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**tbd** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -81,7 +82,7 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
----
+???
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
@@ -90,6 +91,9 @@ Wir suchen interessierte Firmen:
 
 
 ### Rabattcodes über orga@jug-da.de
+
+---
+background-image: url(img/speakonf.png)
 
 ---
 
