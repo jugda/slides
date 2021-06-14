@@ -21,14 +21,13 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/06/Hibernate/) |
-**tbd** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**tbd** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**tbd** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**15.07.2021** | <i class="fa fa-globe"></i> | Container Build Mechanismus (**.darkblue[Matthias Häußler]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**26.08.2021** | <i class="fa fa-globe"></i> | Sentry in Aktion (**.darkblue[Alexander Schwartz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.10.2021** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
-???
+---
 
 background-color: #ff0000;
 
@@ -38,7 +37,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**17.06.2021** | <i class="fa fa-globe"></i> | Hibernate Pitfalls & Performance (**.darkblue[Thorben Janssen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**tbd** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**tbd** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**tbd** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/06/Hibernate/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
