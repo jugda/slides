@@ -21,8 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**15.07.2021** | <i class="fa fa-globe"></i> | Container Build Mechanismus (**.darkblue[Matthias Häußler]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **26.08.2021** | <i class="fa fa-globe"></i> | Sentry in Aktion (**.darkblue[Alexander Schwartz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**16.09.2021** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.10.2021** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -37,9 +37,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**tbd** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**tbd** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**tbd** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/06/Hibernate/) |
+**18.11.2021** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**09.12.2021** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/06/Hibernate/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -83,18 +82,19 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
-???
+---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jax.png)](https://www.jax.de/mainz/) 03. - 07. Mai 2021 in Mainz (15 % Rabatt)]  
-.beam[[![:scale 20%](img/cyberland_next_gen.png)](https://cyberland.ijug.eu/) Next Generation 28. April 2021 (Online)]  
+.beam[[![:scale 20%](img/bettercode.jpg)](https://java.bettercode.eu//) Java 17 Release 14. September 2021 (Online)]  
+.beam[[![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) Herbstcampus 15. September 2021 (Online)]  
+.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/site/2021/) Java Forum Nord 16. September 2021]  
+.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) JFS 22. + 23. September 2021 (Online)]  
+.beam[[![:scale 20%](img/jugsaxonyday.png)](https://jug-saxony-day.org/) JUG Saxony Day 1. Oktober 2021 (Online)]  
+.beam[[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 08. - 12. November 2021 in Mainz (15 % Rabatt)]  
 
 
 ### Rabattcodes über orga@jug-da.de
-
----
-background-image: url(img/speakonf.png)
 
 ---
 
@@ -124,7 +124,12 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
-??? ---
+---
+background-image: url(img/developeronstage.jpg)
+
+#### https://developeronthestage.com/#course
+
+???
 
 ## <i class="fa fa-bullhorn"></i> Coming soon: Kids4IT
 
@@ -155,7 +160,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 ### <i class="fa fa-envelope-o"></i> [orga@jug-da.de](orga@jug-da.de)
 
----
+???
 
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
@@ -210,7 +215,7 @@ Falk</textarea>
 
 1 Buch Eurer Wahl von dpunkt  
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Jahresabo JavaMagazin  
+1 Freiticket Herbstcampus am 16.09.2021  
 
 ???
 
