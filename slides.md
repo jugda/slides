@@ -21,13 +21,14 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**26.08.2021** | <i class="fa fa-globe"></i> | Sentry in Aktion (**.darkblue[Alexander Schwartz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**16.09.2021** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**21.10.2021** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**16.09.2021** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/09/Maven-4/) |
+**21.10.2021** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/10/Terraform/) |
+**18.11.2021** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/11/Eventually-Consistency/) |
+**09.12.2021** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/12/jMolecules/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
----
+???
 
 background-color: #ff0000;
 
@@ -215,7 +216,8 @@ Falk</textarea>
 
 1 Buch Eurer Wahl von dpunkt  
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Freiticket Herbstcampus am 16.09.2021  
+1 Freiticket Herbstcampus (Online) am 16.09.2021  
+1 Freiticket JUG Saxony Day (Online) am 01.10.2021  
 
 ???
 
