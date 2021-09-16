@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**16.09.2021** | <i class="fa fa-globe"></i> | Maven (**.darkblue[Karl Heinz Marbaise]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/09/Maven-4/) |
 **21.10.2021** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/10/Terraform/) |
 **18.11.2021** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/11/Eventually-Consistency/) |
 **09.12.2021** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/12/jMolecules/) |
@@ -87,9 +86,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/bettercode.jpg)](https://java.bettercode.eu//) Java 17 Release 14. September 2021 (Online)]  
-.beam[[![:scale 20%](img/herbstcampus.png)](https://www.herbstcampus.de/) Herbstcampus 15. September 2021 (Online)]  
-.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/site/2021/) Java Forum Nord 16. September 2021]  
 .beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) JFS 22. + 23. September 2021 (Online)]  
 .beam[[![:scale 20%](img/jugsaxonyday.png)](https://jug-saxony-day.org/) JUG Saxony Day 1. Oktober 2021 (Online)]  
 .beam[[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 08. - 12. November 2021 in Mainz (15 % Rabatt)]  
@@ -124,11 +120,6 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
-
----
-background-image: url(img/developeronstage.jpg)
-
-#### https://developeronthestage.com/#course
 
 ???
 
@@ -214,10 +205,9 @@ Falk</textarea>
 
 ### Preise
 
-1 Buch Eurer Wahl von dpunkt  
-1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Freiticket Herbstcampus (Online) am 16.09.2021  
 1 Freiticket JUG Saxony Day (Online) am 01.10.2021  
+1 Jetbrains Lizenz (IntelliJ, ...)  
+1 Buch Eurer Wahl von dpunkt  
 
 ???
 
