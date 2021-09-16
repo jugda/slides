@@ -5,8 +5,8 @@
 - umgesetzt mit [Remark](https://github.com/gnab/remark/) (Demo: http://remarkjs.com/)
 - man kann auf der ersten Folie die Checkbox anhaken für eine Slideshow
 - auf der vorletzten Folie gibt es eine einfache Javascript-Verlosung
-  - dazu die Teilnehmerliste in das Textarea innerhalb der Slides kopieren
-  - im Textfeld innerhalb der Präsentation kann nicht gut editieren, weil einige Tasten für remark.js anders belegt sind
+  - dazu die Teilnehmerliste in das Textarea-Feld innerhalb der Slides kopieren
+  - im Textfeld innerhalb der Präsentation kann man nicht gut editieren, weil einige Tasten für remark.js anders belegt sind
   - Teilnehmernamen am besten in einem Texteditor vorbereiten und dann die finale Fassung kopieren
 - für Änderungen einfach von Github klonen und einen Pull Request einreichen
   - um es lokal auszuführen, benötigt man einen simplen Webserver
