@@ -86,9 +86,9 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) JFS 22. + 23. September 2021 (Online)]  
-.beam[[![:scale 20%](img/jugsaxonyday.png)](https://jug-saxony-day.org/) JUG Saxony Day 1. Oktober 2021 (Online)]  
 .beam[[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 08. - 12. November 2021 in Mainz (15 % Rabatt)]  
+.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de) 06. - 09. Dezember 2021 (Online, 100 Euro Rabatt)]  
+.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu) 15. - 17. März 2022, Phantasialand Brühl  (Rabatt über iJUG Gruppenmitgliedschaft)]  
 
 
 ### Rabattcodes über orga@jug-da.de
@@ -205,7 +205,7 @@ Falk</textarea>
 
 ### Preise
 
-1 Freiticket JUG Saxony Day (Online) am 01.10.2021  
+2 Freitickets IT-Tage (Online) 06. - 09.12.2021  
 1 Jetbrains Lizenz (IntelliJ, ...)  
 1 Buch Eurer Wahl von dpunkt  
 
@@ -231,4 +231,3 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 
 ![](img/herrengartencafe.jpg)
 .center[![](img/sponsors/prostep.png)]
-
