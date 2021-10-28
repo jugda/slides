@@ -211,7 +211,7 @@ Falk</textarea>
 1 Buch Eurer Wahl von dpunkt  
 1 @CyberLandConf T-Shirt   
 
-![:scale 40%](/img/tshirt.jpg) 
+![:scale 40%](img/tshirt.jpg) 
 
 ???
 
