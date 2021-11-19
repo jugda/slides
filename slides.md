@@ -21,10 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**18.11.2021** | <i class="fa fa-globe"></i> | Eventually Consistency (**.darkblue[Susanne Braun]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/11/Eventually-Consistency/) |
-**09.12.2021** | <i class="fa fa-globe"></i> | DDD mit jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/12/jMolecules/) |
+**09.12.2021** | <i class="fa fa-globe"></i> | jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/12/jMolecules/) |
 **13.01.2022** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/10/Terraform/) |
-**xx.02.2022** | <i class="fa fa-globe"></i> | Newcomer: Refactoring Guard Clauses (**.darkblue[Sergej Tihonov]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**17.02.2022** | <i class="fa fa-globe"></i> | Newcomer: "Exception first" + "Dein Code ist schlecht" (**.darkblue[Sergej Tihonov + Daniel Krämer]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**24.03.2022** | <i class="fa fa-globe"></i> | BDD - Brauchst Du Das? (**.darkblue[Katrin Rabow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/03/bdd/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -87,7 +87,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/wjax.png)](https://www.jax.de/muenchen/) 08. - 12. November 2021 in Mainz (15 % Rabatt)]  
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de) 06. - 09. Dezember 2021 (Online, 100,- Rabatt)]  
 .beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitglieder)]  
 
@@ -206,7 +205,6 @@ Falk</textarea>
 
 ### Preise
 
-1 Freiticket IT-Tage (Online) 06. - 09.12.2021  
 1 Jetbrains Lizenz (IntelliJ, ...)  
 1 Buch Eurer Wahl von dpunkt  
 1 @CyberLandConf T-Shirt   
