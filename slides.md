@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**09.12.2021** | <i class="fa fa-globe"></i> | jMolecules (**.darkblue[Oliver Drotbohm & Henning Schwentner]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/12/jMolecules/) |
 **13.01.2022** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/10/Terraform/) |
 **17.02.2022** | <i class="fa fa-globe"></i> | Newcomer: "Exception first" + "Dein Code ist schlecht" (**.darkblue[Sergej Tihonov + Daniel Krämer]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **24.03.2022** | <i class="fa fa-globe"></i> | BDD - Brauchst Du Das? (**.darkblue[Katrin Rabow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/03/bdd/) |
@@ -87,9 +86,8 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de) 06. - 09. Dezember 2021 (Online, 100,- Rabatt)]  
-.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitglieder)]  
-
+.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitgl.)]
+.beam[[![:scale 20%](img/jax.png)](https://jax.de/) 02. - 06. Mai 2022 (15 % Rabatt)]  
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -181,7 +179,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 ---
 
-## <i class="fa fa-gift"></i> Verlosung
+## <i class="fa fa-gift"></i> Große Weihnachtsverlosung
 
 <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" />
 <label for="showAttendees">Zeige Teilnehmer</label>
@@ -206,8 +204,9 @@ Falk</textarea>
 ### Preise
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl von dpunkt  
-1 @CyberLandConf T-Shirt   
+1 Buch Eurer Wahl von dpunkt   
+2x Buch Eurer Wahl von Hanser  
+2x @CyberLandConf T-Shirt   
 
 ![:scale 40%](img/tshirt.jpg) 
 
@@ -220,6 +219,8 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 ## Viel Spaß beim Vortrag
 
 ### Nach dem Workshop sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
+
+### Schöne Weihnachten und einen guten Rutsch! 
 
 ![](img/kneipe.png)
 
