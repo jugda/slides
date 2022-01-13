@@ -86,7 +86,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitgl.)]
+.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitglieder)]
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/) 02. - 06. Mai 2022 (15 % Rabatt)]  
 
 ### Rabattcodes über orga@jug-da.de
@@ -204,9 +204,8 @@ Falk</textarea>
 ### Preise
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl von dpunkt   
-2x Buch Eurer Wahl von Hanser  
-2x @CyberLandConf T-Shirt   
+1 Buch Eurer Wahl von Hanser  
+1 @CyberLandConf T-Shirt   
 
 ![:scale 40%](img/tshirt.jpg) 
 
@@ -219,8 +218,6 @@ Namen aus der Teilnehmerliste in das Textarea kopieren.
 ## Viel Spaß beim Vortrag
 
 ### Nach dem Workshop sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
-
-### Schöne Weihnachten und einen guten Rutsch! 
 
 ![](img/kneipe.png)
 
