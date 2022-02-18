@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2021 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2022 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2021 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2022 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 background-color: #ff0000;
@@ -21,9 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**13.01.2022** | <i class="fa fa-globe"></i> | Terraform (**.darkblue[Sandra Gerberding]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2021/10/Terraform/) |
-**17.02.2022** | <i class="fa fa-globe"></i> | Newcomer: "Exception first" + "Dein Code ist schlecht" (**.darkblue[Sergej Tihonov + Daniel Krämer]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **24.03.2022** | <i class="fa fa-globe"></i> | BDD - Brauchst Du Das? (**.darkblue[Katrin Rabow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/03/bdd/) |
+**28.04.2022** | <i class="fa fa-globe"></i> | Open-Source – Mehr als nur Quellcode (**.darkblue[Christopher Dutz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**19.05.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -86,6 +86,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
+.beam[[![:scale 20%](img/cyberland_next_gen.png)](https://cyberland.ijug.eu/2022-03-next-generation/) 9. März 2022 (kostenfrei)]
 .beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitglieder)]
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/) 02. - 06. Mai 2022 (15 % Rabatt)]  
 
@@ -179,7 +180,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 ---
 
-## <i class="fa fa-gift"></i> Große Weihnachtsverlosung
+## <i class="fa fa-gift"></i> Verlosung
 
 <input id="showAttendees" type="checkbox" title="Zeige Teilnehmer" />
 <label for="showAttendees">Zeige Teilnehmer</label>
@@ -203,21 +204,31 @@ Falk</textarea>
 
 ### Preise
 
-1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl von Hanser  
-1 @CyberLandConf T-Shirt   
+1 Buch Eurer Wahl vom Hanser Verlag  
+1 Buch Eurer Wahl vom dpunkt Verlag  
+1 CyberLandConf T-Shirt   
 
 ![:scale 40%](img/tshirt.jpg) 
 
 ???
 
+1 Jetbrains Lizenz (IntelliJ, ...)  
+
 Namen aus der Teilnehmerliste in das Textarea kopieren.
+
+---
+
+## Feedback zu den Vorträgen
+
+![:scale 75%](img/newcomer-feedback.jpg)
+
+https://tinyurl.com/jugda-feedback
 
 ---
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Workshop sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
+### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ![](img/kneipe.png)
 
