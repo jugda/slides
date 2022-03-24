@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**24.03.2022** | <i class="fa fa-globe"></i> | BDD - Brauchst Du Das? (**.darkblue[Katrin Rabow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/03/bdd/) |
 **28.04.2022** | <i class="fa fa-globe"></i> | Open-Source – Mehr als nur Quellcode (**.darkblue[Christopher Dutz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **19.05.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
 
@@ -86,8 +85,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/cyberland_next_gen.png)](https://cyberland.ijug.eu/2022-03-next-generation/) 9. März 2022 (kostenfrei)]
-.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/) 15. - 17. März 2022 (Rabatt für iJUG-Mitglieder)]
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/) 02. - 06. Mai 2022 (15 % Rabatt)]  
 
 ### Rabattcodes über orga@jug-da.de
@@ -204,8 +201,8 @@ Falk</textarea>
 
 ### Preise
 
+1 Jetbrains Lizenz (IntelliJ, ...)  
 1 Buch Eurer Wahl vom Hanser Verlag  
-1 Buch Eurer Wahl vom dpunkt Verlag  
 1 CyberLandConf T-Shirt   
 
 ![:scale 40%](img/tshirt.jpg) 
@@ -216,7 +213,7 @@ Falk</textarea>
 
 Namen aus der Teilnehmerliste in das Textarea kopieren.
 
----
+???
 
 ## Feedback zu den Vorträgen
 
