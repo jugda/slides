@@ -21,8 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**28.04.2022** | <i class="fa fa-globe"></i> | Open-Source – Mehr als nur Quellcode (**.darkblue[Christopher Dutz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **19.05.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
+**23.06.2022** | <i class="fa fa-globe"></i> | Automated Migrations With Spring Boot Migrator (**.darkblue[Fabian Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**offen** | <i class="fa fa-globe"></i> | JDK Tools (**.darkblue[Christian Stein]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -202,7 +203,7 @@ Falk</textarea>
 ### Preise
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl vom Hanser Verlag  
+1 Buch Eurer Wahl vom dpunkt Verlag  
 1 CyberLandConf T-Shirt   
 
 ![:scale 40%](img/tshirt.jpg) 
