@@ -21,9 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**19.05.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
 **23.06.2022** | <i class="fa fa-globe"></i> | Automated Migrations With Spring Boot Migrator (**.darkblue[Fabian Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**offen** | <i class="fa fa-globe"></i> | JDK Tools (**.darkblue[Christian Stein]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.07.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
+**27.07.2022** | <i class="fa fa-globe"></i> | Grillabend 🌭🥩🍻 | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -45,6 +46,18 @@ background-color: #ff0000;
 
 ---
 
+background-image: url(img/grillplatz.jpg)
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 7. JUG Darmstadt Barbecue]
+
+---
+## <i class="fa fa-bullhorn"></i> Remote oder Vor-Ort
+
+.stripe[Wieder erste Vor-Ort-Treffen geplant.]
+.stripe[Wir versuchen es Hybrid.]
+.stripe[Es wird auch weiter Remote-Events geben.]
+
+---
 background-image: url(img/jug-hilfe.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Unterstützung
@@ -86,7 +99,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jax.png)](https://jax.de/) 02. - 06. Mai 2022 (15 % Rabatt)]  
+.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 07. Juli 2022]  
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -117,6 +130,13 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
+
+---
+background-image: url(img/developeronstage.jpg)
+
+## <i class="fa fa-microphone"></i> Developer on the stage
+
+.bottom[4 Termine im Juni, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-06-next-generation/]
 
 ???
 
@@ -203,10 +223,12 @@ Falk</textarea>
 ### Preise
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl vom dpunkt Verlag  
+1 Buch Eurer Wahl vom Hanser Verlag  
 1 CyberLandConf T-Shirt   
 
-![:scale 40%](img/tshirt.jpg) 
+![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/tshirt.jpg) 
 
 ???
 
