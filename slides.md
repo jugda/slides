@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**23.06.2022** | <i class="fa fa-globe"></i> | Automated Migrations With Spring Boot Migrator (**.darkblue[Fabian Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.07.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
 **27.07.2022** | <i class="fa fa-globe"></i> | Grillabend 🌭🥩🍻 | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
@@ -223,11 +222,11 @@ Falk</textarea>
 ### Preise
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
-1 Buch Eurer Wahl vom Hanser Verlag  
+1 Buch Eurer Wahl vom dpunkt Verlag  
 1 CyberLandConf T-Shirt   
 
 ![:scale 20%](img/sponsors/jetbrains.png) 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/tshirt.jpg) 
 
 ???
