@@ -21,8 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**21.07.2022** | <i class="fa fa-globe"></i> | GraphQL (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/05/GraphQL/) |
 **27.07.2022** | <i class="fa fa-globe"></i> | Grillabend 🌭🥩🍻 | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**31.08.2022** | <i class="fa fa-globe"></i> | Testen Antipatterns (**.darkblue[Birgit Kratz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -98,7 +98,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) 07. Juli 2022]  
+.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) 07. – 11.11.2022 (15 % Rabatt)]  
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -130,7 +130,8 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
----
+???
+
 background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-microphone"></i> Developer on the stage
@@ -223,13 +224,15 @@ Falk</textarea>
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
 1 Buch Eurer Wahl vom dpunkt Verlag  
-1 CyberLandConf T-Shirt   
+1 GraphQL Videokurs bei heise
 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/tshirt.jpg) 
 
 ???
+
+1 CyberLandConf T-Shirt   
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
 
