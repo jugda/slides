@@ -21,9 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**31.08.2022** | <i class="fa fa-globe"></i> | Testen Antipatterns (**.darkblue[Birgit Kratz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**13.10.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/09/JDK-Tools-Java-Next/) |
+**13.10.2022** | <i class="fa fa-globe"></i> | Thoughts on Software Development (**.darkblue[Alexander Thurow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/10/Thoughts-on-Software-Development/) |
 **17.11.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **08.12.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -100,6 +99,7 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
+.beam[[![:scale 20%](img/xpdays.png)](https://www.xpdays.de/2022/) Stuttgart, 06. – 07.10.2022 (10 % Rabatt)]  
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) 07. – 11.11.2022 (15 % Rabatt)]  
 .beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
 
@@ -228,6 +228,7 @@ Falk</textarea>
 1 Jetbrains Lizenz (IntelliJ, ...)  
 1 Buch Eurer Wahl vom Hanser Verlag  
 1 GraphQL Videokurs bei heise
+1 Freikarte XP Days in Stuttgart am 06./07.10.
 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
