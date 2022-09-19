@@ -21,10 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**22.09.2022** | <i class="fa fa-building"></i> | JDK Tools + Java Next (**.darkblue[Christian Stein, Nicolai Parlog]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/09/JDK-Tools-Java-Next/) |
 **13.10.2022** | <i class="fa fa-globe"></i> | Thoughts on Software Development (**.darkblue[Alexander Thurow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/10/Thoughts-on-Software-Development/) |
-**17.11.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**24.11.2022** | <i class="fa fa-building"></i> | Project Loom (**.darkblue[Mark Paluch]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **08.12.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**12.01.2023** | <i class="fa fa-globe"></i> | Testability (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
