@@ -255,11 +255,16 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Accso.
+
+![](img/kneipe.png)
+.center[![](img/sponsors/accso.png)]
+
+???
+
 ### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ![](img/kneipe.png)
-
-???
 
 ### Nach dem Vortrag ist vor dem Stammtisch
 
