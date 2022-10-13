@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**13.10.2022** | <i class="fa fa-globe"></i> | Thoughts on Software Development (**.darkblue[Alexander Thurow]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2022/10/Thoughts-on-Software-Development/) |
 **24.11.2022** | <i class="fa fa-building"></i> | Project Loom (**.darkblue[Mark Paluch]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **08.12.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **12.01.2023** | <i class="fa fa-globe"></i> | Testability (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
@@ -99,8 +98,8 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/xpdays.png)](https://www.xpdays.de/2022/) Stuttgart, 06. – 07.10.2022 (10 % Rabatt)]  
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) 07. – 11.11.2022 (15 % Rabatt)]  
+.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;Remote, 12. – 15.12.2022]  
 .beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
 
 ### Rabattcodes über orga@jug-da.de
@@ -133,13 +132,13 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
-???
+---
 
 background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-microphone"></i> Developer on the stage
 
-.bottom[4 Termine im Juni, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-06-next-generation/]
+.bottom[4 Termine im November, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-11-next-generation/]
 
 ???
 
@@ -225,12 +224,12 @@ Falk</textarea>
 
 ### Preise
 
-1 Jetbrains Lizenz (IntelliJ, ...)  
+1 GraphQL Videokurs bei heise  
+1 Freiticket IT-Tage Remote (ganze Konferenz + Workshops)  
 1 Buch Eurer Wahl vom Hanser Verlag  
-1 GraphQL Videokurs bei heise
-1 Freikarte XP Days in Stuttgart am 06./07.10.
 
-![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 20%](img/heise.png) 
+![:scale 20%](img/ittage.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
 
 ???
@@ -255,10 +254,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die Accso.
+### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ![](img/kneipe.png)
-.center[![](img/sponsors/accso.png)]
 
 ???
 
