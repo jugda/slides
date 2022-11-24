@@ -21,9 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**24.11.2022** | <i class="fa fa-building"></i> | Project Loom (**.darkblue[Mark Paluch]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**08.12.2022** | <i class="fa fa-globe"></i> | noch offen | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**08.12.2022** | <i class="fa fa-building"></i> | Kunterbunter Abend (3 Vorträge) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **12.01.2023** | <i class="fa fa-globe"></i> | Testability (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**16.02.2023** | <i class="fa fa-globe"></i> | JavaLand Newcomer Generalproben | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -98,7 +98,6 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) 07. – 11.11.2022 (15 % Rabatt)]  
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;Remote, 12. – 15.12.2022]  
 .beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
 
@@ -139,6 +138,19 @@ background-image: url(img/developeronstage.jpg)
 ## <i class="fa fa-microphone"></i> Developer on the stage
 
 .bottom[4 Termine im November, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-11-next-generation/]
+
+---
+
+## <i class="fa fa-microphone"></i> Ladies Night Newcomer
+
+### <i class="fa fa-calendar"></i> 07.12.2022 
+
+### <i class="fa fa-universal-access"></i> diverse und Herren sind natürlich auch willkommen
+
+![:scale 75%](img/cyberland-Ladies-Night-Newcomer.png)
+
+.bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-12-ladies-night-newcomer/]
+
 
 ???
 
@@ -224,12 +236,12 @@ Falk</textarea>
 
 ### Preise
 
-1 GraphQL Videokurs bei heise  
-1 Freiticket IT-Tage Remote (ganze Konferenz + Workshops)  
 1 Buch Eurer Wahl vom Hanser Verlag  
+1 Buch Eurer Wahl vom dpunkt Verlag  
+1 Lizenz für ein Jetbrains Tool  
 
-![:scale 20%](img/heise.png) 
-![:scale 20%](img/ittage.png) 
+![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
 
 ???
@@ -254,7 +266,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an bsi.
+
+.center[![](img/sponsors/bsi.png)]
 
 ![](img/kneipe.png)
 
