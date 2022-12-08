@@ -21,8 +21,7 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**08.12.2022** | <i class="fa fa-building"></i> | Kunterbunter Abend (3 Vorträge) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**12.01.2023** | <i class="fa fa-globe"></i> | Testability (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**12.01.2023** | <i class="fa fa-globe"></i> | Einfach gut testbar (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **16.02.2023** | <i class="fa fa-globe"></i> | JavaLand Newcomer Generalproben | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -236,17 +235,20 @@ Falk</textarea>
 
 ### Preise
 
-1 Buch Eurer Wahl vom Hanser Verlag  
-1 Buch Eurer Wahl vom dpunkt Verlag  
-1 Lizenz für ein Jetbrains Tool  
+Bücher
+Lizenz für ein Jetbrains Tool  
 
-![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 20%](img/santa-claus.svg) 
+![:scale 20%](img/christmas-tree.svg) 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
 
 ???
 
-1 CyberLandConf T-Shirt   
+1 CyberLandConf T-Shirt  
+1 Buch Eurer Wahl vom Hanser Verlag  
+1 Buch Eurer Wahl vom dpunkt Verlag  
+
 
 1 Jetbrains Lizenz (IntelliJ, ...)  
 
@@ -266,9 +268,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an bsi.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
 
-.center[![](img/sponsors/bsi.png)]
+.center[![](img/sponsors/nterra.png)]
 
 ![](img/kneipe.png)
 
