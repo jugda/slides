@@ -22,7 +22,8 @@ background-color: #ff0000;
   |  |  | 
 ------------- |------------- |------------- | -------------
 **12.01.2023** | <i class="fa fa-globe"></i> | Einfach gut testbar (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**16.02.2023** | <i class="fa fa-globe"></i> | JavaLand Newcomer Generalproben | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**16.02.2023** | <i class="fa fa-globe"></i> | Frege Tooling + Testen von Lambda Funktionen (**.darkblue[Thibault Gagnaux]**, **.darkblue[Jens Knipper]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**xx.03.2023** | <i class="fa fa-building"></i> | When an immutable Object meets a modifiable force (**.darkblue[Reinier Zwitserloot]**, **.darkblue[Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -97,8 +98,8 @@ Wir suchen interessierte Firmen:
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;Remote, 12. – 15.12.2022]  
 .beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
+.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Remote, 08. – 12.05.2023 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -138,7 +139,7 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[4 Termine im November, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-11-next-generation/]
 
----
+???
 
 ## <i class="fa fa-microphone"></i> Ladies Night Newcomer
 
@@ -236,12 +237,12 @@ Falk</textarea>
 ### Preise
 
 Bücher
+Jahres-Abo des JavaSPEKTRUM
 Lizenz für ein Jetbrains Tool  
 
-![:scale 20%](img/santa-claus.svg) 
-![:scale 20%](img/christmas-tree.svg) 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/javaspektrum.jpg) 
 
 ???
 
@@ -249,7 +250,8 @@ Lizenz für ein Jetbrains Tool
 1 Buch Eurer Wahl vom Hanser Verlag  
 1 Buch Eurer Wahl vom dpunkt Verlag  
 
-
+![:scale 20%](img/santa-claus.svg) 
+![:scale 20%](img/christmas-tree.svg) 
 1 Jetbrains Lizenz (IntelliJ, ...)  
 
 ![:scale 20%](img/tshirt.jpg) 
@@ -268,9 +270,7 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
-
-.center[![](img/sponsors/nterra.png)]
+### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ![](img/kneipe.png)
 
