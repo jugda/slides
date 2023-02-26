@@ -21,9 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**12.01.2023** | <i class="fa fa-globe"></i> | Einfach gut testbar (**.darkblue[Thomas Much]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**16.02.2023** | <i class="fa fa-globe"></i> | Frege Tooling + Testen von Lambda Funktionen (**.darkblue[Thibault Gagnaux]**, **.darkblue[Jens Knipper]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**xx.03.2023** | <i class="fa fa-building"></i> | When an immutable Object meets a modifiable force (**.darkblue[Reinier Zwitserloot]**, **.darkblue[Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**23.02.2023** | <i class="fa fa-globe"></i> | Frege Tooling + Testen von Lambda Funktionen (**.darkblue[Thibault Gagnaux]**, **.darkblue[Jens Knipper]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**16.03.2023** | <i class="fa fa-building"></i> | When an immutable Object meets a modifiable force (**.darkblue[Reinier Zwitserloot]**, **.darkblue[Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**xx.04.2023** | <i class="fa fa-building"></i> | Was Java-Entwickler über Offensive Security wissen sollten (**.darkblue[Kai Ullrich]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -100,6 +100,7 @@ Wir suchen interessierte Firmen:
 
 .beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Remote, 08. – 12.05.2023 (15 % Rabatt)]
+.beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/) &nbsp;München, 03. – 05.07.2023 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -131,7 +132,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
----
+???
 
 background-image: url(img/developeronstage.jpg)
 
@@ -236,20 +237,21 @@ Falk</textarea>
 
 ### Preise
 
-Bücher
-Jahres-Abo des JavaSPEKTRUM
-Lizenz für ein Jetbrains Tool  
+1 Buch Eurer Wahl vom Hanser Verlag  
+Jahres-Abo des JavaSPEKTRUM  
+Lizenz für ein Jetbrains Tool 
 
-![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/javaspektrum.jpg) 
 
 ???
 
+Freiticket JAX
+Freiticket Sommer OOP 
 1 CyberLandConf T-Shirt  
-1 Buch Eurer Wahl vom Hanser Verlag  
 1 Buch Eurer Wahl vom dpunkt Verlag  
 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/santa-claus.svg) 
 ![:scale 20%](img/christmas-tree.svg) 
 1 Jetbrains Lizenz (IntelliJ, ...)  
