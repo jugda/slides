@@ -21,9 +21,7 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**23.02.2023** | <i class="fa fa-globe"></i> | Frege Tooling + Testen von Lambda Funktionen (**.darkblue[Thibault Gagnaux]**, **.darkblue[Jens Knipper]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**16.03.2023** | <i class="fa fa-building"></i> | When an immutable Object meets a modifiable force (**.darkblue[Reinier Zwitserloot]**, **.darkblue[Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**xx.04.2023** | <i class="fa fa-building"></i> | Was Java-Entwickler über Offensive Security wissen sollten (**.darkblue[Kai Ullrich]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**27.04.2023** | <i class="fa fa-building"></i> | Was Java-Entwickler über Offensive Security wissen sollten (**.darkblue[Kai Ullrich]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
