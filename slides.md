@@ -10,7 +10,7 @@ class: center, middle
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2022 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2023 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 background-color: #ff0000;
@@ -21,7 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**27.04.2023** | <i class="fa fa-building"></i> | Was Java-Entwickler über Offensive Security wissen sollten (**.darkblue[Kai Ullrich]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**xx.06.2023** | <i class="fa fa-globe"></i> | noch offen (**.darkblue[tbn]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.07.2023** | <i class="fa fa-building"></i> | Richtig gute Tests schreiben (**.darkblue[Roland Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**31.08.2023** | <i class="fa fa-building"></i> | Flexible Autorisierung mit Java und Open Policy Agent (**.darkblue[Thomas Darimont]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -41,18 +43,11 @@ background-color: #ff0000;
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
-???
-
-background-image: url(img/grillplatz.jpg)
-
-.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 7. JUG Darmstadt Barbecue]
-
 ---
 ## <i class="fa fa-bullhorn"></i> Remote oder Vor-Ort
 
-.stripe[Wieder erste Vor-Ort-Treffen geplant.]
-.stripe[Wir versuchen es Hybrid.]
-.stripe[Es wird auch weiter Remote-Events geben.]
+.stripe[Im Moment planen wir Remote oder Vor-Ort (Hybrid).]
+.stripe[Man kann also weiterhin Remote teilnehmen, wir wünschen uns aber wieder den Austausch vor Ort.]
 
 ---
 background-image: url(img/jug-hilfe.jpg)
@@ -94,11 +89,17 @@ Wir suchen interessierte Firmen:
 
 ---
 
+background-image: url(img/grillplatz.jpg)
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 8. JUG Darmstadt Barbecue]
+
+---
+
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) 21. – 23.03.2023 (Mitglieds-Rabatt)]  
-.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Remote, 08. – 12.05.2023 (15 % Rabatt)]
 .beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/) &nbsp;München, 03. – 05.07.2023 (15 % Rabatt)]
+.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp; Stuttgart, 13.07.2023]  
+.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2023/) &nbsp; Hannover, 12.09.2023]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -130,13 +131,13 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
-???
+---
 
 background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-microphone"></i> Developer on the stage
 
-.bottom[4 Termine im November, jeden Mittwoch, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-11-next-generation/]
+.bottom[4 Termine im Juni, jeden Dienstag, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-06-next-generation/]
 
 ???
 
@@ -151,19 +152,21 @@ background-image: url(img/developeronstage.jpg)
 .bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-12-ladies-night-newcomer/]
 
 
-???
+---
 
-## <i class="fa fa-bullhorn"></i> Coming soon: Kids4IT
+## <i class="fa fa-bullhorn"></i> JUG Darmstadt 4 Kids
 
-- Tagesveranstaltung wie Devoxx4Kids, Kids4IT, CoderDojo, ...
+- geplant am 08.07.2023 (Samstag)
 
 - Darmstädter Kinder und Jugendliche als Teilnehmer
+  - 7 - 10 (Grundschulalter)
+  - 11 - 14 (Weiterführende Schule)
 
-- Veranstaltungsort Darmstadt (Sponsoren und Räumlichkeiten gesucht)
+- Veranstaltungsort: cosee
 
-- ggf. Zusammenarbeit mit Schulen
+- Wer mag als Mentor helfen?
 
-- Mentoren gesucht
+- Anmeldung/Fragen an falk@jug-da.de
 
 ---
 
@@ -236,11 +239,10 @@ Falk</textarea>
 ### Preise
 
 1 Buch Eurer Wahl vom Hanser Verlag  
-Jahres-Abo des JavaSPEKTRUM  
 Lizenz für ein Jetbrains Tool 
 
 ![:scale 20%](img/sponsors/hanser.png) 
-![:scale 20%](img/sponsors/javaspektrum.jpg) 
+![:scale 20%](img/sponsors/jetbrains.png) 
 
 ???
 
