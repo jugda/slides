@@ -5,7 +5,7 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2022 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2023 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
@@ -21,9 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**xx.06.2023** | <i class="fa fa-globe"></i> | noch offen (**.darkblue[tbn]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.07.2023** | <i class="fa fa-building"></i> | Richtig gute Tests schreiben (**.darkblue[Roland Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**23.08.2023** | <i class="fa fa-building"></i> | 8. Barbecue Stammtisch | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/08/Achter-Barbecue-Stammtisch/) |
 **31.08.2023** | <i class="fa fa-building"></i> | Flexible Autorisierung mit Java und Open Policy Agent (**.darkblue[Thomas Darimont]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.09.2023** | <i class="fa fa-building"></i> | SOLID und darüber hinaus (**.darkblue[Stefan Dirschnabel]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/09/SOLID/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -92,6 +93,7 @@ Wir suchen interessierte Firmen:
 background-image: url(img/grillplatz.jpg)
 
 .stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 8. JUG Darmstadt Barbecue]
+.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 23.08.2023]
 
 ---
 
@@ -100,6 +102,8 @@ background-image: url(img/grillplatz.jpg)
 .beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/) &nbsp;München, 03. – 05.07.2023 (15 % Rabatt)]
 .beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp; Stuttgart, 13.07.2023]  
 .beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2023/) &nbsp; Hannover, 12.09.2023]
+.beam[[![:scale 20%](img/wjax.png)](http://wjax.de/) &nbsp; München, 06. - 10.11.2023 (15 % Rabatt)]
+.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp; Frankfurt, 11. - 14.12.2023 (100,- Euro Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -238,10 +242,11 @@ Falk</textarea>
 
 ### Preise
 
-1 Buch Eurer Wahl vom Hanser Verlag  
-Lizenz für ein Jetbrains Tool 
+1 Buch Eurer Wahl vom dpunkt Verlag  
+Lizenz für ein Jetbrains Tool  
+Jahresabo Java Spektrum  
 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 
 ???
