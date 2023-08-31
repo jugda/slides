@@ -21,10 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.07.2023** | <i class="fa fa-building"></i> | Richtig gute Tests schreiben (**.darkblue[Roland Krüger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**23.08.2023** | <i class="fa fa-building"></i> | 8. Barbecue Stammtisch | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/08/Achter-Barbecue-Stammtisch/) |
-**31.08.2023** | <i class="fa fa-building"></i> | Flexible Autorisierung mit Java und Open Policy Agent (**.darkblue[Thomas Darimont]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.09.2023** | <i class="fa fa-building"></i> | SOLID und darüber hinaus (**.darkblue[Stefan Dirschnabel]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/09/SOLID/) |
+**12.10.2023** | <i class="fa fa-building"></i> | Exploring Debugger Internals (**.darkblue[Johannes Bechberger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/10/Debugging-Unveiled/) |
+**29.11.2023** | <i class="fa fa-building"></i> |  Noch offen (Quarkus) (**.darkblue[Red Hat]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**18.01.2024** | <i class="fa fa-building"></i> | Wie befähige ich Quereinsteiger? (**.darkblue[Andreas Monschau]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -99,8 +99,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/) &nbsp;München, 03. – 05.07.2023 (15 % Rabatt)]
-.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp; Stuttgart, 13.07.2023]  
 .beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2023/) &nbsp; Hannover, 12.09.2023]
 .beam[[![:scale 20%](img/wjax.png)](http://wjax.de/) &nbsp; München, 06. - 10.11.2023 (15 % Rabatt)]
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp; Frankfurt, 11. - 14.12.2023 (100,- Euro Rabatt)]
@@ -141,26 +139,26 @@ background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-microphone"></i> Developer on the stage
 
-.bottom[4 Termine im Juni, jeden Dienstag, 19 Uhr, je eine Stunde<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-06-next-generation/]
+.bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-next-generation/]
 
-???
+---
 
 ## <i class="fa fa-microphone"></i> Ladies Night Newcomer
 
-### <i class="fa fa-calendar"></i> 07.12.2022 
+### <i class="fa fa-calendar"></i> 02.11.2023 
 
-### <i class="fa fa-universal-access"></i> diverse und Herren sind natürlich auch willkommen
+### <i class="fa fa-universal-access"></i> Diverse und Herren sind natürlich auch willkommen
 
 ![:scale 75%](img/cyberland-Ladies-Night-Newcomer.png)
 
-.bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2022-12-ladies-night-newcomer/]
+.bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-ladies-night/]
 
 
 ---
 
 ## <i class="fa fa-bullhorn"></i> JUG Darmstadt 4 Kids
 
-- geplant am 08.07.2023 (Samstag)
+- Planungen für 2. Termin laufen (Samstag im Oktober)
 
 - Darmstädter Kinder und Jugendliche als Teilnehmer
   - 7 - 10 (Grundschulalter)
@@ -277,11 +275,14 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die cosee.
 
-![](img/kneipe.png)
+.center[![](img/sponsors/cosee.png)]
+
 
 ???
+
+## Viel Spaß beim Vortrag
 
 ### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
