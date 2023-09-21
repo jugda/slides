@@ -21,9 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**21.09.2023** | <i class="fa fa-building"></i> | SOLID und darüber hinaus (**.darkblue[Stefan Dirschnabel]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/09/SOLID/) |
 **12.10.2023** | <i class="fa fa-building"></i> | Exploring Debugger Internals (**.darkblue[Johannes Bechberger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/10/Debugging-Unveiled/) |
-**29.11.2023** | <i class="fa fa-building"></i> |  Noch offen (Quarkus) (**.darkblue[Red Hat]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**29.11.2023** | <i class="fa fa-building"></i> | Live-Coding mit Quarkus (**.darkblue[Red Hat]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **18.01.2024** | <i class="fa fa-building"></i> | Wie befähige ich Quereinsteiger? (**.darkblue[Andreas Monschau]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -88,7 +87,7 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
----
+???
 
 background-image: url(img/grillplatz.jpg)
 
@@ -99,7 +98,7 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2023/) &nbsp; Hannover, 12.09.2023]
+.beam[[![:scale 20%](img/xpdays.svg)](https://xp-days.de/) &nbsp; Hannover, 05.10. - 06.10.2023]
 .beam[[![:scale 20%](img/wjax.png)](http://wjax.de/) &nbsp; München, 06. - 10.11.2023 (15 % Rabatt)]
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp; Frankfurt, 11. - 14.12.2023 (100,- Euro Rabatt)]
 
@@ -158,7 +157,7 @@ background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-bullhorn"></i> JUG Darmstadt 4 Kids
 
-- Planungen für 2. Termin laufen (Samstag im Oktober)
+- Planungen für 2. Termin laufen (Samstag im November)
 
 - Darmstädter Kinder und Jugendliche als Teilnehmer
   - 7 - 10 (Grundschulalter)
@@ -240,15 +239,17 @@ Falk</textarea>
 
 ### Preise
 
-1 Buch Eurer Wahl vom dpunkt Verlag  
-Lizenz für ein Jetbrains Tool  
+1 Freiticket XP-Days  
+1 Buch Eurer Wahl vom Hanser Verlag  
 Jahresabo Java Spektrum  
 
-![:scale 20%](img/sponsors/dpunkt.png) 
+![:scale 20%](img/xpdays.svg) 
+![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 
 ???
 
+Lizenz für ein Jetbrains Tool  
 Freiticket JAX
 Freiticket Sommer OOP 
 1 CyberLandConf T-Shirt  
@@ -275,9 +276,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die andrena.
 
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/andrena.png)]
 
 
 ???
