@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**12.10.2023** | <i class="fa fa-building"></i> | Exploring Debugger Internals (**.darkblue[Johannes Bechberger]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/2023/10/Debugging-Unveiled/) |
 **29.11.2023** | <i class="fa fa-building"></i> | Live-Coding mit Quarkus (**.darkblue[Red Hat]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **18.01.2024** | <i class="fa fa-building"></i> | Wie befähige ich Quereinsteiger? (**.darkblue[Andreas Monschau]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -98,7 +97,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/xpdays.svg)](https://xp-days.de/) &nbsp; Hannover, 05.10. - 06.10.2023]
 .beam[[![:scale 20%](img/wjax.png)](http://wjax.de/) &nbsp; München, 06. - 10.11.2023 (15 % Rabatt)]
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp; Frankfurt, 11. - 14.12.2023 (100,- Euro Rabatt)]
 
@@ -239,12 +237,11 @@ Falk</textarea>
 
 ### Preise
 
-1 Freiticket XP-Days  
-1 Buch Eurer Wahl vom Hanser Verlag  
+Lizenz für ein Jetbrains Tool  
+Buch Eurer Wahl vom dpunkt Verlag  
 Jahresabo Java Spektrum  
 
-![:scale 20%](img/xpdays.svg) 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 
 ???
@@ -276,9 +273,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an die andrena.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
 
-.center[![](img/sponsors/andrena.png)]
+.center[![](img/sponsors/accso.png)]
 
 
 ???
