@@ -144,3 +144,7 @@ label, input {
   font-size: 180% !important;
   color: rgba(217, 83, 79, 0.7);
 }
+
+p.sponsoren > img {
+  padding: 10px;
+}

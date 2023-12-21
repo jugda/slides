@@ -21,8 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**21.12.2023** | <i class="fa fa-building"></i> | 3 Kurzvorträge (**.darkblue[Diverse Sprecher]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **18.01.2024** | <i class="fa fa-building"></i> | Wie befähige ich Quereinsteiger? (**.darkblue[Andreas Monschau]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**22.02.2024** | <i class="fa fa-building"></i> | noch offen (**.darkblue[noch offen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.03.2024** | <i class="fa fa-building"></i> | Spring Modulith + Data Oriented Programming (**.darkblue[S. Lammering + M. Özdogan]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -98,8 +98,9 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp; Frankfurt, 11. - 14.12.2023 (100,- Euro Rabatt)]
-.beam[[![:scale 20%](img/javaland.gif)](http://javaland.eu/) &nbsp; Nürburgring, 09. - 11.04.2023 (30 % Rabatt)]
+.beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/oop-2024/) &nbsp; München, 29.01. - 02.02.2024 (25 % Rabatt)]
+.beam[[![:scale 20%](img/javaland.gif)](http://javaland.eu/) &nbsp; Nürburgring, 09. - 11.04.2024 (30 % Rabatt)]
+.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp; Mainz, 22. - 26.04.2024 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -174,45 +175,45 @@ background-image: url(img/developeronstage.jpg)
 
 &nbsp;
 
-![:scale 30%](img/sponsors/dpunkt.png)
-![:scale 30%](img/sponsors/epress.png)
-![:scale 30%](img/sponsors/hanser.png)
-![:scale 30%](img/sponsors/mitp.png)
-![:scale 30%](img/sponsors/rheinwerk.png)
-![:scale 30%](img/sponsors/oreilly.png)
+<p class="sponsoren">
+![:scale 25%](img/sponsors/dpunkt.png)
+![:scale 25%](img/sponsors/epress.png)
+![:scale 25%](img/sponsors/hanser.png)
+![:scale 25%](img/sponsors/mitp.png)
+![:scale 25%](img/sponsors/rheinwerk.png)
+![:scale 25%](img/sponsors/oreilly.png)
+</p>
 
 &nbsp;
 
 ### <i class="fa fa-envelope-o"></i> [orga@jug-da.de](orga@jug-da.de)
 
-???
+---
 
 ## <i class="fa fa-building-o"></i> Vielen Dank
 
 &nbsp;
 
-![:scale 24%](img/sponsors/tud.png)
-![:scale 24%](img/sponsors/sus.png)
-![:scale 24%](img/sponsors/idea.png)
-![:scale 24%](img/sponsors/dpunkt.png)
-![:scale 24%](img/sponsors/epress.png)
-![:scale 24%](img/sponsors/hanser.png)
-![:scale 24%](img/sponsors/accso.png)
-![:scale 24%](img/sponsors/axxessio.png)
-![:scale 24%](img/sponsors/msg.png)
-![:scale 24%](img/sponsors/itforwork.png)
-![:scale 24%](img/sponsors/mitp.png)
-![:scale 24%](img/sponsors/innoq.png)
-![:scale 24%](img/sponsors/cosee.png)
-![:scale 24%](img/sponsors/telekom.png)
-![:scale 24%](img/sponsors/entwicklertag.png)
-![:scale 24%](img/sponsors/gi.png)
-![:scale 24%](img/sponsors/qaware.png)
-![:scale 24%](img/sponsors/interes.png)
-![:scale 24%](img/sponsors/igd.png)
-![:scale 24%](img/sponsors/softwareag.png)
+<p class="sponsoren">
+![:scale 20%](img/sponsors/tud.png)
+![:scale 20%](img/sponsors/sus.png)
+![:scale 20%](img/sponsors/idea.png)
+![:scale 20%](img/sponsors/dpunkt.png)
+![:scale 20%](img/sponsors/hanser.png)
+![:scale 20%](img/sponsors/rheinwerk.png)
+![:scale 20%](img/sponsors/accso.png)
+![:scale 20%](img/sponsors/exxcellent.png)
+![:scale 20%](img/sponsors/innoq.png)
+![:scale 20%](img/sponsors/cosee.png)
+![:scale 20%](img/sponsors/gi.png)
+![:scale 20%](img/sponsors/qaware.png)
+![:scale 20%](img/sponsors/nterra.png)
+![:scale 20%](img/sponsors/bsi.png)
+![:scale 20%](img/sponsors/andrena.png)
+![:scale 20%](img/sponsors/cowo21.png)
+</p>
 
-???
+---
 
 ## <i class="fa fa-gift"></i> Verlosung
 
@@ -239,8 +240,8 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
-Buch Eurer Wahl vom Rheinwerk Verlag  
 Jahresabo Java Spektrum  
+Bücher
 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/rheinwerk.png) 
@@ -248,6 +249,7 @@ Jahresabo Java Spektrum
 
 ???
 
+Buch Eurer Wahl vom Rheinwerk Verlag  
 Lizenz für ein Jetbrains Tool  
 Freiticket JAX
 Freiticket Sommer OOP 
@@ -275,9 +277,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Red Hat.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent solutions.
 
-.center[![](img/sponsors/redhat.png)]
+.center[![](img/sponsors/exxcellent.png)]
 
 
 ???
