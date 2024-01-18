@@ -21,9 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**18.01.2024** | <i class="fa fa-building"></i> | Wie befähige ich Quereinsteiger? (**.darkblue[Andreas Monschau]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**22.02.2024** | <i class="fa fa-building"></i> | noch offen (**.darkblue[noch offen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**29.02.2024** | <i class="fa fa-building"></i> | noch offen (**.darkblue[noch offen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.03.2024** | <i class="fa fa-building"></i> | Spring Modulith + Data Oriented Programming (**.darkblue[S. Lammering + M. Özdogan]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**25.04.2024** | <i class="fa fa-building"></i> | Hexagonal- über Onion- bis Clean-Architektur (**.darkblue[G. Yerzhanova, M. Franz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**23.05.2024** | <i class="fa fa-building"></i> | Frontend-Architekturen (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -241,10 +242,9 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo Java Spektrum  
-Bücher
+Buch Eurer Wahl von dpunkt
 
 ![:scale 20%](img/sponsors/dpunkt.png) 
-![:scale 20%](img/sponsors/rheinwerk.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 
 ???
@@ -256,6 +256,7 @@ Freiticket Sommer OOP
 1 CyberLandConf T-Shirt  
 1 Buch Eurer Wahl vom dpunkt Verlag  
 
+![:scale 20%](img/sponsors/rheinwerk.png) 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/santa-claus.svg) 
 ![:scale 20%](img/christmas-tree.svg) 
