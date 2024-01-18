@@ -278,9 +278,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent solutions.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an QAware.
 
-.center[![](img/sponsors/exxcellent.png)]
+.center[![](img/sponsors/qaware.png)]
 
 
 ???
