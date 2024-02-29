@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2023 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2023 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 background-color: #ff0000;
@@ -21,10 +21,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**29.02.2024** | <i class="fa fa-building"></i> | noch offen (**.darkblue[noch offen]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.03.2024** | <i class="fa fa-building"></i> | Spring Modulith + Data Oriented Programming (**.darkblue[S. Lammering + M. Özdogan]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **25.04.2024** | <i class="fa fa-building"></i> | Hexagonal- über Onion- bis Clean-Architektur (**.darkblue[G. Yerzhanova, M. Franz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.05.2024** | <i class="fa fa-building"></i> | Frontend-Architekturen (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.06.2024** | <i class="fa fa-building"></i> | In the Year 2525... (**.darkblue[Andreas Heigl]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -99,7 +99,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/oop.gif)](https://www.oop-konferenz.de/oop-2024/) &nbsp; München, 29.01. - 02.02.2024 (25 % Rabatt)]
 .beam[[![:scale 20%](img/javaland.gif)](http://javaland.eu/) &nbsp; Nürburgring, 09. - 11.04.2024 (30 % Rabatt)]
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp; Mainz, 22. - 26.04.2024 (15 % Rabatt)]
 
@@ -153,6 +152,15 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-ladies-night/]
 
+---
+
+## <i class="fa fa-microphone"></i> JSail Unkonferenz
+
+### <i class="fa fa-calendar"></i> 03.06. bis 07.06.2023 
+
+![:scale 50%](img/jsail2023.png)
+
+.bottom[<i class="fa fa-external-link"></i> https://jsail.ijug.eu/]
 
 ---
 
@@ -278,9 +286,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an QAware.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
 
-.center[![](img/sponsors/qaware.png)]
+.center[![](img/sponsors/cosee.png)]
 
 
 ???
