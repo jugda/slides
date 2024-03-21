@@ -21,7 +21,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**21.03.2024** | <i class="fa fa-building"></i> | Spring Modulith + Data Oriented Programming (**.darkblue[S. Lammering + M. Özdogan]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **25.04.2024** | <i class="fa fa-building"></i> | Hexagonal- über Onion- bis Clean-Architektur (**.darkblue[G. Yerzhanova, M. Franz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.05.2024** | <i class="fa fa-building"></i> | Frontend-Architekturen (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.06.2024** | <i class="fa fa-building"></i> | In the Year 2525... (**.darkblue[Andreas Heigl]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
@@ -47,8 +46,8 @@ background-color: #ff0000;
 ---
 ## <i class="fa fa-bullhorn"></i> Remote oder Vor-Ort
 
-.stripe[Im Moment planen wir Remote oder Vor-Ort (Hybrid).]
-.stripe[Man kann also weiterhin Remote teilnehmen, wir wünschen uns aber wieder den Austausch vor Ort.]
+.stripe[Im Moment planen wir hauptsächlich Vor-Ort.]
+.stripe[Wir versuchen aber auch parallel, Remote-Zuschauer einzubinden (Hybrid).]
 
 ---
 background-image: url(img/jug-hilfe.jpg)
@@ -166,7 +165,7 @@ background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-bullhorn"></i> JUG Darmstadt 4 Kids
 
-- Planungen für 2. Termin laufen (Samstag in Q1/2024)
+- Planungen für 2. Termin laufen (Samstag in Q2/2024)
 
 - Darmstädter Kinder und Jugendliche als Teilnehmer
   - 7 - 10 (Grundschulalter)
@@ -274,9 +273,21 @@ Freiticket Sommer OOP
 
 Namen aus der Teilnehmerliste in das Textarea kopieren.
 
-???
+---
 
 ## Feedback zu den Vorträgen
+
+- Was hat Euch heute gut gefallen, wo habt ihr was Interessantes gelernt. 
+
+- Was hat Euch gefehlt oder welche Ideen habt Ihr, was unsere Newcomer für den großen Auftritt auf der JavaLand noch besser machen können?
+
+- Schnappt Euch Post-Its und haltet Euer Feedback fest. 
+  
+- Oder sprecht Sebastian und Mechti direkt an.
+
+- Vielen Dank.
+
+???
 
 ![:scale 75%](img/newcomer-feedback.jpg)
 
@@ -286,9 +297,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an andrena.
 
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/andrena.png)]
 
 
 ???
