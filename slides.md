@@ -21,9 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**25.04.2024** | <i class="fa fa-building"></i> | Hexagonal- über Onion- bis Clean-Architektur (**.darkblue[G. Yerzhanova, M. Franz]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.05.2024** | <i class="fa fa-building"></i> | Frontend-Architekturen (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.06.2024** | <i class="fa fa-building"></i> | In the Year 2525... (**.darkblue[Andreas Heigl]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -98,8 +98,7 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/javaland.gif)](http://javaland.eu/) &nbsp; Nürburgring, 09. - 11.04.2024 (30 % Rabatt)]
-.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp; Mainz, 22. - 26.04.2024 (15 % Rabatt)]
+.beam[[![:scale 20%](img/jcon.png)](http://jcon.one/) &nbsp; Köln, 13. - 16.05.2024 (kostenlos)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -131,13 +130,13 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
-???
+---
 
 background-image: url(img/developeronstage.jpg)
 
-## <i class="fa fa-microphone"></i> Developer on the stage
+## <i class="fa fa-microphone"></i> Tech2Talk
 
-.bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-next-generation/]
+.bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://tech2talk.de/]
 
 ???
 
@@ -273,7 +272,7 @@ Freiticket Sommer OOP
 
 Namen aus der Teilnehmerliste in das Textarea kopieren.
 
----
+???
 
 ## Feedback zu den Vorträgen
 
@@ -297,9 +296,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an andrena.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
 
-.center[![](img/sponsors/andrena.png)]
+.center[![](img/sponsors/accso.png)]
 
 
 ???
