@@ -21,8 +21,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**23.05.2024** | <i class="fa fa-building"></i> | Frontend-Architekturen (**.darkblue[Nils Hartmann]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.06.2024** | <i class="fa fa-building"></i> | In the Year 2525... (**.darkblue[Andreas Heigl]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**18.07.2024** | <i class="fa fa-building"></i> | Microbenchmarks (**.darkblue[René Schwietzke]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -43,7 +43,8 @@ background-color: #ff0000;
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
----
+???
+
 ## <i class="fa fa-bullhorn"></i> Remote oder Vor-Ort
 
 .stripe[Im Moment planen wir hauptsächlich Vor-Ort.]
@@ -98,7 +99,9 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jcon.png)](http://jcon.one/) &nbsp; Köln, 13. - 16.05.2024 (kostenlos)]
+.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;31.07.2024]
+.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2024/) &nbsp;10.09.2024 ]
+.beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 ]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -248,7 +251,7 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo Java Spektrum  
-Buch Eurer Wahl von dpunkt
+Buch Eurer Wahl von Rheinwerk
 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
@@ -296,9 +299,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
 
-.center[![](img/sponsors/accso.png)]
+.center[![](img/sponsors/nterra.png)]
 
 
 ???
