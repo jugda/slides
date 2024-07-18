@@ -21,8 +21,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.06.2024** | <i class="fa fa-building"></i> | In the Year 2525... (**.darkblue[Andreas Heigl]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**18.07.2024** | <i class="fa fa-building"></i> | Microbenchmarks (**.darkblue[René Schwietzke]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**29.08.2024** | <i class="fa fa-building"></i> | Grillen an der Oberförsterwiese | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**19.09.2024** | <i class="fa fa-building"></i> | JVM, Kubernetes und Hochlast (**.darkblue[Daniel Hartung]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**31.10.2024** | <i class="fa fa-building"></i> | Ist dein Java-Code wirklich objektorientiert? (**.darkblue[Roland Weisleder]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -88,12 +89,12 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
-???
+---
 
 background-image: url(img/grillplatz.jpg)
 
-.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 8. JUG Darmstadt Barbecue]
-.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 23.08.2023]
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 9. JUG Darmstadt Barbecue]
+.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 29.08.2024]
 
 ---
 
@@ -101,7 +102,8 @@ background-image: url(img/grillplatz.jpg)
 
 .beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;31.07.2024]
 .beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2024/) &nbsp;10.09.2024 ]
-.beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 ]
+.beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 (20 % Rabatt)]
+.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -129,8 +131,7 @@ background-image: url(img/jug-newcomer.jpg)
 
 CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447092/
 
-- zwei JUG Darmstadt Newcomer pro Jahr, mindestens eine Frau
-- Primärziel nächste JavaLand, aber auch gern andere, lokale Konferenzen
+- z. B. nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
 ---
@@ -153,7 +154,7 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-ladies-night/]
 
----
+???
 
 ## <i class="fa fa-microphone"></i> JSail Unkonferenz
 
@@ -251,7 +252,7 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo Java Spektrum  
-Buch Eurer Wahl von Rheinwerk
+Buch Eurer Wahl von dpunkt
 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
@@ -299,9 +300,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an nterra.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an QAware.
 
-.center[![](img/sponsors/nterra.png)]
+.center[![](img/sponsors/qaware.png)]
 
 
 ???
