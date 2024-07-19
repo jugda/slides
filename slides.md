@@ -100,9 +100,10 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;31.07.2024]
 .beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2024/) &nbsp;10.09.2024 ]
 .beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 (20 % Rabatt)]
+.beam[[![:scale 20%](img/jaxlondon.svg)](https://jaxlondon.com/) &nbsp;30.09. - 03.10.2024 (15 % Rabatt)]
+.beam[[![:scale 20%](img/jaxnewyork.svg)](https://devm.io/jaxnewyork/) &nbsp;07. - 10.10.2024 (15 % Rabatt)]
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
@@ -251,6 +252,7 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
+Freiticket JAX London (30.09. - 03.10.) oder JAX New York (07. - 10.10.)  
 Jahresabo Java Spektrum  
 Buch Eurer Wahl von dpunkt
 
