@@ -13,6 +13,11 @@ layout: true
 .copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
+
+background-image: url(img/jha-rip.jpg)
+
+---
+
 background-color: #ff0000;
 
 ## <i class="fa fa-calendar"></i> Nächste Events
@@ -21,8 +26,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**29.08.2024** | <i class="fa fa-building"></i> | Grillen an der Oberförsterwiese | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**19.09.2024** | <i class="fa fa-building"></i> | JVM, Kubernetes und Hochlast (**.darkblue[Daniel Hartung]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **31.10.2024** | <i class="fa fa-building"></i> | Ist dein Java-Code wirklich objektorientiert? (**.darkblue[Roland Weisleder]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -89,7 +92,7 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
----
+???
 
 background-image: url(img/grillplatz.jpg)
 
@@ -100,13 +103,17 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jfn.png)](https://javaforumnord.de/2024/) &nbsp;10.09.2024 ]
+.beam[[![:scale 20%](img/xpdays.png)](https://www.xpdays.de/2024/) &nbsp;10./11.10.2024 10 % Rabatt]
 .beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 (20 % Rabatt)]
 .beam[[![:scale 20%](img/jaxlondon.svg)](https://jaxlondon.com/) &nbsp;30.09. - 03.10.2024 (15 % Rabatt)]
 .beam[[![:scale 20%](img/jaxnewyork.svg)](https://devm.io/jaxnewyork/) &nbsp;07. - 10.10.2024 (15 % Rabatt)]
-.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
+.beam[[![:scale 20%](img/sag.png)](https://conferences.isaqb.org/software-architecture-gathering/) &nbsp;11. - 14.11.2024 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
+
+???
+
+.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
 
 ---
 
@@ -302,9 +309,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an QAware.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent.
 
-.center[![](img/sponsors/qaware.png)]
+.center[![](img/sponsors/exxcellent.png)]
 
 
 ???
