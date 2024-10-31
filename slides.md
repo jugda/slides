@@ -26,8 +26,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**31.10.2024** | <i class="fa fa-building"></i> | Ist dein Java-Code wirklich objektorientiert? (**.darkblue[Roland Weisleder]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**09.11.2024** | <i class="fa fa-building"></i> | Global Day of Code Retreat Darmstadt | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**11.12.2024** | <i class="fa fa-building"></i> | Full-Stack Entwicklung (**.darkblue[Simon Martinelli]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.03.2025** | <i class="fa fa-building"></i> | JavaLand Newcomer (**.darkblue[F. Tensing + ?]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -55,6 +57,12 @@ background-color: #ff0000;
 .stripe[Wir versuchen aber auch parallel, Remote-Zuschauer einzubinden (Hybrid).]
 
 ---
+
+background-image: url(img/gdcr2024.jpg)
+
+
+---
+
 background-image: url(img/jug-hilfe.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Unterstützung
@@ -103,17 +111,19 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/xpdays.png)](https://www.xpdays.de/2024/) &nbsp;10./11.10.2024 10 % Rabatt]
-.beam[[![:scale 20%](img/ocx.png)](https://www.ocxconf.org/) &nbsp;22. - 24.10.2024 (20 % Rabatt)]
-.beam[[![:scale 20%](img/jaxlondon.svg)](https://jaxlondon.com/) &nbsp;30.09. - 03.10.2024 (15 % Rabatt)]
-.beam[[![:scale 20%](img/jaxnewyork.svg)](https://devm.io/jaxnewyork/) &nbsp;07. - 10.10.2024 (15 % Rabatt)]
-.beam[[![:scale 20%](img/sag.png)](https://conferences.isaqb.org/software-architecture-gathering/) &nbsp;11. - 14.11.2024 (15 % Rabatt)]
+.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;München, 04. - 08.11.2024 (15 % Rabatt)]
+.beam[[![:scale 20%](img/sag.png)](https://conferences.isaqb.org/software-architecture-gathering/) &nbsp;Berlin, 11. - 14.11.2024]
+.beam[[![:scale 20%](img/ittage.png)](https://ittage.informatik-aktuell.de/) &nbsp;Frankfurt, 09. - 12.12.2024]
 
 ### Rabattcodes über orga@jug-da.de
 
 ???
 
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
+
+---
+
+background-image: url(img/sag2024.png)
 
 ---
 
@@ -172,7 +182,7 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[<i class="fa fa-external-link"></i> https://jsail.ijug.eu/]
 
----
+???
 
 ## <i class="fa fa-bullhorn"></i> JUG Darmstadt 4 Kids
 
@@ -259,16 +269,15 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
-Freiticket JAX London (30.09. - 03.10.) oder JAX New York (07. - 10.10.)  
-Jahresabo Java Spektrum  
-Buch Eurer Wahl von dpunkt
+Jahresabo sigs.de (Java Spektrum, ...)  
+Buch Eurer Wahl vom Rheinwerk Verlag  
 
-![:scale 20%](img/sponsors/dpunkt.png) 
+![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 20%](img/sponsors/sigs.jpg) 
 
 ???
 
-Buch Eurer Wahl vom Rheinwerk Verlag  
 Lizenz für ein Jetbrains Tool  
 Freiticket JAX
 Freiticket Sommer OOP 
@@ -309,9 +318,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Andrena.
 
-.center[![](img/sponsors/exxcellent.png)]
+.center[![](img/sponsors/andrena.png)]
 
 
 ???
