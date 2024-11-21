@@ -12,7 +12,7 @@ layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
 .copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
 
----
+???
 
 background-image: url(img/jha-rip.jpg)
 
@@ -26,8 +26,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**09.11.2024** | <i class="fa fa-building"></i> | Global Day of Code Retreat Darmstadt | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**21.11.2024** | <i class="fa fa-building"></i> | Vielfalt in Open-Source-Foundations (**.darkblue[Hendrik Ebbers]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2024** | <i class="fa fa-building"></i> | Full-Stack Entwicklung (**.darkblue[Simon Martinelli]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **20.03.2025** | <i class="fa fa-building"></i> | JavaLand Newcomer (**.darkblue[F. Tensing + ?]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -56,7 +54,7 @@ background-color: #ff0000;
 .stripe[Im Moment planen wir hauptsächlich Vor-Ort.]
 .stripe[Wir versuchen aber auch parallel, Remote-Zuschauer einzubinden (Hybrid).]
 
----
+???
 
 background-image: url(img/gdcr2024.jpg)
 
@@ -111,8 +109,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;München, 04. - 08.11.2024 (15 % Rabatt)]
-.beam[[![:scale 20%](img/sag.png)](https://conferences.isaqb.org/software-architecture-gathering/) &nbsp;Berlin, 11. - 14.11.2024]
 .beam[[![:scale 20%](img/ittage.png)](https://ittage.informatik-aktuell.de/) &nbsp;Frankfurt, 09. - 12.12.2024]
 
 ### Rabattcodes über orga@jug-da.de
@@ -120,10 +116,6 @@ background-image: url(img/grillplatz.jpg)
 ???
 
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;04. - 08.11.2024 (15 % Rabatt)]
-
----
-
-background-image: url(img/sag2024.png)
 
 ---
 
@@ -242,7 +234,7 @@ background-image: url(img/developeronstage.jpg)
 ![:scale 20%](img/sponsors/cowo21.png)
 </p>
 
----
+???
 
 ## <i class="fa fa-gift"></i> Verlosung
 
@@ -318,14 +310,16 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Andrena.
-
-.center[![](img/sponsors/andrena.png)]
-
+### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
 ???
 
 ## Viel Spaß beim Vortrag
+
+
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Andrena.
+
+.center[![](img/sponsors/andrena.png)]
 
 ### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
 
