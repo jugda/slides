@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2024 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/)]
 
 ???
 
@@ -26,8 +26,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**11.12.2024** | <i class="fa fa-building"></i> | Full-Stack Entwicklung (**.darkblue[Simon Martinelli]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**20.03.2025** | <i class="fa fa-building"></i> | JavaLand Newcomer (**.darkblue[F. Tensing + ?]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.03.2025** | <i class="fa fa-building"></i> | JavaLand Newcomer: Machine-Learning-Modelle in Java + Fachliche Dokumentation mit Tests | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.03.2025** | <i class="fa fa-building"></i> | SpeaKonf (Unkonferenz rund um Vorträge) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**25.03.2025** | <i class="fa fa-building"></i> | XZ: The day the Internet (almost) died (**.darkblue[Reinier Zwitserloot, Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**08.04.2025** | <i class="fa fa-building"></i> | LangChain4j (Ed Burns) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -109,7 +111,8 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/ittage.png)](https://ittage.informatik-aktuell.de/) &nbsp;Frankfurt, 09. - 12.12.2024]
+.beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) &nbsp;Nürburgring, 01. - 03.04.2025 (30 % Rabatt)]
+.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Mainz, 05. - 09.05.2025 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -144,13 +147,19 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - z. B. nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
----
+???
 
 background-image: url(img/developeronstage.jpg)
 
 ## <i class="fa fa-microphone"></i> Tech2Talk
 
 .bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://tech2talk.de/]
+
+---
+
+background-image: url(img/speakonf.jpg)
+
+.bottom[Unkonferenz zu Public Speaking in der Tech-Branche.<br><i class="fa fa-external-link"></i> https://speakonf.de/]
 
 ???
 
@@ -164,11 +173,11 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-ladies-night/]
 
-???
+---
 
 ## <i class="fa fa-microphone"></i> JSail Unkonferenz
 
-### <i class="fa fa-calendar"></i> 03.06. bis 07.06.2023 
+### <i class="fa fa-calendar"></i> 23.06. bis 27.06.2025 
 
 ![:scale 50%](img/jsail2023.png)
 
@@ -234,7 +243,7 @@ background-image: url(img/developeronstage.jpg)
 ![:scale 20%](img/sponsors/cowo21.png)
 </p>
 
-???
+---
 
 ## <i class="fa fa-gift"></i> Verlosung
 
@@ -262,9 +271,9 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom Rheinwerk Verlag  
+Buch Eurer Wahl vom dpunkt Verlag  
 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/sigs.jpg) 
 
@@ -310,7 +319,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Im Anschluss sind wir noch hier und freuen uns, wenn ihr auch beim Remote-Stammtisch dabei seid.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+
+.center[![](img/sponsors/accso.png)]
 
 ???
 
