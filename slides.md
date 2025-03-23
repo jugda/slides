@@ -26,10 +26,11 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.03.2025** | <i class="fa fa-building"></i> | JavaLand Newcomer: Machine-Learning-Modelle in Java + Fachliche Dokumentation mit Tests | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**21.03.2025** | <i class="fa fa-building"></i> | SpeaKonf (Unkonferenz rund um Vorträge) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**21.03.2025** | <i class="fa fa-building"></i> | SpeaKonf | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **25.03.2025** | <i class="fa fa-building"></i> | XZ: The day the Internet (almost) died (**.darkblue[Reinier Zwitserloot, Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **08.04.2025** | <i class="fa fa-building"></i> | LangChain4j (Ed Burns) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**24.04.2025** | <i class="fa fa-building"></i> | Benchmarking Valhalla (Cay Horstmann) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**15.05.2025** | <i class="fa fa-building"></i> | Thoughts On (Modern?) Software Development (Alex Thurow) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -271,9 +272,9 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom dpunkt Verlag  
+Buch Eurer Wahl vom Hanser Verlag  
 
-![:scale 20%](img/sponsors/dpunkt.png) 
+![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/sigs.jpg) 
 
@@ -319,9 +320,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Accso.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
 
-.center[![](img/sponsors/accso.png)]
+.center[![](img/sponsors/cosee.png)]
 
 ???
 
