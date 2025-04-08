@@ -26,9 +26,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**21.03.2025** | <i class="fa fa-building"></i> | SpeaKonf | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**25.03.2025** | <i class="fa fa-building"></i> | XZ: The day the Internet (almost) died (**.darkblue[Reinier Zwitserloot, Roel Spilker]**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**08.04.2025** | <i class="fa fa-building"></i> | LangChain4j (Ed Burns) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **24.04.2025** | <i class="fa fa-building"></i> | Benchmarking Valhalla (Cay Horstmann) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **15.05.2025** | <i class="fa fa-building"></i> | Thoughts On (Modern?) Software Development (Alex Thurow) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -112,7 +109,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/javaland.gif)](https://javaland.eu/) &nbsp;Nürburgring, 01. - 03.04.2025 (30 % Rabatt)]
 .beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Mainz, 05. - 09.05.2025 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
@@ -156,7 +152,7 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://tech2talk.de/]
 
----
+???
 
 background-image: url(img/speakonf.jpg)
 
@@ -272,9 +268,9 @@ Falk</textarea>
 
 Lizenz für ein Jetbrains Tool  
 Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom Hanser Verlag  
+Buch Eurer Wahl vom dpunkt Verlag  
 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/sigs.jpg) 
 
@@ -320,9 +316,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent.
 
-.center[![](img/sponsors/cosee.png)]
+.center[![](img/sponsors/exxcellent.png)]
 
 ???
 
