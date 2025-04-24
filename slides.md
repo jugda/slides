@@ -27,7 +27,7 @@ background-color: #ff0000;
   |  |  | 
 ------------- |------------- |------------- | -------------
 **15.05.2025** | <i class="fa fa-building"></i> | Thoughts On (Modern?) Software Development (Alex Thurow) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**24.07.2025** | <i class="fa fa-building"></i> | tbd (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**24.07.2025** | <i class="fa fa-building"></i> | Dev Env Reloaded (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
