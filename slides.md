@@ -26,8 +26,11 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**24.04.2025** | <i class="fa fa-building"></i> | Benchmarking Valhalla (Cay Horstmann) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **15.05.2025** | <i class="fa fa-building"></i> | Thoughts On (Modern?) Software Development (Alex Thurow) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**24.07.2025** | <i class="fa fa-building"></i> | tbd (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
 
@@ -158,6 +161,10 @@ background-image: url(img/speakonf.jpg)
 
 .bottom[Unkonferenz zu Public Speaking in der Tech-Branche.<br><i class="fa fa-external-link"></i> https://speakonf.de/]
 
+---
+
+background-image: url(img/softwerkskammer.png)
+
 ???
 
 ## <i class="fa fa-microphone"></i> Ladies Night Newcomer
@@ -266,9 +273,10 @@ Falk</textarea>
 
 ### Preise
 
+Freiticket JAX  
 Lizenz für ein Jetbrains Tool  
 Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom dpunkt Verlag  
+Buch Eurer Wahl vom Hanser Verlag  
 
 ![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 20%](img/sponsors/jetbrains.png) 
@@ -316,9 +324,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an eXXcellent.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an COWO21.
 
-.center[![](img/sponsors/exxcellent.png)]
+.center[![:scale 75%](img/sponsors/cowo21.png)]
 
 ???
 
