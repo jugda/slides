@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/)]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
 
 ???
 
@@ -26,8 +26,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**15.05.2025** | <i class="fa fa-building"></i> | Thoughts On (Modern?) Software Development (Alex Thurow) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**11.06.2025** | <i class="fa fa-building"></i> | Workflow-Engine Operaton (Tim Zöller) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **24.07.2025** | <i class="fa fa-building"></i> | Dev Env Reloaded (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**27.08.2025** | <i class="fa fa-building"></i> | Spring AI (Patrick Baumgartner) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
@@ -112,7 +113,9 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/jax.png)](https://jax.de/mainz/) &nbsp;Mainz, 05. - 09.05.2025 (15 % Rabatt)]
+.beam[[![:scale 20%](img/etka.svg)](https://entwicklertag.de/) &nbsp;Karlsruhe, 02. - 04.06.2025 ]
+.beam[[![:scale 8%](img/jsail.png)](https://jsail.ijug.eu/) &nbsp;JSail Unkonf in Hemelum (NL), 23. - 27.06.2025 ]
+.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;Stuttgart, 10.07.2025 ]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -164,6 +167,9 @@ background-image: url(img/speakonf.jpg)
 ---
 
 background-image: url(img/softwerkskammer.png)
+
+.stripe[Nächster Termin: 28.08.]
+.stripe[[softwerkskammer.de/groups/rheinmain](https://softwerkskammer.de/groups/rheinmain)]
 
 ???
 
@@ -273,13 +279,14 @@ Falk</textarea>
 
 ### Preise
 
-Freiticket JAX  
 Lizenz für ein Jetbrains Tool  
 Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom Hanser Verlag  
+Buch Eurer Wahl vom Rheinwerk Verlag  
 
+![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/rheinwerk.png) 
 ![:scale 20%](img/sponsors/dpunkt.png) 
-![:scale 20%](img/sponsors/jetbrains.png) 
+![:scale 10%](img/sponsors/jetbrains.png) 
 ![:scale 20%](img/sponsors/sigs.jpg) 
 
 ???
@@ -324,9 +331,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an COWO21.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Andrena.
 
-.center[![:scale 75%](img/sponsors/cowo21.png)]
+.center[![:scale 75%](img/sponsors/andrena.png)]
 
 ???
 
