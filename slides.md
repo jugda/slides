@@ -26,7 +26,6 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**11.06.2025** | <i class="fa fa-building"></i> | Workflow-Engine Operaton (Tim Zöller) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **24.07.2025** | <i class="fa fa-building"></i> | Dev Env Reloaded (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **27.08.2025** | <i class="fa fa-building"></i> | Spring AI (Patrick Baumgartner) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
@@ -113,9 +112,10 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/etka.svg)](https://entwicklertag.de/) &nbsp;Karlsruhe, 02. - 04.06.2025 ]
 .beam[[![:scale 8%](img/jsail.png)](https://jsail.ijug.eu/) &nbsp;JSail Unkonf in Hemelum (NL), 23. - 27.06.2025 ]
 .beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;Stuttgart, 10.07.2025 ]
+.beam[[![:scale 10%](img/es25.png)](https://entwickler.de/entwickler-summit/) &nbsp;Entwickler Summit Berlin, 18.09.2025]
+.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;03. - 07.11.2025 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -280,8 +280,9 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
-Jahresabo sigs.de (Java Spektrum, ...)  
-Buch Eurer Wahl vom Rheinwerk Verlag  
+Freiticket entwickler Summit Berlin
+Fullstack-Mitgliedschaft entwickler.de
+Buch Eurer Wahl vom dpunkt Verlag  
 
 ![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/rheinwerk.png) 
@@ -291,8 +292,13 @@ Buch Eurer Wahl vom Rheinwerk Verlag
 
 ???
 
-Lizenz für ein Jetbrains Tool  
+Lizenz für ein Jetbrains Tool 
+Jahresabo sigs.de (Java Spektrum, ...)   
 Freiticket JAX
+- 1 Freiticket zur Verlosung für die Hauptkonferenz (W-JAX)
+- 1 Freiticket zur Verlosung für den entwickler Summit
+- 1 Fullstack-Mitgliedschaft zur Verlosung
+- 15% Rabattcode
 Freiticket Sommer OOP 
 1 CyberLandConf T-Shirt  
 1 Buch Eurer Wahl vom dpunkt Verlag  
