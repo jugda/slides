@@ -26,9 +26,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**24.07.2025** | <i class="fa fa-building"></i> | Dev Env Reloaded (Sandra Parsick) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **27.08.2025** | <i class="fa fa-building"></i> | Spring AI (Patrick Baumgartner) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**30.09.2025** | <i class="fa fa-building"></i> | Grillabend | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**xx.11.2025** | <i class="fa fa-building"></i> | OpenRewrite | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
@@ -101,21 +102,20 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
-???
+---
 
 background-image: url(img/grillplatz.jpg)
 
-.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 9. JUG Darmstadt Barbecue]
-.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 29.08.2024]
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 10. JUG Darmstadt Barbecue]
+.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 30.09.2025]
 
 ---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 8%](img/jsail.png)](https://jsail.ijug.eu/) &nbsp;JSail Unkonf in Hemelum (NL), 23. - 27.06.2025 ]
-.beam[[![:scale 20%](img/jfs.jpg)](https://www.java-forum-stuttgart.de/) &nbsp;Stuttgart, 10.07.2025 ]
 .beam[[![:scale 10%](img/es25.png)](https://entwickler.de/entwickler-summit/) &nbsp;Entwickler Summit Berlin, 18.09.2025]
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;03. - 07.11.2025 (15 % Rabatt)]
+.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;08. - 11.12.2025]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -183,7 +183,7 @@ background-image: url(img/softwerkskammer.png)
 
 .bottom[<i class="fa fa-external-link"></i> https://cyberland.ijug.eu/2023-11-ladies-night/]
 
----
+???
 
 ## <i class="fa fa-microphone"></i> JSail Unkonferenz
 
@@ -264,8 +264,6 @@ background-image: url(img/softwerkskammer.png)
 Melanie
 Gerd
 Jan
-Jörn
-Marcel
 Niko
 Sebastian
 Falk</textarea>
@@ -280,9 +278,8 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
-Freiticket entwickler Summit Berlin
-Fullstack-Mitgliedschaft entwickler.de
-Buch Eurer Wahl vom dpunkt Verlag  
+Freiticket entwickler Summit Berlin  
+Buch Eurer Wahl vom Hanser Verlag  
 
 ![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/rheinwerk.png) 
@@ -337,9 +334,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an Andrena.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
 
-.center[![:scale 75%](img/sponsors/andrena.png)]
+.center[![:scale 75%](img/sponsors/cosee.png)]
 
 ???
 
