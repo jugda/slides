@@ -26,11 +26,10 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**27.08.2025** | <i class="fa fa-building"></i> | Spring AI (Patrick Baumgartner) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**30.09.2025** | <i class="fa fa-building"></i> | Grillabend | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**23.10.2025** | <i class="fa fa-building"></i> | CRaC (Gerrit Grunwald) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**xx.11.2025** | <i class="fa fa-building"></i> | OpenRewrite | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**20.11.2025** | <i class="fa fa-building"></i> | OpenRewrite (Merlin Bögershausen) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**22.01.2026** | <i class="fa fa-building"></i> | ? (Richard Gross) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**19.02.2026** | <i class="fa fa-building"></i> | Newcomer-Event (Alex Eimer + ?) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -102,7 +101,7 @@ Wir suchen interessierte Firmen:
 - Übernahme von Catering
 - Kaufen von Merchandise-Artikeln (T-Shirts, Tassen, ...)
 
----
+???
 
 background-image: url(img/grillplatz.jpg)
 
@@ -113,7 +112,6 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 10%](img/es25.png)](https://entwickler.de/entwickler-summit/) &nbsp;Entwickler Summit Berlin, 18.09.2025]
 .beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;03. - 07.11.2025 (15 % Rabatt)]
 .beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;08. - 11.12.2025]
 
@@ -150,6 +148,12 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - z. B. nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
+---
+
+background-image: url(img/cyberland_code_camp.png)
+
+.bottom[13.11.2026 - <i class="fa fa-external-link"></i> https://cyberland.ijug.eu/]
+
 ???
 
 background-image: url(img/developeronstage.jpg)
@@ -168,7 +172,8 @@ background-image: url(img/speakonf.jpg)
 
 background-image: url(img/softwerkskammer.png)
 
-.stripe[Nächster Termin: 28.08.]
+.stripe[Nächster Termin: 08.11.]
+.stripe[Global Day of Code Retreat]
 .stripe[[softwerkskammer.de/groups/rheinmain](https://softwerkskammer.de/groups/rheinmain)]
 
 ???
@@ -278,8 +283,8 @@ Falk</textarea>
 ### Preise
 
 Lizenz für ein Jetbrains Tool  
-Freiticket entwickler Summit Berlin  
-Buch Eurer Wahl vom Hanser Verlag  
+Jahresabo sigs.de (Java Spektrum, ...)   
+Buch Eurer Wahl vom dpunkt Verlag  
 
 ![:scale 20%](img/sponsors/hanser.png) 
 ![:scale 20%](img/sponsors/rheinwerk.png) 
@@ -334,9 +339,9 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an cosee.
+### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an andrena.
 
-.center[![:scale 75%](img/sponsors/cosee.png)]
+.center[![:scale 75%](img/sponsors/andrena.png)]
 
 ???
 
