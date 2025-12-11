@@ -26,10 +26,9 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**20.11.2025** | <i class="fa fa-building"></i> | OpenRewrite (Merlin Bögershausen) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**22.01.2026** | <i class="fa fa-building"></i> | ? (Richard Gross) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**19.02.2026** | <i class="fa fa-building"></i> | Newcomer-Event (Alex Eimer + ?) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**22.01.2026** | <i class="fa fa-building"></i> | Domain Rediscovery Patterns für Legacy Code (Richard Gross) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**19.02.2026** | <i class="fa fa-building"></i> | Newcomer-Event (Alex Eimer + Fedor Zholud + Christoph Gerlach) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -63,6 +62,13 @@ background-image: url(img/gdcr2024.jpg)
 
 
 ---
+
+background-image: url(img/zugunkonf.jpg)
+
+.bottom[Unsere JUG Community auf dem Weg zum Vortrag]  
+
+---
+
 
 background-image: url(img/jug-hilfe.jpg)
 
@@ -112,8 +118,8 @@ background-image: url(img/grillplatz.jpg)
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/wjax.png)](https://jax.de/muenchen/) &nbsp;03. - 07.11.2025 (15 % Rabatt)]
-.beam[[![:scale 20%](img/ittage.png)](https://www.ittage.informatik-aktuell.de/) &nbsp;08. - 11.12.2025]
+.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/de/home/) &nbsp;10. - 12.03.2026]
+.beam[[![:scale 20%](img/jax.png)](https://jax.de/) &nbsp;04. - 08.05.2025 (15 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -152,7 +158,7 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 
 background-image: url(img/cyberland_code_camp.png)
 
-.bottom[13.11.2026 - <i class="fa fa-external-link"></i> https://cyberland.ijug.eu/]
+.bottom[16.12.2026 - <i class="fa fa-external-link"></i> https://cyberland.ijug.eu/]
 
 ???
 
@@ -172,8 +178,7 @@ background-image: url(img/speakonf.jpg)
 
 background-image: url(img/softwerkskammer.png)
 
-.stripe[Nächster Termin: 08.11.]
-.stripe[Global Day of Code Retreat]
+.stripe[z. B. Global Day of Code Retreat]
 .stripe[[softwerkskammer.de/groups/rheinmain](https://softwerkskammer.de/groups/rheinmain)]
 
 ???
@@ -282,15 +287,11 @@ Falk</textarea>
 
 ### Preise
 
-Lizenz für ein Jetbrains Tool  
-Jahresabo sigs.de (Java Spektrum, ...)   
-Buch Eurer Wahl vom dpunkt Verlag  
+2x Lizenz für ein Jetbrains Tool  
+2x Buch Eurer Wahl vom Hanser Verlag  
 
 ![:scale 20%](img/sponsors/hanser.png) 
-![:scale 20%](img/sponsors/rheinwerk.png) 
-![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 10%](img/sponsors/jetbrains.png) 
-![:scale 20%](img/sponsors/sigs.jpg) 
 
 ???
 
@@ -339,9 +340,12 @@ https://tinyurl.com/jugda-feedback
 
 ## Viel Spaß beim Vortrag
 
-### Nach dem Vortrag bleiben wir einfach hier. Vielen Dank an andrena.
+### Nach dem Vortrag bleiben wir einfach hier. 
 
-.center[![:scale 75%](img/sponsors/andrena.png)]
+Vielen Dank an die h_da.
+
+.center[![:scale 20%](img/sponsors/h_da.png)]
+
 
 ???
 
