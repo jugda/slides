@@ -5,12 +5,12 @@ class: center, middle
 # Aktuelle Informationen
 
 .slideshow[<input id="autoSlideshow" type="checkbox" title="Auto Slideshow" /> Slideshow]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2026 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
 
 ---
 layout: true
 .logo[![:scale 15%](img/logo_rund.png)]
-.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2025 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
+.copyright[[jug-da.de/slides](https://www.jug-da.de/slides) | &copy; 2026 [Java User Group Darmstadt](http://jug-da.de/) (Veranstaltung des [iJUG e.V.](https://www.ijug.eu/))]
 
 ???
 
@@ -26,9 +26,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**11.12.2025** | <i class="fa fa-building"></i> | 30 Jahre Java (Adam Bien) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**22.01.2026** | <i class="fa fa-building"></i> | Domain Rediscovery Patterns für Legacy Code (Richard Gross) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
-**19.02.2026** | <i class="fa fa-building"></i> | Newcomer-Event (Alex Eimer + Fedor Zholud + Christoph Gerlach) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**27.08.2026** | <i class="fa fa-building"></i> | Softwerkskammer: Elephant Carpacio (Tom Asel) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**17.09.2026** | <i class="fa fa-building"></i> | Quarkus und LLM (Marco Klaaßen) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -61,7 +60,7 @@ background-color: #ff0000;
 background-image: url(img/gdcr2024.jpg)
 
 
----
+???
 
 background-image: url(img/zugunkonf.jpg)
 
@@ -109,17 +108,27 @@ Wir suchen interessierte Firmen:
 
 ???
 
+background-image: url(img/ssa-forum.jpg)
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> iSAQB Software Architekur Forum]
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 16./17. Juni in München]
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 1 Freiticket]
+
+???
+
 background-image: url(img/grillplatz.jpg)
 
-.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 10. JUG Darmstadt Barbecue]
-.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 30.09.2025]
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 11. JUG Darmstadt Barbecue]
+.stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 01.07.2026]
 
----
+???
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-.beam[[![:scale 20%](img/javaland.gif)](https://www.javaland.eu/de/home/) &nbsp;10. - 12.03.2026]
-.beam[[![:scale 20%](img/jax.png)](https://jax.de/) &nbsp;04. - 08.05.2025 (15 % Rabatt)]
+..beam[[![:scale 20%](img/jax.png)](https://jax.de/) &nbsp;04. - 08.05.2026 (15 % Rabatt)]
+.beam[[![:scale 20%](img/jcon.png)](https://jcon.one/) &nbsp;20. - 23.04.2026 (kostenlos)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -154,11 +163,11 @@ CC0 Creative Commons: https://pixabay.com/de/frau-posen-e-learning-weiblich-1447
 - z. B. nächste JavaLand, aber auch gern andere, lokale Konferenzen
 - bei der JavaLand entweder klassisch über den normalen CfP oder über das Newcomer-Programm
 
----
+???
 
 background-image: url(img/cyberland_code_camp.png)
 
-.bottom[16.12.2026 - <i class="fa fa-external-link"></i> https://cyberland.ijug.eu/]
+.bottom[09.04.2026 - <i class="fa fa-external-link"></i> https://cyberland.ijug.eu/]
 
 ???
 
@@ -168,9 +177,12 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://tech2talk.de/]
 
-???
+---
 
 background-image: url(img/speakonf.jpg)
+
+.stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> Neuer Termin im Januar 2027]
+
 
 .bottom[Unkonferenz zu Public Speaking in der Tech-Branche.<br><i class="fa fa-external-link"></i> https://speakonf.de/]
 
@@ -287,10 +299,10 @@ Falk</textarea>
 
 ### Preise
 
-2x Lizenz für ein Jetbrains Tool  
-2x Buch Eurer Wahl vom Hanser Verlag  
+Lizenz für ein Jetbrains Tool  
+1x Buch Eurer Wahl vom dpunkt Verlag  
 
-![:scale 20%](img/sponsors/hanser.png) 
+![:scale 20%](img/sponsors/dpunkt.png) 
 ![:scale 10%](img/sponsors/jetbrains.png) 
 
 ???
@@ -342,9 +354,9 @@ https://tinyurl.com/jugda-feedback
 
 ### Nach dem Vortrag bleiben wir einfach hier. 
 
-Vielen Dank an die h_da.
+Vielen Dank an die DICOS.
 
-.center[![:scale 20%](img/sponsors/h_da.png)]
+.center[![:scale 20%](img/sponsors/dicos.svg)]
 
 
 ???
