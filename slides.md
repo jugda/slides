@@ -26,8 +26,8 @@ background-color: #ff0000;
 
   |  |  | 
 ------------- |------------- |------------- | -------------
-**27.08.2026** | <i class="fa fa-building"></i> | Softwerkskammer: Elephant Carpacio (Tom Asel) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 **17.09.2026** | <i class="fa fa-building"></i> | Quarkus und LLM (Marco Klaaßen) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
+**27.08.2026** | <i class="fa fa-building"></i> | Doppelvortrag: Value Objects + Java and AI (**bei SAP in Walldorf!!**) | [<i class="fa fa-external-link"></i>](https://www.jug-da.de/) |
 
 
 .footnote[Veranstaltungsort: <i class="fa fa-globe"></i> Online / <i class="fa fa-university"></i> TU Darmstadt / <i class="fa fa-building"></i> Sponsor]
@@ -123,12 +123,12 @@ background-image: url(img/grillplatz.jpg)
 .stripe[<i class="fa fa-bullhorn" aria-hidden="true"></i> 11. JUG Darmstadt Barbecue]
 .stripe[<i class="fa fa-calendar" aria-hidden="true"></i> 01.07.2026]
 
-???
+---
 
 ## <i class="fa fa-bullhorn"></i> Weitere Veranstaltungen
 
-..beam[[![:scale 20%](img/jax.png)](https://jax.de/) &nbsp;04. - 08.05.2026 (15 % Rabatt)]
-.beam[[![:scale 20%](img/jcon.png)](https://jcon.one/) &nbsp;20. - 23.04.2026 (kostenlos)]
+..beam[[![:scale 20%](img/sag.png)](https://www.software-architecture-gathering.com/) &nbsp;16. - 19.11.2026 (20 % Rabatt)]
+.beam[[![:scale 20%](img/ittage.png)](https://ittage.informatik-aktuell.de/) &nbsp;07. - 10.12.2026 (20 % Rabatt)]
 
 ### Rabattcodes über orga@jug-da.de
 
@@ -177,7 +177,7 @@ background-image: url(img/developeronstage.jpg)
 
 .bottom[Je 4 einstündige Online-Coachings im Juni und November<br><i class="fa fa-external-link"></i> https://tech2talk.de/]
 
----
+???
 
 background-image: url(img/speakonf.jpg)
 
@@ -257,7 +257,7 @@ background-image: url(img/softwerkskammer.png)
 &nbsp;
 
 <p class="sponsoren">
-![:scale 20%](img/sponsors/tud.png)
+![:scale 20%](img/sponsors/h_da.png)
 ![:scale 20%](img/sponsors/sus.png)
 ![:scale 20%](img/sponsors/idea.png)
 ![:scale 20%](img/sponsors/dpunkt.png)
@@ -269,8 +269,8 @@ background-image: url(img/softwerkskammer.png)
 ![:scale 20%](img/sponsors/cosee.png)
 ![:scale 20%](img/sponsors/gi.png)
 ![:scale 20%](img/sponsors/qaware.png)
-![:scale 20%](img/sponsors/nterra.png)
-![:scale 20%](img/sponsors/bsi.png)
+![:scale 20%](img/sponsors/dicos.svg)
+![:scale 20%](img/sponsors/maibornwolff.svg)
 ![:scale 20%](img/sponsors/andrena.png)
 ![:scale 20%](img/sponsors/cowo21.png)
 </p>
@@ -354,9 +354,9 @@ https://tinyurl.com/jugda-feedback
 
 ### Nach dem Vortrag bleiben wir einfach hier. 
 
-Vielen Dank an die DICOS.
+Vielen Dank an die MaibornWolff.
 
-.center[![:scale 20%](img/sponsors/dicos.svg)]
+.center[![:scale 20%](img/sponsors/maibornwolff.svg)]
 
 
 ???
